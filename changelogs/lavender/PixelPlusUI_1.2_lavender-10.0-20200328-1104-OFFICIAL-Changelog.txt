@@ -1,0 +1,9 @@
+=======================
+     2020/03/28
+=======================
+
+Device changes:
+* Removed Google Camera
+* Update Blobs
+* Minor changes
+* Change stock kernel to Predator 5.8 Old Cam
