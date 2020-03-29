@@ -1,0 +1,15 @@
+=======================
+     2020/03/29
+=======================
+
+- Allow Settings to read SELinux Status
+- Show link to Google Play on Installed App Settings
+- Use enhanced battery prediction from Turbo
+- Open advanced usage on header click
+- Always disable rotation on lockscreen
+- Reworked on VoLTE icon
+- Add unlinked ringtone and notification volumes
+- Minor unlinked ring & notification volumes code fixup
+- Enforcing SELinux
+- Updated SEPolicy
+- Kernel upstreamed to 4.9.217
