@@ -1,0 +1,68 @@
+=======================
+     2020/05/30
+=======================
+
+Device Side:
+- Updated Media Blob from QKQ1.190915.002 20.4.27 
+- Faster Fingerprint Unlock
+- Some Tweaks for performance and battery backup
+- Updated Dirac vector icons to MD2 versions
+- Enable VoWIFI/ViLTE for more carriers
+- Better Audio Output
+- Updated fingerprint blobs from QKQ1.190915.002 20.4.27
+- Fixed Root Showing In Banking Apps even when there is nio magisk 
+- Anx Cam latest v182 Added fully working stable 
+- Little bit rendering and optimisation
+- Updated to Latest Azure kernel
+- Increase call volume & media steps 
+- Updated MIUI Media Q Release (Thanks to ujjwalkirorimal)
+- Addressed some sepolicy
+- Updated to flame fingerprint May patch
+- Improve top-app stune boosting
+- Improved Charging Speed 
+- Improved Thermals
+- Added Pixel Latest live Wallpapers
+- Now Faster App Opening on Oneplus Launcher too
+
+
+Source Side:
+- Merged Latest May Security Patch
+- Tweak R style notification a bit
+- Added Gaming mode
+- Fixed Notification icon issues "dot" showing
+- Added More Walls in PixelPlusUI Wallpaper App
+- New OTA updater from PE
+- Less boring heads up option 
+- Added HeadsUp all function
+- Added OOS style network traffic indicator
+- Make 'R style' notification headers toggleable 
+- Introduce adjustable blur intensity
+- Switch back to Previous Qs tile Look
+- Refresh QS drag handle look
+- Added Auto brightness icon on QS panel
+- blur: increase radius, remove it in landscape && improve animation
+- Added Fonts from Pie
+- Added DataSwitch Toggle
+- Added some fonts from bootleg
+- Blur Behind Power Menu
+- Aosp Font Engine added
+- Face unlock added
+- Added hide Protect sensitive info on About section
+- Added a lot of fonts like ReemKufi, Cosmic Sans
+- Added slashes on qs tiles
+- A New switchbar Added
+- Fixed freeform window moving/resizing doesn't work
+- Moved brightness slider to the bottom
+- Brightness slider on QS footer and modified brightness slider icon 
+- Added Color qs tiles 
+- Added Usb plug in charging animation 
+- Allow user to add/remove QS with one click
+- Make QS Status font bolder and bigger 
+- Media seekbar improvements
+- Animate drag handle on footer
+- Dont turn off bluetooth when airplane mode turned on
+- Show user icon and settings icon on Qs/qqs
+- Many Misc Improvements on scrolling and smoothness
+- Brand New BOOTANIMATION added (Thanks to @SlasherXD & @andrewbawitlung)
+- Added Bluetooth device battery level in status bar 
+- Added Heads Up Tiles in QS
