@@ -1,0 +1,318 @@
+=======================
+     2020/06/13
+=======================
+
+
+   * frameworks/base/
+0f3bf2a20e0 Revert "base: Remove face unlock"
+70a94bd45f1 Improve gesture navigation handle length [1/2]
+43000d5fc0b base: wrap the size of the navigation handle
+
+   * manifest/
+87e91d7 manifest: Stop tracking device repos
+
+   * packages/apps/Settings/
+3015464a84 Settings: Update Pixelizer Icon
+75cf048496 Settings: Improve gesture navigation handle length [2/2]
+8bc219c5b9 Phone ringtone setting for Multi SIM device
+
+   * packages/services/Telecomm/
+62c9ac0b Merge pull request #1 from PixelPlusUI-WIP/ten
+
+   * vendor/aosp/
+5d8af1eb vendor: Bump version to 1.5
+
+=======================
+     2020/06/12
+=======================
+
+
+   * frameworks/base/
+6ff553e1884 Merge pull request #13 from PixelPlusUI-WIP/ten
+e09057ffe42 SystemUI: Improve EnhancedEstimatesGoogleImpl
+b48eaf3b149 Revert "Hide gradient behind QS"
+e30d15aa805 Add colors to assistant animation
+866235e881d SystemUI: Remove annoying log caused by aosp bug
+0f74dba77f6 base: SystemUI: Switch to OOS drawables for navbar icons
+9f1cde9bac2 QS: vibrate on QS tile click
+7e8516d7f67 base: Add Pixel UI
+682ebd17d54 SystemUI: Add method for getting estimated battery time
+71005baaf7f call log limit 500=>5000
+fcd3b8b5ee0 BT: Adding aptX-Adaptive codec entry to Framework
+ca112ef687c base: SystemUI: enhance calendar link
+c0714e20c1a Fix WebView vulnerability by disallowing file access
+188bdc3c50f base: Use MD2 icon for missed call notification
+dfa1ab55721 Add button to AppErrorDialog to upload crash information to dogbin
+21f628d96c7 Fix: Media volume bar indicates a wrong value
+3776645deae base: Change default QS rows to 4
+498000c89dd base: SystemUI: make QS columns count configurable
+e2fbbc0492d Accents: add MIUI accent color
+db39738f328 overlays: Add PornHub accent color overlay
+14afdcf032a Accents: Add new accent colors for Q Change-Id: I738ef4eb17483c3c78b84672db08b0e6e102831d
+0693080ced5 base: Update few drawables
+5f3da2432cc base: Update ic_doc_folder drawable to MD2
+1352b7a6a49 base: Update some icons to MD2
+dfc9155cdd5 Back to normal QS drag handle look
+b9d633ef708 Phone ringtone setting for Multi SIM device
+30d6e0d92a7 Add Sound tile to Quick Settings
+444e7aba96d base: Fix notification LED blink for missed calls
+554a0892e81 AODTile: Open ambient display settings on long click
+a47e46a1462 SystemUI: Don't forcefully convert wallpaper to SRGB
+0338157b78e LTE+ indicator not shown when attached to CA network
+a5e2da39fa9 Always notify listeners when switching mobile data in QS
+df3c8846e9b Make USB-Debugging notification less important
+fd694a52ef8 SystemUI: use DOUBLE_TAP_TO_WAKE setting also for wake from aod
+82965c93888 SystemUI: Initialize proper visibility for notification icons container
+
+   * manifest/
+fc140af manifest: Track vendor_gapps from PPUI GitLab
+
+   * packages/apps/Settings/
+dff90c596b fuelgauge: Implement Early Warnings
+171322f5d0 Adapative brightness: Fix summary fuckery
+b3a67dae8c Settings Icons: add VPN icon
+874b54f9c3 Suggestion cards: align them to searchbar
+0d4823fa63 Settings: show battery times vertically below the title
+f14a312b33 Settings: Add Pixel UI
+ab54d7c0bc Match contextual card side margin with search bar
+4a2c4c67f9 Settings: Update raw animations and drawables from Pixel 4 XL
+d8b2ba3ca4 Center the suggestion card button
+b5b3730037 Settings: Add drawable for Private DNS
+33bb1af941 Open app when clicking on icon in App Info
+b538fed727 Fix crash when going back from battery
+f5dd0dda73 fuelgauge: add back battery level animation
+13e3a3bb12 Settings: New icons
+
+   * packages/providers/MediaProvider/
+c09e68a MediaProvider: Fix sorting by DATE_TAKEN
+
+   * vendor/aosp/
+a2765527 Merge pull request #3 from PixelPlusUI-WIP/violet
+16899acc kernel: Setup LLVM environment variables for newer clang
+add0c966 aosp: Drop APN configs
+
+   * vendor/gapps/
+12c82de gapps: Build PPUI Calculator, instead of Google Calculator
+
+   * vendor/pixelstyle/
+076a4ab Merge pull request #4 from PixelPlusUI-WIP/ten
+
+=======================
+     2020/06/11
+=======================
+
+
+   * frameworks/base/
+a1359ce0e8c base: allow for customizing the length of the navigation handle [1/2]
+
+   * packages/apps/Settings/
+48611018a0 Settings: allow for customizing the length of the navigation handle [2/2]
+a75abe9f57 Settings: Add back gesture haptic feedback toggle [2/2]
+9549fc2e8a Settings: Fix textApperance of our modified gesture dialog
+4bf811533b Settings: Move the hide pill toggle to gesture settings dialog
+5b8c53cd95 Settings: Allow to hide arrow for back gesture [2/2]
+
+   * packages/services/Telecomm/
+435ff20c Phone ringtone setting for Multi SIM device
+
+   * system/netd/
+a23be449 system/netd: Squash of app fw restriction commits
+
+   * vendor/pixelstyle/
+58f63f0 pixelstyle: Update carrier databases
+29de6b6 pixelstyle: Ship CarrierSettings, replacing apns-conf and CarrierConfig
+d047090 overlay: Allow all apps to use smart replies
+12add57 Update apps from QQ3A.200605.001
+
+=======================
+     2020/06/10
+=======================
+
+
+   * frameworks/base/
+d97341f2983 fw/b: Squash of app fw restriction commits
+9309a391414 Allow to hide arrow for back gesture [1/2]
+dbd349a6dc3 base: navigation mode settings [1/2]
+8482088b648 base: Add back gesture haptic feedback toggle [1/2]
+421427b6254 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/frameworks/base into HEAD
+
+   * packages/apps/Settings/
+4e734b6e3c Settings: navigation mode settings [2/2]
+62d92d7866 Settings: per-app cellular data, vpn and wifi restrictions
+e08a99f9c4 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/apps/Settings into HEAD
+8d24e5095a Settings: Bring back Gaming mode [2/3]
+b76f3d8a32 Settings: Disable dashboards conditions and suggestions (2/3)
+
+=======================
+     2020/06/09
+=======================
+
+
+   * frameworks/native/
+9de6a5bae Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/frameworks/native into HEAD
+34f01147e Correct PowerManager transaction IDs. These transaction IDs must be kept in sync with the method order from IPowerManager.aidl.
+84fcfac92 Don't destroy ART profiles after package move.
+6466542c6 Add a separate flag in the installer for keeping ART profiles
+
+   * packages/apps/ConfigCenter/
+5aa66fa ConfigCenter: Allow to disable qs footer warnings [2/2]
+e80047f ConfigCenter: Add Turkish Translation
+
+   * vendor/aosp/
+fd0100a2 vendor: soong: add target_needs_client_info
+
+=======================
+     2020/06/08
+=======================
+
+
+=======================
+     2020/06/07
+=======================
+
+   * art/
+024661386c Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/art into HEAD
+
+   * bootable/recovery/
+0d16ec00 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/bootable/recovery into HEAD
+f6c31b30 otautil: add support for unmounting entire volumes
+e59ab9b3 recovery: allow A/B updater to downgrade
+c13c1798 recovery: use ensure_volume_unmounted in format_volume
+0a937ba1 recovery: fixup `Add runtime checks for A/B vs traditional updates`
+1d7a6642 recovery: Add runtime checks for A/B vs traditional updates
+1ce10a90 recovery: clean up ask_to_continue_unverified
+
+   * build/make/
+c8aaba403 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/build into HEAD
+
+   * build/soong/
+69074fc8 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/build/soong into HEAD
+
+   * development/
+cf038d933 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/development into HEAD
+
+   * frameworks/opt/net/wifi/
+1249f9ab6 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/frameworks/opt/net/wifi into HEAD
+
+   * frameworks/opt/telephony/
+ba8eeb4f1 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/frameworks/opt/telephony into HEAD
+
+   * hardware/interfaces/
+19044079d Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/hardware/interfaces into HEAD
+
+   * manifest/
+ac99914 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/manifest into HEAD
+
+   * packages/apps/Bluetooth/
+006ea6e1 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/apps/Bluetooth into HEAD
+
+   * packages/services/Telecomm/
+18730717 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/services/Telecomm into HEAD
+
+   * packages/services/Telephony/
+ad65b5087 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/services/Telephony into HEAD
+
+   * platform_testing/
+4f4b877e Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/platform_testing into HEAD
+
+   * system/bt/
+edba022fe Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/system/bt into HEAD
+
+   * system/core/
+edacfe412 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/system/core into HEAD
+
+   * system/sepolicy/
+a549b5f4 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/system/sepolicy into HEAD
+
+   * system/vold/
+519bb57 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/system/vold into HEAD
+
+=======================
+     2020/06/06
+=======================
+
+
+   * packages/apps/ConfigCenter/
+ea4f244 ConfigCenter: Import new translations
+
+=======================
+     2020/06/05
+=======================
+
+
+=======================
+     2020/06/04
+=======================
+
+
+   * frameworks/av/
+050c59836 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/frameworks/av into HEAD
+
+   * hardware/nxp/nfc/
+c92e466 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/hardware/nxp/nfc into HEAD
+
+   * hardware/qcom/audio/
+f8d9a0e Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/hardware/qcom/audio into HEAD
+
+   * hardware/qcom/display/
+6b02f5d6 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/hardware/qcom/display into HEAD
+
+   * hardware/qcom/media/
+5cf1d12 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/hardware/qcom/media into HEAD
+
+   * hardware/qcom/sdm845/media/
+1751d4e1 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/hardware/qcom/sdm845/media into HEAD
+
+   * packages/apps/Camera2/
+ed448ffaa Camera2: Fix crash when app requesting intent has requested no permisions.
+14b49a562 Dismiss keyguard when opening settings
+
+   * packages/apps/Nfc/
+19eec7ae Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/apps/Nfc into HEAD
+5561854a Fix style name DialogAlertDayNight
+1c260674 Add dark mode support for AlertDialog
+
+   * packages/apps/Traceur/
+45ebdb6 Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/apps/Traceur into HEAD
+
+   * packages/providers/DownloadProvider/
+3fbe4b7a Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/providers/DownloadProvider into HEAD
+ae78c2f2 Automatic translation import
+5e4615f1 Fix "Invalid columns in request:" errors, when there are multiple columns
+d786d368 Switch from deprecated/removed JobInfo method.
+4f0a79f6 Trigger mediascan after a download is completed.
+
+   * packages/providers/MediaProvider/
+c4264ea Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/providers/MediaProvider into HEAD
+
+   * packages/services/BuiltInPrintService/
+2d1aa3a Merge tag 'android-10.0.0_r37' of https://android.googlesource.com/platform/packages/services/BuiltInPrintService into HEAD
+ce08c04 Automatic translation import
+0c84be0 Restore MITM functionality
+
+=======================
+     2020/06/03
+=======================
+
+
+   * packages/apps/CertInstaller/
+8e202a2 Merge tag 'android-10.0.0_r37' into staging/lineage-17.1_merge-android-10.0.0_r37
+
+=======================
+     2020/06/02
+=======================
+
+
+=======================
+     2020/06/01
+=======================
+
+
+   * external/selinux/
+5137b7db Don't require seinfo for privapps
+
+=======================
+     2020/05/31
+=======================
+
+
