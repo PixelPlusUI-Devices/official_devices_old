@@ -1,0 +1,20 @@
+{
+  "error": true,
+  "maintainers": [
+    {
+      "main_maintainer": true,
+      "github_username": "blackrow67",
+      "name": "Dogukan Gunacti"
+    }
+  ],
+  "donate_url": "https://del.dog/donateforppui.txt",
+  "website_url": "https://pixelplusui.github.io",
+  "news_url": "https://t.me/ppuich",
+  "datetime": 1614521220,
+  "filename": "PixelPlusUI_3.2_m1852-11.0-20210228-1407-OFFICIAL.zip",
+  "id": "d2e765484bb12d996a938688cd458d90169e75666da4e9a64a3a4afc3078de59",
+  "size": 1329686428,
+  "url": "https://sourceforge.net/projects/pixelplusui-project/files/eleven/m1852/PixelPlusUI_3.2_m1852-11.0-20210228-1407-OFFICIAL.zip/download",
+  "version": "Eleven",
+  "filehash": "bf0a6dc9f302fe6a78be21f8591dc7dd"
+}
