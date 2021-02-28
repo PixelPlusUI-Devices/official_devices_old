@@ -1,0 +1,20 @@
+{
+  "error": true,
+  "maintainers": [
+    {
+      "main_maintainer": true,
+      "github_username": "sarthakroy2002",
+      "name": "Sarthak"
+    }
+  ],
+  "donate_url": "https://del.dog/donateforppui.txt",
+  "website_url": "https://pixelplusui.github.io",
+  "news_url": "https://t.me/ppuich",
+  "datetime": 1614520980,
+  "filename": "PixelPlusUI_3.2_rmx2020-11.0-20210228-1403-OFFICIAL.zip",
+  "id": "65fee492e6c3d6074a926b038b1715955c32b5aaafe020b373c078241cc3703d",
+  "size": 1149730880,
+  "url": "https://sourceforge.net/projects/pixelplusui-project/files/Stable/rmx2020/PixelPlusUI_3.2_rmx2020-11.0-20210228-1403-OFFICIAL.zip/download",
+  "version": "Eleven",
+  "filehash": "543e8aa5e6d8ad5af812bcbbf61a2f55"
+}
