@@ -10,7 +10,7 @@ Xiaomi Mi A2            | Jasmine_Sprout                                        
 Zenfone Max Pro M1      | X00T                                                                     | Navin ( @NKTN30 )
 Poco M2 / Redmi Note 9* | miatoll                                                                  | PriQue ( @PriQue )
 Redmi Note 8 / 8T       | Ginkgo / Willow                                                          | Erwin (@erwinabs)
-Lenovo Z5s              | jd2019                                                                   | Husker ( @Husker19 )
+Lenovo Z5s              | jd2019                                                                   | Husker ( @HsyHusker )
 Realme X                | RMX1901                                                                  | Sanyam Taneja ( @BaabuBhaiyaa )
 Realme 2 Pro            | RMX1801                                                                  | Abhishek ( @allworkdone )
 OnePlus 3/3T            | Oneplus3                                                                 | Dinesh ( @dlasdl )

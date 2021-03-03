@@ -1,0 +1,20 @@
+{
+  "error": true,
+  "maintainers": [
+    {
+      "main_maintainer": true,
+      "github_username": "HsyHusker",
+      "name": "Husker"
+    }
+  ],
+  "donate_url": "https://del.dog/donateforppui.txt",
+  "website_url": "https://pixelplusui.github.io",
+  "news_url": "https://t.me/ppuich",
+  "datetime": 1614594600,
+  "filename": "PixelPlusUI_3.2_jd2019-11.0-20210301-1030-OFFICIAL.zip",
+  "id": "6b115cc92021ffcb59af9c2cdd638d3925162ab9962499d2a7122733b84bf179",
+  "size": 1147877903,
+  "url": "https://sourceforge.net/projects/pixelplusui-project/files/eleven/jd2019/PixelPlusUI_3.2_jd2019-11.0-20210301-1030-OFFICIAL.zip/download",
+  "version": "Eleven",
+  "filehash": "9082eec3024ddda76fdead0747fa8faa"
+}
