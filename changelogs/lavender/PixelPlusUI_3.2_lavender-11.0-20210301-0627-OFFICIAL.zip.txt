@@ -1,0 +1,3 @@
+[System]
+– New: Stable Android 11
+– Updated Android Security Patch to February 2021. Increased system security.

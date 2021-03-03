@@ -1,17 +1,22 @@
 {
-   "error": false,
-   "filename": "PixelPlusUI_1.5.1_lavender-10.0-20200612-2111-OFFICIAL.zip",
-   "datetime": 1591996260,
-   "size": 1198378756,
-   "url": "https://sourceforge.net/projects/pixelplusui-project/files/Stable/lavender/PixelPlusUI_1.5.1_lavender-10.0-20200612-2111-OFFICIAL.zip/download",
-   "filehash": "c936a67e5bd9dd27956d81675621aca1",
-   "version": "Ten",
-   "id": "d3d6b0937bec63230e1f9c3bca400a65bed03603dfcf4dff7cd2c33a262340e5",
-   "website_url": "https://t.me/ppuichat",
-   "news_url": "https://t.me/ppuich",
-   "donate_url": "https://del.dog/vyphyphoso",
-   "maintainer": "Alien",
-   "maintainer_url": "https://t.me/JustAlien"
+  "error": true,
+  "maintainers": [
+    {
+      "main_maintainer": true,
+      "github_username": "LinuxAlien",
+      "name": "Murad Zeynallı"
+    }
+  ],
+  "donate_url": "https://del.dog/donateforppui.txt",
+  "website_url": "https://pixelplusui.github.io",
+  "news_url": "https://t.me/ppuich",
+  "datetime": 1614521220,
+  "filename": "PixelPlusUI_3.2_lavender-11.0-20210301-0627-OFFICIAL.zip",
+  "id": "bd46c092f8beb72bf008718a13602515f807b3aa009b4a17593beaa93581effe ",
+  "size": 1413174387,
+  "url": "https://sourceforge.net/projects/pixelplusui-project/files/eleven/lavender/PixelPlusUI_3.2_lavender-11.0-20210301-0627-OFFICIAL.zip/download",
+  "version": "Eleven",
+  "filehash": "24c4e033df44c6b98d8bd6b4b8ea2313"
 }
 
 
