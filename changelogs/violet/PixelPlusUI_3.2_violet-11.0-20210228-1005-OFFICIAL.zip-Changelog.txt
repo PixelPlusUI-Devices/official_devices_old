@@ -1,0 +1,46 @@
+=======================
+     2021/02/28
+=======================
+
+- Added Long Screenshot
+- frameworks: Add unlinked ringtone and notification volumes
+- Keyguard: Forward port lockscreen quick unlock
+- Implement cutout force full screen
+- Many Tiles added ( Data Switch, AOD, Caffeine, Vpn , Sound , sync, heads up, etc)
+- Added Pixelizer
+- Added Face Unlock animation
+- Added Double tap to trigger doze
+- Twilight Service: Use temporary TwilightState when location is not available
+- Added Network Indicator from OOS
+- Added Double Tap To Sleep on Status Bar
+- Added Double Tap To Sleep on Lockscreen
+- Added Statusbar brightness control
+- Keep recent tasks for more time in memory
+- Enable fingerprint icon on keyguard view
+- Fingerprints: Increase MAX_FAILED_ATTEMPTS
+- Always disable rotation on lockscreen
+- Add and use Mobile Data panel
+- Added Reset battery stats Option
+- Lockscreen: Make Pinview Divider invisible
+- Battery : Redesign BatteryMeterView
+- fuelgauge: Add back battery level animation
+- prebuilt/common: add APN config for rakuten.jp
+- vendor: Don't downscale high-res task snapshots
+- Bump to new version 3.2 Update
+- Updated our PixelPlusUI Boot animation
+- ADDED OTA UPDATER
+- Fixes and Misc changes
+- ANXCamera is default camera
+- Switch Skia rendering backend to Vulkan
+- Fixed wired earphones button not working
+- Enable GL comp backpressure and blur
+- Moved parts to system
+- 2x Better Optimisation
+- Drop graphics layer memory buffer, HDR/WCG properties, perf daemon
+- Adapt to newer UCLAMP support
+- Add QTI health implementation
+- Do not collect I/O statistics on runtime
+- Added BassBoost in dirac
+- Updated prebuilt Azure R kernel
+- Jitter are almost between 0.01 - 0.3/4
+- Fixed IR
