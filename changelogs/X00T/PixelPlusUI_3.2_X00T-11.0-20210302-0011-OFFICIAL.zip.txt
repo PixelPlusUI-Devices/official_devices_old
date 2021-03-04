@@ -1,0 +1,9 @@
+[System]
+– tweaked  Powerhint to maximum
+- Now Ok google Works like charm
+- Dropped Soundtrigger hal in both system and vendor
+- Added Dolby Digital Plus for Crispier Audio
+- Default kernel : Stardust
+- Switched to Qti Power hal
+- Solved some Denials
+- Added MultiUser Support and set maximum number of multi user to 5
