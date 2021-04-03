@@ -16,4 +16,4 @@ Realme 2 Pro            | RMX1801                                               
 OnePlus 3/3T            | Oneplus3                                                                 | Dinesh ( @dlasdl )
 Meizu x8                | M1852                                                                    | Dogukan ( @blackrow67 )
 POCO X3                 | Surya                                                                    | Ijak ( @KmacQ )
-Realme C3/Narzo 10A/C3i | rmx2020                                                                  | Sarthak ( @sarthakroy2002 )
+Realme C3/Narzo 10A/C3i | RMX2020                                                                  | Sarthak ( @sarthakroy2002 )
