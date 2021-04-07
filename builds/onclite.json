@@ -1,17 +1,20 @@
 {
-   "datetime": 1617894980,
-   "donate_url": "",
-   "error": false,
-   "filehash": "2e85af5e0df6e4822ed0be10b48612e5",
-   "filename": "PixelPlusUI_3.3_onclite-11.0-20210407-1703-OFFICIAL.zip",
-   "forum_url": "https://forum.xda-developers.com/t/rom-onclite-11-0-0_r29-pixelplusui-v3-2-official.4070407/",
-   "id": "8f6fd6f15369784b8a0eea0dfd165f505188d929e0513acd2474d9bc39fd0896",
-   "maintainer": "KostyaJRZ",
-   "maintainer_url": "https://github.com/KostyaJRZ",
-   "news_url": "https://t.me/ppuinews",
-   "size": 1351514936,
-   "telegram_username": "KostyaJRZ",
-   "url": "https://github.com/PixelPlusUI-Devices/device_xiaomi_onclite/releases/download/3.3/PixelPlusUI_3.3_onclite-11.0-20210322-1137-OFFICIAL.zip",
-   "version": "Eleven",
-   "website_url": "https://pixelplusui.github.io"
+  "error": true,
+  "maintainers": [
+    {
+      "main_maintainer": true,
+      "github_username": "KostyaJRZ",
+      "name": "KostyaJRZ"
+    }
+  ],
+  "donate_url": "",
+  "website_url": "https://pixelplusui.github.io",
+  "news_url": "https://t.me/ppuich",
+  "datetime": 1614507540,
+  "filename": "PixelPlusUI_3.2_onclite-11.0-20210228-1019-OFFICIAL.zip",
+  "id": "e436ec7588e723addd149b00e3614c7b6a79d522f0d714fea6a20141e60e7740 ",
+  "size": 1316746183,
+  "url": "https://github.com/PixelPlusUI-Devices/device_xiaomi_onclite/releases/download/3.2/PixelPlusUI_3.2_onclite-11.0-20210228-1019-OFFICIAL.zip",
+  "version": "Eleven",
+  "filehash": "3d11d45543912ca74cf8ffb143243345"
 }
