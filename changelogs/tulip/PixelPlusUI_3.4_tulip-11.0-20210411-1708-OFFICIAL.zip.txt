@@ -1,0 +1,42 @@
+Mystic kernel upstreamed to 4.4.265
+Redfin FP Updated to April
+Disabled FBE encryption(no more forced FBE encryption)
+Fixed some camera denials
+Added Miui Camera
+Added standalone Dirac support
+Imported some perf blobs for better app launching times
+Added smart charging support
+Set fast charging indicator threshold to 10.8W 
+Updated blobs from LA.UM.8.2.r1-07500-sdm660.0
+Added vibration pattern from pixel 2
+Improved Camera Image Quality 
+Fixed stereo audio recording
+Some WI-FI Related Changes for better connectivity
+wlan: Smarter decisions on whether to use a 2GHz or 5GHz AP
+Disabled GPU protected composition
+Fixed mic issues in apps like WhatsApp
+Switched to sdfat driver for exfat  
+Updated korean translation
+Add Incall vibration options
+Added Toggle for QS Tint
+Added Incall vibration options
+Wire up default fonts with font engine
+QS: Show date below QSclock
+CarrierConfigManager: enable LTE+ icon by default
+Ask pin for shutdown/reboot on secure lockscreen 
+Allow using 4G icon instead LTE 
+SystemUI: Add activity indicators to wifi icon
+SystemUI: Implement OOS-style small data type icons
+QS: Decrease date size a little in small QS
+Port long screenshot implementation from Asus
+Added MNML, Orono, Shapeshift clock 
+Added Custom Spectrum Analog Clock
+Added Custom Sneeky Analog Clock 
+wall: New Wall for New Version 3.4 
+ThemePicker: Remove unwanted space under clock faces container
+Added Screen off animations 
+QS: fix height and size of clock
+Added Smart Cutoff
+Increased Stability and overall performance 
+Misc Changes and Fixes
+
