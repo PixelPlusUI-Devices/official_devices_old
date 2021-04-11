@@ -1,0 +1,12 @@
+Now you can enjoy Distortion-Free, Clean & Crisp High Quality Audio at higher vol
+Added Smart Charging
+April Patch Merged r34
+Fixed echo on VoIP calls
+Fixed bootloop issues below 10% battery
+More fluidity while maintaining the battery consumption
+Around ~30m more battery backup
+2x Faster App Opening and Snappy UI
+Many chnages and fixes on kernel side
+Reworked & Fixed UI Issues
+Add Incall vibration options
+Added Toggle for QS Tint
