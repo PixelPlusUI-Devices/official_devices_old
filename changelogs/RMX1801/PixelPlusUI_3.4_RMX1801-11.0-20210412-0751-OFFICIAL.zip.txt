@@ -1,0 +1,4 @@
+Fixed Traffic indicator Not showing
+Build with latest April r34 patch
+Build with new Avalanche kernel 4.4.265
+Enforcing Build
