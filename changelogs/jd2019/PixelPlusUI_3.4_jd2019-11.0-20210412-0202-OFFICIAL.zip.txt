@@ -1,0 +1,3 @@
+Disabled HDR10
+Removed thermal config
+Misc Changes and Fixes
