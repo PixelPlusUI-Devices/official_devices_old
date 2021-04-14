@@ -1,0 +1,10 @@
+  
+=======================
+     2021/04/14
+=======================
+
+- April security patch
+- Better RAM management
+- Better perfomance
+- Fixed random lags on SystemUI
+- Better multitasking
