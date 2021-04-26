@@ -1,0 +1,7 @@
+*  Register and enable qcrild & data services on boot 
+* Force triple frame buffers 
+* Fixed some rare issues of heating 
+* Fixed Wired headphones and speakers stuck on max volume 
+* Update Prebuilt kernel 
+* Tree Clean up and Misc Changes and fixes
+* Source Side Fixes and Changes

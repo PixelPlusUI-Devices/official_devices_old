@@ -1,17 +1,17 @@
 {
-   "datetime": 1618136880,
+   "datetime": 1619326620,
    "donate_url": "https://del.dog/donateforppui.txt",
    "error": false,
-   "filehash": "9ef75e64a4c5dfd62279c7cbe7584f20",
-   "filename": "PixelPlusUI_3.4_violet-11.0-20210411-1028-OFFICIAL.zip",
+   "filehash": "3402a087dde87ba3c5961756dc5e6acf",
+   "filename": "PixelPlusUI_3.4_violet-11.0-20210425-0457-OFFICIAL.zip",
    "forum_url": "https://forum.xda-developers.com/t/rom-11-0-violet-pixelplusui-official-eleven-aosp.4221997/",
-   "id": "f2b8ea51198d49e1ef954b9a94d562a5752dee5c218951fdd872bc4dcb2f7b5b",
+   "id": "396c05e5071d13a273d3060f240e5c65c3fad94b17f82bfcbcf34fd347ca1280",
    "maintainer": "Saurav",
    "maintainer_url": "https://github.com/ugly-kid-af",
    "news_url": "https://t.me/ppuinews",
-   "size": 1676804587,
+   "size": 1676863969,
    "telegram_username": "ugly_kid_af",
-   "url": "https://sourceforge.net/projects/pixelplusui-project/files/eleven/violet/PixelPlusUI_3.4_violet-11.0-20210411-1028-OFFICIAL.zip/download",
+   "url": "https://sourceforge.net/projects/pixelplusui-project/files/eleven/violet/PixelPlusUI_3.4_violet-11.0-20210425-0457-OFFICIAL.zip/download",
    "version": "Eleven",
    "website_url": "https://pixelplusui.github.io"
 }
