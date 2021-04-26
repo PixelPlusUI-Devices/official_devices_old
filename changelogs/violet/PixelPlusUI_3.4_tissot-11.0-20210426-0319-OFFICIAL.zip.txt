@@ -1,0 +1,4 @@
+Fixed Device not going to deep sleep
+Enable New Google Keyboard Theme and Rounded Corners 
+Misc Changes and Fixes
+
