@@ -1,0 +1,10 @@
+* Nuked Violet Parts and moved DIRAC to Sound Tab
+* Added FPS QS tile
+* Implemented Clear Speakers in Sound Tab
+* Improved the battery backup by ~30min
+* Enable USB Fast Charge up to 900ma by default
+* violet: Cleanup NFC leftover
+* Don't show Mobile plan preference item 
+* Sound Quality Enhancement 
+* Update Pre-built kernel
+* Tree Clean up & Misc changes & Fixes
