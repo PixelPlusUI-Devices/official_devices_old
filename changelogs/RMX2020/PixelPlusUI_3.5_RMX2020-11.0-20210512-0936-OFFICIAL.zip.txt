@@ -1,0 +1,8 @@
+Enforcing + encrypted
+Fixed Offline Charging animation
+Address more Denials
+Added Notch-killer overlay (developer options -> Cutout-> Notch-Killer)
+Define rounded corners
+Allow all apps to use smart replies 
+Update GCam Go to v1.9 from Greatness
+DT2W fixed in kernel build (toggle in Realme Settings)
