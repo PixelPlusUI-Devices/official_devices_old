@@ -9,25 +9,33 @@ Redmi 3s (land) by Marvel
 Redmi 5 (rosy) by Ebin
 Redmi 7 (onclite) by KostyaJRZ
 Redmi 9 (lancelot) by Box-boi
+Redmi Y2 (ysl) by Sushmit
 Redmi Note 4 (mido) by Apon
 Redmi Note 5 Pro (whyred) by Salman
 Redmi Note 6 Pro (tulip) by Mustafa 
 Redmi Note 7/7s (lavender) by Zaid
 Redmi Note 7 Pro (violet) by Saurav
 Redmi Note 8/8T (ginkgo/willow) by Erwin 
+Redmi Note 8 Pro (begonia) by Zinadin 
 Redmi Note 9 (merlin) by Box Boi
+Redmi Note 9S (curtana_global) by Edgars
+Redmi Note 9 Pro (curtana/joyeuse/excalibur) by Edgars
 ```
 
 ## - Xiaomi (Poco Series)
 ```bash
 Xiaomi Poco F1 (beryllium) by David
+Xiaomi Poco X2 (phoenix) by Kunal
 Xiaomi Poco X3 (Surya) by Rizak
-Xiaomi Poco M2 (shiva) by Box-boi
+Xiaomi Poco M2 (shiva) by Zubair
+Xiaomi Poco M2 pro (Gram) by Edgars
 ```
 
 ## - Xiaomi (Mi Series)
 ```bash
+Xiaomi Mi A1 (tissot) by Saurav
 Xiaomi Mi A2 (Jasmine_sprout) by Rahul
+Xiaomi Mi 6X (wayne) by Christian
 ```
 
 ## - Lenovo Devices
@@ -44,14 +52,19 @@ OnePlus 3/3T (oneplus3) by Dinesh
 ```bash
 Realme 1  (CPH1859/61) by Debayan
 Realme 3/3i by Eyvd  
+Realme 5/5i/5s (RMX1911/1925/2030) by Utkarsh
+Realme 7/Narzo 20 Pro (RMX2151) by Sarthak
 Realme 2 Pro (RMX1801) by Abhishek
-Realme c3/c3i/narzo 10a (rmx2020) by Sarthak
+Realme 3 Pro (RMX1851) by Nikhil
+Realme C2 (RMX1941) by Abhishek & Sakthivel
+Realme C3/C3i/Narzo 10a (rmx2020) by Sarthak
 Realme C11/C12 (RMX2185) by Aryan
-Realme X (RMX1901) by Sanyam
+Realme U1 (RMX1831) by Lokesh
 ```
 
 ## - Moto Devices
 ```bash
+Moto G5 Plus (potter) by Zilberto Jr
 Moto G5S+ (sanders) by Satham
 ```
 
@@ -63,6 +76,7 @@ Meizu x8 (m1852) by Dogukan
 ## - Asus Devices
 ```bash
 Asus Zenfone Max Pro M1 (X00TD) by Rajat
+Asus Zenfone Max Shot/Plus M2 (A001D) by Matheus
 ```
 
 # Maintainership 
