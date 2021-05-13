@@ -1,0 +1,20 @@
+- Update FP for May SPL 
+- Restore Audio Hal v6.0
+- Remove Unsupported Flags From fstab_A
+- Fix SmartCharging
+- Remove Config No Sim Display Network Modes overlay
+- Remove Send Mic Mute To AudioManager Overlay
+- Fix Random Lags 
+- Fix Battery Drain Issue 
+- Fix L1 (netflix wen?)
+- Fix Network Indicator
+- Fix Battery Drain Issue
+- Sync With Latest Source 
+- Change DeviceSettings Icon 
+- Remove Some Gapps Shit 
+- Performance And Stability Improvements
+- Add SimpleDeviceConfig From Proton
+- Configure dext2oat for pre-optimization
+- Set Fast Charging Indicator Threshold To 10.8W
+- Enable TARGET QTI USB Supports Audio Accessory
+- Update Time services blobs from LA.UM.9.2.r1-01800-SDMxx0.0
