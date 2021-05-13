@@ -1,0 +1,10 @@
+Switched to Halcyon kernel 
+Updated WFD and Time blobs from LA.UM.9.2.r1-01800-SDMxx0.0
+Switched back to audio HAL v6
+Improved GPS response time
+Tuned down schedtune boost ~saves some battery
+Improved apps launch time by a notable change
+Allocated zRAM values dynamically
+Added proper support for 5GHz hotspot
+Updated libmisoundfx from ginkgo
+Updated BT (aptX) from phoenix_sprout-11-RKQ1.201123.002
