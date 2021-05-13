@@ -1,17 +1,17 @@
 {
-   "datetime": 1618160880,
+   "datetime": 1620848460,
    "donate_url": "https://del.dog/donateforppui.txt",
    "error": false,
-   "filehash": "2a34ce05f8740ee5e67173fce2242c61",
-   "filename": "PixelPlusUI_3.4_tulip-11.0-20210411-1708-OFFICIAL.zip",
+   "filehash": "acc084cc4e610e5e6befaa9b33dcee13",
+   "filename": "PixelPlusUI_3.5_tulip-11.0-20210512-1941-OFFICIAL.zip",
    "forum_url": "https://forum.xda-developers.com/t/rom-11-0-tulip-pixelplusui-official-eleven-aosp.4251241/",
-   "id": "5b05360c50ac83451b8d51c5bee226fe7230f55f2a3ed6e95b54a9485e9ce057",
+   "id": "0493d06b3190a43a1cf2adb7aa94d15a7f8689b5a917fc6ce0ae334b27a758f5",
    "maintainer": "Mustafa",
    "maintainer_url": "https://github.com/muti605",
    "news_url": "https://t.me/ppuinews",
-   "size": 1304221050,
+   "size": 1304744266,
    "telegram_username": "muti605",
-   "url": "https://sourceforge.net/projects/pixelplusui-project/files/eleven/tulip/PixelPlusUI_3.4_tulip-11.0-20210411-1708-OFFICIAL.zip/download",
+   "url": "https://sourceforge.net/projects/pixelplusui-project/files/eleven/tulip/PixelPlusUI_3.5_tulip-11.0-20210512-1941-OFFICIAL.zip/download",
    "version": "Eleven",
-   "website_url": "https://pixelplusui.github.io"
+   "website_url": "https://pixie-codes.github.io/pixelplusui/home"
 }
