@@ -1,0 +1,4 @@
+* Add prebuilt YouTube Vanced (update via Play Store if not desired)
+* Replaced prebuilt camera with  MGC_8.1.101_A9_PV0h_snap GCam
+* Fixed Smart Charging
+* Misc Changes and Fixes
