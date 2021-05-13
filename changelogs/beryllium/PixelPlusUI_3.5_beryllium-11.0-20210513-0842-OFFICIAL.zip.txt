@@ -1,0 +1,11 @@
+Merged May FP
+Switch AIDL Light Hal
+Fixed Low Notification LED
+Enable Incall Music Support
+Added Notch-Killer (developer options) and Some Notch fixes 
+Update CNE,IMS,QMI & RIL blobs from Pyxis
+Update WFD, DPM & DRM blobs from Pyxis
+Allow All Apps To Use Smart Replies
+Added Sim Toggles
+Added Bass Booster Preset for MiSound
+Enabled HDR Wherever Supported
