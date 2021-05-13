@@ -1,22 +1,16 @@
 {
-  "error": true,
-  "maintainers": [
-    {
-      "main_maintainer": true,
-      "github_username": "LinuxAlien",
-      "name": "Murad Zeynallı"
-    }
-  ],
-  "donate_url": "https://del.dog/donateforppui.txt",
-  "website_url": "https://pixelplusui.github.io",
-  "news_url": "https://t.me/ppuich",
-  "datetime": 1614521220,
-  "filename": "PixelPlusUI_3.2_lavender-11.0-20210301-0627-OFFICIAL.zip",
-  "id": "bd46c092f8beb72bf008718a13602515f807b3aa009b4a17593beaa93581effe ",
-  "size": 1413174387,
-  "url": "https://sourceforge.net/projects/pixelplusui-project/files/eleven/lavender/PixelPlusUI_3.2_lavender-11.0-20210301-0627-OFFICIAL.zip/download",
-  "version": "Eleven",
-  "filehash": "24c4e033df44c6b98d8bd6b4b8ea2313"
+   "datetime": 1620868260,
+   "donate_url": "https://del.dog/donateforppui.txt",
+   "error": false,
+   "filehasg": "d55cd67f25c0673c2d176abd591aa5c4",
+   "filename": "PixelPlusUI_3.5_lavender-11.0-20210513-0111-OFFICIAL.zip",
+   "id": "cd8b482be60fb4b6d1be0f32983cf6497eac1f5a13056b406897192f8f0f0732",
+   "maintainer": "ZAID KHAN",
+   "maintainer_url": "https://github.com/zaidkhan0997",
+   "news_url": "https://t.me/ppuinews",
+   "size": 1434539109,
+   "telegram_username": "zaidkhan0997",
+   "url": "https://sourceforge.net/projects/pixelplusui-project/files/eleven/lavender/PixelPlusUI_3.5_lavender-11.0-20210513-0111-OFFICIAL.zip/download",
+   "version": "Eleven",
+   "website_url": "https://pixelplusui.github.io"
 }
-
-
