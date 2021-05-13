@@ -1,0 +1,11 @@
+=======================
+     2021/05/13
+=======================
+
+* May security patch
+* Addressed denials
+* FIxed late network registration
+* Fixed ok google detection
+* Added AOD
+* Added blurs (disabled by default)
+* Fixed Network Indicator not showing on status bar
