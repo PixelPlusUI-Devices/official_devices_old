@@ -1,0 +1,9 @@
+* Set TARGET_INPUTDISPATCHER_SKIP_EVENT_KEY 
+* Improved battery stats less idle drain
+* Added missing WFC overlay
+* Allow all apps to use smart replies
+* Enabled Smart Charging
+* Better GPS stability & accuracy 
+* Don't show Mobile plan preference item 
+* Improved Performance and Stability
+* Misc Changes and Fixes
