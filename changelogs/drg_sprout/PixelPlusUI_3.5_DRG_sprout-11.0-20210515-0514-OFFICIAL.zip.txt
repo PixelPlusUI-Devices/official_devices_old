@@ -1,0 +1,10 @@
+- Set TARGET_INPUTDISPATCHER_SKIP_EVENT_KEY
+- Enable New Google Keyboard Theme and Rounded Corners 
+- wlan: Smarter decisions on whether to use a 2Ghz or 5Ghz AP
+- wlan: Relax WiFi re-association RSSI thresholds
+- Switch to Qualcomm sound effects
+- Improved Performance and battery backup
+- Use custom vibration configs 
+- Add network traffic monitor on statusbar
+- Enable Smart Charging & AOD
+- Misc Changes and Fixes
