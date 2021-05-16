@@ -1,0 +1,19 @@
+Rootdir: Set up/doen_rate_us as 1000
+Add qrtr blobs
+Disable OEM unlock Toggle
+Move VNDK to vendor partition
+Switch to full VNDK
+Enable VNDK runtime isolation
+Add aptx from Redfin
+Overlay: Add proper support for 5GHZ Hotspot
+Update dex2oat config
+Configure dex2oat for pre-optimization
+Allow ueventd to set sys_nice capability
+Add required GPU props
+Sepolicy: Add vendor prefix to qcom_ims_prop
+Import adaptLaunch and some other perf
+Update Time Services from LA.UM.9.2.r1-01800-SDMxx0.0
+Fix sensorservice
+Overlay:Sync carrier config with LA.UM.8.2.r1-07500-SDM660.0
+Fixup vendor prefix for power_off_alarm
+Set quick qs offset height to status bar height
