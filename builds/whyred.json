@@ -1,15 +1,15 @@
 {
    "error": false,
-   "filename": "PixelPlusUI_1.5.1_whyred-10.0-20200613-0010-OFFICIAL.zip",
-   "datetime": 1591984800,
-   "size": 1080837187,
-   "url": "https://sourceforge.net/projects/pixelplusui-project/files/Stable/whyred/PixelPlusUI_1.5.1_whyred-10.0-20200613-0010-OFFICIAL.zip/download",
-   "filehash": "60c40d91c7dcb6e62e9b0c3009fd4a84b23ea2116449725e8adfeed233",
-   "version": "Ten",
-   "id": "d874624686800e94ed6d27fc66e0d71e",
-   "website_url": "https://t.me/ppuichat",
+   "filename": "PixelPlusUI_3.5_whyred-11.0-20210517-1418-OFFICIAL.zip",
+   "datetime": 1621261080,
+   "size": 1395626090,
+   "url": "https://sourceforge.net/projects/pixelplusui-project/files/eleven/whyred/PixelPlusUI_3.5_whyred-11.0-20210517-1418-OFFICIAL.zip/download",
+   "filehash": "ab49b20846f279ac518beb4f3698da01fe8cee569a62a1c5229505505736113b",
+   "version": "11-R",
+   "id": "32d2ab9b373d1b27a7118b8c290ec95c",
+   "website_url": "https://pixie-codes.github.io/pixelplusui",
    "news_url": "https://t.me/ppuich",
-   "donate_url": "paypal.me/ayushkakkar84",
-   "maintainer": "Ayushkakkar",
-   "maintainer_url": "https://t.me/aayu58"
+   "donate_url": "https://www.paypal.me/uglykid24",
+   "maintainer": "P.M.SALMAN KHAN",
+   "maintainer_url": "https://t.me/SALMAN_IS_HERE"
 }
