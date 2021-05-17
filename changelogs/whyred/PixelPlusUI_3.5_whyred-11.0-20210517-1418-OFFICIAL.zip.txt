@@ -1,0 +1,32 @@
+• Switched To User Build .
+• Added Oneplus Launcher & Shady Launcher .
+• Added OOS11 Apps .
+• Fixed WFD .
+• Update to May Fp From Redfin .
+• Overlay: Force network traffic monitor on statusbar .
+• Set TARGET_INPUTDISPATCHER_SKIP_EVENT_KEY .
+• Added Google Dailer With Call Recording Option .
+• Import AdaptLaunch and some other perf .
+• Tune Media Codecs & Fps Values .
+• Enable hfpclient support .
+• Configure SQLite to operate in MEMORY mode .
+• rootdir: Set up/down_rate_limit_us as 1000 .
+• Silence clang warnings during kernel compile .
+• Enable DFS channel scanning in P2P search .
+• Enable DFS channel scanning in P2P search .
+• Add fast input profile for the record concurrency .
+• XiaomiParts : Add dynamic thermal profile implementation .
+• XiaomiParts : Set dynamic thermal interval to 5 sec .
+• XiaomiParts : Add switchbar to disable dynamic thermal .
+• XiaomiParts : Switch to TaskStackListener .
+• XiaomiParts : Add ACTION_SCREEN_ON intent filter .
+• XiaomiParts : Display icon beside thermal profiles .
+• Bluetooth: Disable clean turn on .
+• Silence bt logspam .
+• overlay: Disable bluetooth by default .
+• Limit screen recorder to 60fps .
+• Add proper support for 5GHz hotspot .
+• Uprev Display Hal To V2.0 .
+• XiaomiParts : Send Thermal Profiles To Battery .
+• disable OMX.qcom.video.decoder.avc.secure .
+• Build With Prebuilt Strix EAS Kernel .
