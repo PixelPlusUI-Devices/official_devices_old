@@ -1,0 +1,10 @@
+Fixed Crackling Sound 
+Fixed Brightness 
+Fixed Notch 
+Switch to source built vendor.qti.hardware.perf@2.0 
+Improved Charging Speed 
+Added Smart Charging Support 
+Added Notch Killer Overlay 
+Added Support For RMX1927 
+Some Kernel Side Improvements
+Some Other Improvement
