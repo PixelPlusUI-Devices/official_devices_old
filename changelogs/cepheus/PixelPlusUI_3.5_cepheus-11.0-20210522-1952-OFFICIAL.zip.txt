@@ -1,0 +1,8 @@
+Add Smart Charging .     
+Fixed Styles&Wallpapers Issue .      
+Overlay: Force network traffic monitor on statusbar
+overlay: enable screen off fod
+Add overlay for masking the notch   
+Bluetooth: Disable clean turn on 
+Switched To User Build
+Kernel upstream to 4.14.232  
