@@ -1,15 +1,16 @@
 {
+   "datetime": 1621845180,
+   "donate_url": "https://del.dog/donateforppui.txt",
    "error": false,
-   "filename": "PixelPlusUI_1.4_ginkgo-10.0-20200528-0751-OFFICIAL.zip",
-   "datetime": 1590652260,
-   "size": 1162791323,
-   "url": "https://sourceforge.net/projects/pixelplusui-project/files/Stable/ginkgo/PixelPlusUI_1.4_ginkgo-10.0-20200528-0751-OFFICIAL.zip/download",
-   "filehash": "a081b00edb03ff1bf451fc7749b5f92d",
-   "version": "Ten",
-   "id": "b4ae77e1a66412a166109fc1b0d35b2ecb27d0b2d03658ae9dc91adbf21d570d",
-   "website_url": "https://t.me/ppuichat",
-   "news_url": "https://t.me/ppuich",
-   "donate_url": "https://del.dog/vyphyphoso",
-   "maintainer": "Srinivas",
-   "maintainer_url": "https://t.me/cnucnucnu"
+   "filehash": "4cf80ded919dee117e9389247b798572",
+   "filename": "PixelPlusUI_3.5_ginkgo-11.0-20210524-0833-OFFICIAL.zip",
+   "forum_url": "https://forum.xda-developers.com/t/rom-11-ginkgo-willow-pixelplusui-official.4232791/",
+   "id": "2257a50b6123c6f3f9461e5115444ffe4973b10bf8da9b59ed38138786a707b1",
+   "maintainer": "Erwin Abu Bakar Sidik",
+   "maintainer_url": "https://github.com/erwinabs",
+   "news_url": "https://t.me/ppuinews",
+   "size": 1374974467,
+   "telegram_username": "@erwinabs",
+   "version": "Eleven",
+   "website_url": "https://pixie-codes.github.io/pixelplusui/home"
 }
