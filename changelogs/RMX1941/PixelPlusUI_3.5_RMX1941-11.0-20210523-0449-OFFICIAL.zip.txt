@@ -1,0 +1,16 @@
+Used Custom power HAL
+Fixed Hotspot
+Fixed Offline charging
+manually patched charger blobs
+reduce screen density for 320
+set voice call volume steps to 6 
+fix some moar permission denies 
+Fixed bootup issues
+Tuned Userspace LMKD for better ram management
+Reduced Java debugging and added Android GO configuration 
+Configured VFS and Zram swapping rate
+Add MtkCarrierConfig 
+Added missing apn entries for certain carriers
+disabled unspecialized app process pool
+Added GcamGO as default camera 
+Update some blobs from C.55 Update
