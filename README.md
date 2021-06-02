@@ -6,10 +6,9 @@
 ## - Xiaomi (Redmi Series)
 ```bash
 Redmi 3s (land) by Marvel
-Redmi 5 (rosy) by Ebin
 Redmi 7 (onclite) by KostyaJRZ
 Redmi 9 (lancelot) by Box-boi
-Redmi Y2 (ysl) by Sushmit
+Redmi S2/Y2 (ysl) by Sushmit
 Redmi Note 4 (mido) by Apon
 Redmi Note 5 Pro (whyred) by Salman
 Redmi Note 6 Pro (tulip) by Mustafa 
@@ -20,15 +19,20 @@ Redmi Note 8 Pro (begonia) by Zinadin
 Redmi Note 9 (merlin) by Box Boi
 Redmi Note 9S (curtana_global) by Edgars
 Redmi Note 9 Pro (curtana/joyeuse/excalibur) by Edgars
+Redmi Note 9 Pro 5G  (gauguinpro) by Puneeth
+Redmi Note 10 (mojito) by Eyad
+Redmi Note 10 Pro (sweet) by Bola
+Redmi K30 (Phoenix) by Kunal
 ```
 
 ## - Xiaomi (Poco Series)
 ```bash
 Xiaomi Poco F1 (beryllium) by David
-Xiaomi Poco X2 (phoenix) by Kunal
-Xiaomi Poco X3 (Surya) by Rizak
 Xiaomi Poco M2 (shiva) by Zubair
 Xiaomi Poco M2 pro (Gram) by Edgars
+Xiaomi Poco X2 (phoenix) by Kunal
+Xiaomi Poco X3 (Surya) by Rizak
+Xiaomi Poco X3 Pro (vayu) by Christian
 ```
 
 ## - Xiaomi (Mi Series)
@@ -36,6 +40,9 @@ Xiaomi Poco M2 pro (Gram) by Edgars
 Xiaomi Mi A1 (tissot) by Saurav
 Xiaomi Mi A2 (Jasmine_sprout) by Rahul
 Xiaomi Mi 6X (wayne) by Christian
+Xiaomi Mi 9 (cepheus) by Mehdi
+Xiaomi Mi 10i 5G (gauguininpro) by Puneeth
+Xiaomi Mi 10T Lite (gauguin_global) by Puneeth
 ```
 
 ## - Lenovo Devices
@@ -51,11 +58,12 @@ OnePlus 3/3T (oneplus3) by Dinesh
 ## - Realme Devices
 ```bash
 Realme 1  (CPH1859/61) by Debayan
-Realme 3/3i by Eyvd  
+Realme 3/3i by Eyad  
 Realme 5/5i/5s (RMX1911/1925/2030) by Utkarsh
-Realme 7/Narzo 20 Pro (RMX2151) by Sarthak
+Realme 6/6i/6S (RMX2001/2002/2003) by SriBalaji
 Realme 2 Pro (RMX1801) by Abhishek
 Realme 3 Pro (RMX1851) by Nikhil
+Realme 7/Narzo 20 Pro (RMX2151) by Sauraj 
 Realme C2 (RMX1941) by Abhishek & Sakthivel
 Realme C3/C3i/Narzo 10a (rmx2020) by Sarthak
 Realme C11/C12 (RMX2185) by Aryan
@@ -75,8 +83,7 @@ Meizu x8 (m1852) by Dogukan
 
 ## - Asus Devices
 ```bash
-Asus Zenfone Max Pro M1 (X00TD) by Rajat
-Asus Zenfone Max Shot/Plus M2 (A001D) by Matheus
+XOOT on HOLd
 ```
 
 # Maintainership 
