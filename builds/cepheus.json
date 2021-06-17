@@ -1,17 +1,17 @@
 {
-   "datetime": 1621713120,
+   "datetime": 1623956160,
    "donate_url": "https://del.dog/donateforppui.txt",
    "error": false,
-   "filehash": "91b0c365d0a713954d6b3f56fb1ccc62",
-   "filename": "PixelPlusUI_3.5_cepheus-11.0-20210522-1952-OFFICIAL.zip",
+   "filehash": "791210e5fd9ee59dda9f99780111cbcc",
+   "filename": "PixelPlusUI_3.6_cepheus-11.0-20210617-1856-OFFICIAL.zip",
    "forum_url": "https://forum.xda-developers.com/t/rom-11-0-cepheus-mi9-pixelplusui-official-eleven-aosp.4277859/",
-   "id": "da3b7268c33a9f343e63327b179251ef0738425f6ee197ead24601f1dcb30920",
+   "id": "73b2d84482b57bf9a701bd51da6dd1ee5012c28bd28b48bdf62f84f45e4d921a",
    "maintainer": "Freesoul00",
    "maintainer_url": "https://github.com/dark-free",
    "news_url": "https://t.me/ppuinews",
    "size": 1575165338,
    "telegram_username": "@freesoul00",
-   "url": "https://sourceforge.net/projects/pixelplusui-project/files/eleven/cepheus/https://sourceforge.net/projects/pixelplusui-project/files/eleven/cepheus/PixelPlusUI_3.5_cepheus-11.0-20210516-0132-OFFICIAL.zip/download/download",
+   "url": "https://sourceforge.net/projects/pixelplusui-project/files/eleven/cepheus/PixelPlusUI_3.6_cepheus-11.0-20210617-1856-OFFICIAL.zip/download",
    "version": "Eleven",
    "website_url": "https://pixie-codes.github.io/pixelplusui/home"
 }
