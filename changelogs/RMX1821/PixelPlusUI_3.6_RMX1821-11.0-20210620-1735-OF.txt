@@ -1,0 +1,22 @@
+Upstreamed kernel to 4.14.142
+Fixed dt2w
+Added Realme Parts in settings>system
+Added Google Camera Go
+Enabled blur option in developer settings
+Added Overlays for notch hide and notch bar killer
+Added Always On Display Support
+Enabled network speed indicators
+Updated device build fp to redfin june 2021
+Disabled UI touch sounds by default
+Added some hacks to make ui smoother
+Fixed Slow charging while screen on
+Increased ZRAM Swap to 100
+Optimised Console Framebuffer
+Fixed Some Memory Leaks
+Optimise Kernel Samepage Merger
+Introduced SLMK
+Enables Zygote perfoking for better app opening speeds
+Bumped up the max readhead to 256kb
+Increased gyro & accelerometer sensitivity
+Disabled debugging for better performance improvements
+Zram LZ4 crypto
