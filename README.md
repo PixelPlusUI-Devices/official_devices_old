@@ -58,7 +58,7 @@ OnePlus 3/3T (oneplus3) by Dinesh
 ## - Realme Devices
 ```bash
 Realme 1  (CPH1859/61) by Debayan
-Realme 3/3i by Eyad  
+Realme 3/3i by Pritish  
 Realme 5/5i/5s (RMX1911/1925/2030) by Utkarsh
 Realme 6/6i/6S (RMX2001/2002/2003) by SriBalaji
 Realme 2 Pro (RMX1801) by Abhishek
