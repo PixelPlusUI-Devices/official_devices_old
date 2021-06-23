@@ -1,0 +1,9 @@
+• Merged June FP
+• Removed Notch-Killer
+• Some Thermal Profiles Improvements & New Icon
+• Added FPS Tile
+• Added Smart Charging
+• Tune Haptics & Vibrations
+• Few changes related to media codecs
+• GcamGO Default
+• Kernel Updated (SilverCore 9.3)
