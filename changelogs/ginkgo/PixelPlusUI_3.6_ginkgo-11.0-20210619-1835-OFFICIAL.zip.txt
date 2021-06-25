@@ -1,0 +1,7 @@
+- Disable IOP v3 Perconfigs
+- Enable Blur By default
+- Drop Qti thermal 
+- Drop unnused Perf in props
+- Display Hal merge Last Caf Tag
+- Improved performance and stability
+- Misc Changes and Fixes 
