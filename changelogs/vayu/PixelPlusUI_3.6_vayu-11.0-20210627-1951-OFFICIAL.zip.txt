@@ -1,0 +1,7 @@
+Changelog - 27/06/2021
+- Reduce gap in QS header
+- Improved support for gamepad controllers (thanks kubersharma001!)
+- No more white bars in black boot animation
+- Set default peak refresh to 120Hz
+- Fixed min refresh rate not working as expected
+- Nuke default media volume set to 10
