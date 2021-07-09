@@ -12,7 +12,7 @@ Redmi S2/Y2 (ysl) by Sushmit
 Redmi Note 4 (mido) by Apon
 Redmi Note 5 Pro (whyred) by Salman
 Redmi Note 6 Pro (tulip) by Mustafa 
-Redmi Note 7/7s (lavender) by Zaid
+Redmi Note 7/7s (lavender) by Soham
 Redmi Note 7 Pro (violet) by Saurav
 Redmi Note 8/8T (ginkgo/willow) by Erwin 
 Redmi Note 8 Pro (begonia) by Zinadin 
