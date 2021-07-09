@@ -1,0 +1,27 @@
+Device Changelog:
+
+• Update vendor blobs
+• Drop CapabilityConfigStore
+• Switch to source built vendor.qti.hardware.perf@2.0
+• Remove time daemon init self-contained module
+• Drop qcom audio sw effects
+• Regen make/bp files
+• Updated kernel
+• Update redfin fp
+• Enable A11 Live blur
+• Compile HWUI for Better Performanc
+• Disable WiFi display for now
+• Drop mm-qcamera-daemon bloats
+• Remove vendor.sensors
+• wifi: reduce battery drain
+• Turn on GPU protected composition
+• Kang walleye offsets for GPU composition
+• force triple frame buffers
+• Add overlay for masking the notch
+• Add Notch Bar Killer overlay
+• Set TARGET_INPUTDISPATCHER_SKIP_EVENT_KEY
+• Add vendor prefix for fm_prop
+• Configure SQLite to operate in MEMORY mode
+• Don't pin camera app in memory
+• Switch to libperfmgr for powerhint
+• And much more
