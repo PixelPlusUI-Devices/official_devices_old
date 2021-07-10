@@ -7,6 +7,7 @@
 ```bash
 Redmi 3s (land) by Marvel
 Redmi 7 (onclite) by KostyaJRZ
+Redmi 8A Dual (olivewood) by sdm439dev
 Redmi 9 (lancelot) by Box-boi
 Redmi S2/Y2 (ysl) by Sushmit
 Redmi Note 4 (mido) by Apon
