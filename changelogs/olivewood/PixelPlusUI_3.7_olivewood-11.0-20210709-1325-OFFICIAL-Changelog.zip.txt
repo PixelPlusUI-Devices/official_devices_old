@@ -1,0 +1,12 @@
+Device side changelog:
+- Fixed whatsapp encoding issues
+- Added many props to increase performance and stability
+- Fixed netflix logo struck
+- Moved XiaomiParts to system section 
+- Added ultra battery saving overlays
+- Fixed Gperfhal,powerhal logspams
+- Reduced battery usage while using wifi 
+- reduced ram usage 
+- Enabled config_avoidGfxAccel for speed 
+- Built health 2.1 hal
+- Added AOD 
