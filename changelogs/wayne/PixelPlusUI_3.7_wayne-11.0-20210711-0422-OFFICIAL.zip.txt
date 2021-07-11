@@ -1,0 +1,5 @@
+Changelog - 11/07/2021
+- Increase mic volumes
+- Increase handset speaker volume
+- Update IDisplayConfig to 2.0 version
+- Add Missing ADSP blobs
