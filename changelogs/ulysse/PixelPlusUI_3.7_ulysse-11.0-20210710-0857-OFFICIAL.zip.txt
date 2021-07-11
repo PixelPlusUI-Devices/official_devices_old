@@ -1,0 +1,59 @@
+Device Changelog:
+
+* Update Graphics from LA.UM.9.6.2.r1-04200-89xx.0
+* Update Media and WFD from LA.UM.9.6.2.r1-04100-89xx.0
+* Upstream Kernel to 4.9.274
+* Merge Tag LA.UM.9.6.2.r1-04700-89xx.0 in Kernel
+* Fix Wifi Display Issue
+
+Source Changelog:
+
+* Latest July Patch Merged 'android-11.0.0_r39'
+* Redesign Settings Homepage Header
+* Settings: Implement Miui Inspired Custom Headers
+* Bring back Gaming mode with dynamic mode
+* Added ShapeShift Volume Panel Style
+* Added PixelPlusUI Specific Lockscreen Clock
+* Redesign QS Expanded Clock
+* Introduce Android 12 Style Switches
+* Debloated Gapps (nuked useless stuff)
+* Clocks: Add Android S Clocks
+* Implement Dynamic Volte/Vowifi Icon back again
+* Import VoLTE/VoWifi icons from Vivo X60 Pro
+* Added battery temp in battery tab
+* Pixelizer: Drop Volte/Vowifi icon Picker
+* Add Custom header in Each Tab of Pixelizer
+* Pixelizer: Add About PixelPlusUI and Team Section info
+* Add toggle for show battery in QS header
+* Add toggle for QS tile title visibility
+* Add QS columns/rows options
+* Fixed Date not changing in Expanded QS Clock
+* Add statusbar battery options (circle,dotted,text,etc)
+* HeadsUp: add timeout option
+* HeadsUp: Essential only mode option (less boring heads up)
+* Prebuilt: Update Pulse Music apk to v4.3.0
+* Updated Screen usage and last full charge icon
+* Improve face unlock method
+* Searchbar: Adjust Searchbar bg color
+* Fixed Nav Bar getting stuck when changing from landscape to potrait or vice versa
+* Added Squary Clock - Htc alike clock
+* Show me more than 4 items in the menus!
+* Add Wifi and Bluetooth Timeout Icons
+* Settings: Move some BT,NFC,CAST above submenu
+* Plugin: Add notification slider if ring & notification is unlinked
+* Plugin: Fix alarm not showing
+* Plugin: MiuiPanel: Make the corners perfectly rounded
+* vendor/aosp: Bump version to v3.7 | Ragnarok
+* Enable New Google Keyboard Theme and Rounded Corners
+* New Wall for New Version 3.7
+* Clocks: use correct thumbnail for Android S clock
+* Allow Seamless rotation while PIP is active
+* SystemUI: Add spacing above emergency call button
+* SystemUI: It's time to kill klondike-saur
+* BrightnessController: tune the slider animation duration
+* FODCircleView: remove fod dim and inline with los
+* SystemUI: Add OnePlus Numbers, Minimal and Roman clock
+* Java IDE Clock: Fix Package name For PixelPlusUI
+* Fix inactive state Wifi Icon in Kai Icon Pack
+* Improved Performance and stability
+* Misc changes and fixes
