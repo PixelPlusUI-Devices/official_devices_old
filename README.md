@@ -70,6 +70,7 @@ Realme C3/C3i/Narzo 10a (rmx2020) by Sarthak
 Realme C11/C12 (RMX2185) by Aryan
 Realme U1 (RMX1831) by Lokesh
 Realme Narzo 20/7i(EU) by Abhishek & Sarthak
+Realme XT (RMX1921) by Probir 
 ```
 
 ## - Moto Devices
