@@ -20,7 +20,7 @@ Redmi Note 8 Pro (begonia) by Zinadin
 Redmi Note 9 (merlin) by Box Boi
 Redmi Note 9S (curtana_global) by Edgars
 Redmi Note 9 Pro (curtana/joyeuse/excalibur) by Edgars
-Redmi Note 9 Pro 5G  (gauguinpro) by Puneeth
+Redmi Note 9 Pro 5G  (gauguinpro) by Yasin
 Redmi Note 10 (mojito) by Eyad
 Redmi Note 10 Pro (sweet) by Bola
 Redmi K30 (Phoenix) by Kunal
@@ -42,8 +42,8 @@ Xiaomi Mi A1 (tissot) by Saurav
 Xiaomi Mi A2 (Jasmine_sprout) by Rahul
 Xiaomi Mi 6X (wayne) by Christian
 Xiaomi Mi 9 (cepheus) by Mehdi
-Xiaomi Mi 10i 5G (gauguininpro) by Puneeth
-Xiaomi Mi 10T Lite (gauguin_global) by Puneeth
+Xiaomi Mi 10i 5G (gauguininpro) by Yasin
+Xiaomi Mi 10T Lite (gauguin_global) by Yasin
 ```
 
 ## - Lenovo Devices
@@ -65,10 +65,10 @@ Realme 6/6i/6S (RMX2001/2002/2003) by SriBalaji
 Realme 2 Pro (RMX1801) by Abhishek
 Realme 3 Pro (RMX1851) by Nikhil
 Realme 7/Narzo 20 Pro (RMX2151) by Sauraj 
+Realme 7 Pro (RMX2170) by Mayur
 Realme C2 (RMX1941) by Abhishek & Sakthivel
 Realme C3/C3i/Narzo 10a (rmx2020) by Sarthak
 Realme C11/C12 (RMX2185) by Aryan
-Realme U1 (RMX1831) by Lokesh
 Realme Narzo 20/7i(EU) by Abhishek & Sarthak
 Realme XT (RMX1921) by Probir 
 ```
@@ -76,12 +76,6 @@ Realme XT (RMX1921) by Probir
 ## - Moto Devices
 ```bash
 Moto G5 Plus (potter) by Zilberto Jr
-Moto G5S+ (sanders) by Satham
-```
-
-## - Meizu Devices
-```bash
-Meizu x8 (m1852) by Dogukan
 ```
 
 ## - Asus Devices
