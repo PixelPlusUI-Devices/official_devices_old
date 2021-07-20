@@ -1,0 +1,10 @@
+3.7 Update Device side changelog:
+- Misc chnges and fixes
+
+3.6 Update Device side changelog:
+- Disable DiscoveryService & NearbyMessagingService (was affecting wifi speed)
+- Disabled mobile plan preference item
+- Decreased launch boost to 3sec (system will boot faster)
+- Relaxed WiFi re-association RSSI thresholds (should fix random wifi crashes)
+- Switched to AOSP surfaceflinger (blur is smoother now)
+- Misc changes and fixes
