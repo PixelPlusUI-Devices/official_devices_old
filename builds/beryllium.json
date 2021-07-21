@@ -1,17 +1,17 @@
 {
-   "datetime": 1624103940,
+   "datetime": 1626775800,
    "donate_url": "https://del.dog/donateforppui.txt",
    "error": false,
-   "filehash": "36f68639cde69193bedc21401d78b07f",
-   "filename": "PixelPlusUI_3.6_beryllium-11.0-20210619-1159-OFFICIAL.zip",
+   "filehash": "543f1eaddac89b41c7607fa4c69aeaec ",
+   "filename": "PixelPlusUI_3.7_beryllium-11.0-20210720-1010-OFFICIAL.zip",
    "forum_url": "https://forum.xda-developers.com/t/rom-official-11-0-beryllium-pixelplus-ui-3-4-onyx-aosp.4261063/",
-   "id": "cdfc7e2722a2f12c4119fbfdc662b7747e6c093b60bc574c471863cd19b1057b",
+   "id": "8ababbc3e90cc62ff5ca0f678e5c4d1894740cb3739c97f9092d010209876c11 ",
    "maintainer": "Prabhjot",
    "maintainer_url": "https://github.com/resurrected21",
    "news_url": "https://t.me/ppuinews",
-   "size": 1531508861,
-   "telegram_username": "Davidbilla73",
-   "url": "https://uploads.xeo.workers.dev/1:/ixelPlusUI_3.6_beryllium-11.0-20210619-1159-OFFICIAL.zip",
+   "size": 1476725020,
+   "telegram_username": "resurrected24",
+   "url": "https://uploads.xeo.workers.dev/1:/PixelPlusUI_3.7_beryllium-11.0-20210720-1010-OFFICIAL.zip"
    "version": "Eleven",
    "website_url": "https://pixelplusui.github.io"
 }

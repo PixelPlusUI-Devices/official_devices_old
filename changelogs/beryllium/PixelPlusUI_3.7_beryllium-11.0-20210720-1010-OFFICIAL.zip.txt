@@ -1,0 +1,6 @@
+- July FP Merged
+- Update Brightness overlays (Fixed low brightness flickering)
+- Updated GCAM GO
+- Add Dirac Icon
+- Update Custom Props for Netflix
+- Performance Improvements
