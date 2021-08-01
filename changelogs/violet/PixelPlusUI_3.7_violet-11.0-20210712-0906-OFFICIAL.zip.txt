@@ -1,0 +1,8 @@
+Fully Working Miui Cam (48MP Fixed)
+overlay: Disable wallpaper zooming
+Improved battery backup while maintaining performance (seriously m not joking)
+Build Live Display 
+Fixed Voip Echo for some users (at least for testers, if not then use earphones while voip)
+A lot changes on kernel side !!
+Improved Performance and Stability (not kidding)
+Misc Changes and Fixes (which u wont understand)
