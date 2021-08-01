@@ -1,0 +1,5 @@
+PixelPlusUI 3.7 Changelog (31/07/2021)
+
+- Initial official build
+- User & Enforcing build
+- Shipped with Stormbreaker 4.19.152 kernel
