@@ -21,6 +21,7 @@ Redmi Note 7 Pro (violet) by Saurav
 Redmi Note 8/8T (ginkgo/willow) by Erwin 
 Redmi Note 8 Pro (begonia) by Zinadin 
 Redmi Note 9 (merlin) by Box Boi
+Redmi 9T (juice) by John Paul
 Redmi Note 9S (curtana_global) by itsXRP
 Redmi Note 9 Pro (curtana/joyeuse) by itsXRP
 Redmi Note 9 Pro MAX (excalibur) by itsXRP
@@ -40,6 +41,7 @@ Xiaomi Poco F2 Pro (lmi) by ZiadFekry & Soumyo
 Xiaomi Poco F3 (aliothon) by Soumyo
 Xiaomi Poco M2 (shiva) by Zubair
 Xiaomi Poco M2 pro (Gram) by itsXRP
+Xiaomi POCO M3 (juice) by John Paul
 Xiaomi Poco X2 (phoenix) by Kunal
 Xiaomi Poco X3 (Surya) by Rizak
 Xiaomi Poco X3 Pro (vayu) by Christian
@@ -66,11 +68,6 @@ Nokia 6.1 Plus (X6/DRG_sprout) by Saurav
 ```bash
 Lenovo Z5s (jd2019) by Husker
 ``` 
-
-## - OnePlus Devices
-```bash
-OnePlus 3/3T (oneplus3) by Dinesh
-```
 
 ## - Realme Devices
 ```bash
