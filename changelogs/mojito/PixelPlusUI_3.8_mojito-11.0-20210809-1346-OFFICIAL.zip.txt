@@ -1,0 +1,15 @@
+
+
+----------v3.8 Hikaru Changelog----------
+
+ Fixed Camera Crash/Freeze In Third Party Apps
+ Preincluded ANXCamera v185R
+ Debloated Some Unnecessary Apps To Decrease Rom Size[Zip]
+ Added ADB Debugging support when stuck on bootanimation
+ Switched To Legion-X Kernel
+ Switched Skia rendering backend to Vulkan
+ Enabled force triple frame buffers
+ Added bluetooth aptX blobs from redfin
+ Setup required props for userspace LMKD
+ Improved Performance and Stability(not kidding)
+ Misc Changes and Fixes(which u wont understand)
