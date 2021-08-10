@@ -1,17 +1,10 @@
 {
-   "datetime": 1626965340,
-   "donate_url": "https://del.dog/donateforppui.txt",
+   "datetime": 1628513220,
    "error": false,
-   "filehash": "ad897c6f2edc89a9b56843ec6d6b0d1d",
-   "filename": "PixelPlusUI_3.7_DRG_sprout-11.0-20210722-1449-OFFICIAL.zip",
-   "forum_url": "https://forum.xda-developers.com/t/rom-11-0-drg_sprout-pixelplusui-official-eleven-aosp.4270453/",
-   "id": "6b534b60574611adb76570159ea712fa63a9df27840b1d3cc63df3d154809c1d",
-   "maintainer": "Saurav",
-   "maintainer_url": "https://github.com/ugly-kid-af",
-   "news_url": "https://t.me/ppuinews",
-   "size": 1082127108,
-   "telegram_username": "ugly_kid_af",
-   "url": "https://download.ppui.site/eleven/drg_sprout/PixelPlusUI_3.7_DRG_sprout-11.0-20210722-1449-OFFICIAL.zip",
-   "version": "Eleven",
-   "website_url": "https://ppui.site/"
+   "filehash": "4133b6658ac48587805acdc53f684881",
+   "filename": "PixelPlusUI_3.8_DRG_sprout-11.0-20210809-1247-OFFICIAL.zip",
+   "id": "77799f92a7c216ef4c90d8b4e0171a64f63b9d7e8bf42dd74eb8385a690d000b",
+   "size": 1101990965,
+   "url": "https://download.ppui.site/eleven/drg_sprout/PixelPlusUI_3.8_DRG_sprout-11.0-20210809-1247-OFFICIAL.zip",
+   "version": "Eleven"
 }
