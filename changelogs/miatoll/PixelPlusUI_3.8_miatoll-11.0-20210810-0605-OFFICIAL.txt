@@ -1,0 +1,5 @@
+Device side changelog:
+August Security Patch
+Added Xiaomi Parts
+Added Miui Camera
+Etherious Kernel by default
