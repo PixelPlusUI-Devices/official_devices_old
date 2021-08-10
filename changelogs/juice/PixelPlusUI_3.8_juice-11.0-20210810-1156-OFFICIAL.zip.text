@@ -1,0 +1,6 @@
+PixelPlusUI 3.8 Changelog (10/08/2021)
+
+- August Security Patch
+- Adjusted zram write back policy
+- Removed virtual framebuffer
+- Shipped with Stormbreaker 4.19.152 kernel
