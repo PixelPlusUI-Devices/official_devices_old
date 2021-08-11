@@ -1,6 +1,0 @@
-=======================
-     2021/05/14
-=======================
-
-- Fix random freeze in video players
-- Logan kernel

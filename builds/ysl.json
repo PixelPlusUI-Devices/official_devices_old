@@ -1,16 +1,10 @@
 {
-   "datetime": 1625736300,
-   "donate_url": "https://del.dog/donateforppui.txt",
+   "datetime": 1628562060,
    "error": false,
-   "filehash": "5a3a1f78be37039cc7f4ef790c1228e2",
-   "filename": "PixelPlusUI_3.7_ysl-11.0-20210708-0925-OFFICIAL.zip",
-   "id": "b5336eeaace6639cd7f0d790e840a018d8435a14b6fd165034a1b94a7ca05048",
-   "maintainer": "Sushmit_Rathore",
-   "maintainer_url": "https://github.com/sushmit1",
-   "news_url": "https://t.me/ppuinews",
-   "size": 1276562757,
-   "telegram_username": "uchihasushmit",
-   "url": "https://download.ppui.site/eleven/ysl/PixelPlusUI_3.7_ysl-11.0-20210708-0925-OFFICIAL.zip",
+   "filehash": "10777b1d5fe8230a57a5ad3c4a63bc05",
+   "filename": "PixelPlusUI_3.8_ysl-11.0-20210810-0221-OFFICIAL.zip",
+   "id": "5b38390e563c26e1a473a684827c43f4e92147057e232dc0427b86dfae34b236",
+   "size": 1264586266,
+   "url": "https://download.ppui.site/eleven/ysl/PixelPlusUI_3.8_ysl-11.0-20210810-0221-OFFICIAL.zip",
    "version": "Eleven",
-   "website_url": "https://pixelplusui.github.io"
 }
