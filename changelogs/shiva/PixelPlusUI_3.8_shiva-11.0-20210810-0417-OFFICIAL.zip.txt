@@ -1,0 +1,60 @@
+Device Changelog:
+
+• USB Tethering Fixed 
+• Minimum Brightness Reduced 
+• Maximum brightness increased a little 
+• Blur Enabled, But Disabled By Default 
+• ANXCamera Flash Fixed 
+
+Source Changelog: 
+• Latest August Patch Merged android-11.0.0_r40 
+• Allow disabling refresh rate lowering in battery saver 
+• Added Dash/Warp/VOOC Charge indication support 
+• Added SuperDart charging support 
+• ScrollView: Remove static modifier  
+• base: Disable spammy Log TAG 'Error;;NOtifStack' & improve code 
+• A12-clock: remove drop shadows 
+• TypeClock: Align owner info as per the clock style 
+• SystemUI: Left align owner info on ShapeShift and IDE clock 
+• Fixed AndroidAuto and TTS Crashing 
+• SystemUI: Properly align owner info to the 3 left aligned clocks  
+• DataSwitchTile: Improve the code 
+• IDE clock: fix the C++ syntax and format 
+• AndroidSClockController: set clock text color based on wallpapers 
+• IconPack{Kai,Victor}: Fix clock icon 
+• Pixelizer: Update About Team Section info 
+• CarSystemUI: Exclude FODCircleViewImpl from UI components 
+• AntiFlickerTile: Fix error in handleRefreshState 
+• PocketJudge: Allow to register vendor proximity sensor 
+• Restore bypass lockscreen after face unlock preference 
+• VibratorService: Fix double click effect with OnePlus vibrator format 
+• base: make app volume rows optional 
+• audio: support set volume for app 
+• Prebuilt: Update Pulse Music apk to v4.3.2 
+• base: Allow user to block individual apps from resuming 
+• base: Introduce automated DC Dimming 
+• display: Make Night Light transition more gradual 
+• Switch to Hastebin for copying crash logs 
+• AppLock: Fix biometric prompt disappearing if app launched from resolver 
+• keyguard: Left align lock icon when required 
+• MediaResume: Set it to 0 by default to avoid UI glitch 
+• Introduce Android 12 ShapeShift clock  
+• Improve statusbar icon sizes and positions 
+• SystemUI: Add time refresh capabilities for S clock controllers 
+• styles: Use user fonts for Material UI themes 
+• vendor/aosp: Bump version to v3.8 | Hikaru 
+• base: Conditionally apply accent to Android S clock 
+• New Wall for New Version 3.8 
+• base: Adjustments to Android S clock 
+• Plugins: Introduce Oos Vol Panel 
+• Introduce Material (P404 Style) Volume panel  
+• Settings: Update Security Settings drawables from Android 12  
+• Battery Meter View : Text & Icon Follow accent color Battery Meter View 
+• Remove contextual card background from battery usage graph 
+• Added Headers to Battery usage, Dark mode, livedisplay etc 
+• [WIP]: Added bumpy boy effect in settings page 
+• Add preference for maximum screen refresh rate
+• Kernel: allow devices to use newer GCC 
+• vendor: Add double quote in custom APN name check 
+• Improved Performance and stability
+• Misc changes and fixes
