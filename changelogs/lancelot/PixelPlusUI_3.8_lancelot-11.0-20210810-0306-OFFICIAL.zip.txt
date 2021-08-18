@@ -1,0 +1,6 @@
+- 3.8 Update And Changelog
+• Initial R-Vendor OSS Build
+• USB Tethering Fixed
+• Minimum Brightness Reduced
+• Blur Enabled, But Disabled By Default
+• ANXCamera Flash Fixed
