@@ -25,4 +25,5 @@
 5. Reboot
 
 ## Note: 
+* Coming from Ports or HentaiOS = Format Data
 • If you are encrypted plz try to format Data before flashing build to avoid bugs, still u can dirty flash over encrypted but mostly people mess it everytime so i skipped that

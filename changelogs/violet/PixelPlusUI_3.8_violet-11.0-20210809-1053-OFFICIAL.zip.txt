@@ -1,0 +1,15 @@
+Checkout Carrier Config to LA.QSSI.11.0.r1-11100-qssi.
+Disable Discovery Service & Near by Messaging Service 
+Disabled global mode and CDMA choices 
+Updated Thermal (init script) from LA.UM.9.1.r1-10200-SMxxx0.0
+Updated graphics and media blobs to LA.UM.9.1.r1-10200-SMxxx0.0
+Addressed Some sepolicy denails
+Redirect keycode 96 to CAMERA (fixed fingerprint shutter in miui camera)
+Disable night light in favor of live display
+Improved battery backup by ~30m and fixed idle drain for some users
+Increased Earpcs volume 
+Improved Audio Quality 
+A lot changes on kernel side 
+Improved Performance and Stability
+Misc Changes and Fixes 
+
