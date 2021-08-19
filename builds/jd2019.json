@@ -1,17 +1,10 @@
 {
-   "datetime": 1625929560,
-   "donate_url": "https://del.dog/donateforppui.txt",
+   "datetime": 1628588880,
    "error": false,
-   "filehash": "a3f8c32080e0b080e468a3687810125e",
-   "filename": "PixelPlusUI_3.7_jd2019-11.0-20210710-1506-OFFICIAL.zip",
-   "forum_url": "https://forum.xda-developers.com/t/rom-11-0-jd2019-pixelplusui-for-lenovo-z5s-official-aosp.4234153/",
-   "id": "874b4ce9b497523794315fbab180902a51ac5386d770e2e15299a34f20c0d616",
-   "maintainer": "Husker",
-   "maintainer_url": "https://github.com/HsyHusker",
-   "news_url": "https://t.me/ppuinews",
-   "size": 1250568930,
-   "telegram_username": "HsyHusker",
-   "url": "https://download.ppui.site/eleven/jd2019/PixelPlusUI_3.7_jd2019-11.0-20210710-1506-OFFICIAL.zip",
-   "version": "Eleven",
-   "website_url": "https://ppui.site/"
+   "size": 1276597612,
+   "filehash": "7aa4931091606287b51f65aebc3b4277",
+   "id": "19c014942ae6aba4b58f7fc0c4119bf73019ea463eb01758117af0833a3e285b",
+   "filename": "PixelPlusUI_3.8_jd2019-11.0-20210810-0948-OFFICIAL.zip",
+   "url": "https://download.ppui.site/eleven/jd2019/PixelPlusUI_3.8_jd2019-11.0-20210810-0948-OFFICIAL.zip",
+   "version": "Eleven"
 }
