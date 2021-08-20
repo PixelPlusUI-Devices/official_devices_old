@@ -1,0 +1,15 @@
+Clean flash and format data required
+Switched to LOS based FBE trees
+August Security Patch
+Switched to Moonligt kernel
+Video record quality improved
+Updated audio configs from whyred
+Added minimal xiaomi parts
+Added Dirac(Mi Sound Enhancer)
+GcamGo prebuilt
+Eliminated screen recorder lag
+Enabled voLTE/voWIFI/ViLTE for entire 460 mcc
+Enabled AOSP surfaceflinger
+Added required GPU props 
+Improved performance and Stability
+Misc Changes and Fixes
