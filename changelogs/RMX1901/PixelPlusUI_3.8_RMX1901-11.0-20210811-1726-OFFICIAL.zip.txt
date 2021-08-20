@@ -1,0 +1,13 @@
+Device Changelog:
+
+• Merger August security patch r40
+
+• Updated Redfin FP to August
+
+• Kernel Upstream to latest 4.9.279
+
+• Updated to new "RealmeParts" (Credits to HyperTeam & Thanks to @harsh_799 for help)
+
+• Fixed Proximity turns on & off while calling near ear. Proximity working very well like stock now (Thanks to @pjgowtham)
+
+• Misc changes and Fixes
