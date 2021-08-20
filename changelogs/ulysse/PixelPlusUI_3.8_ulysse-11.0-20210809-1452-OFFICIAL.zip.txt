@@ -1,0 +1,6 @@
+* Switch to user-build
+* Upstream Kernel to 4.9.279
+* Merge tag LA.UM.9.6.2.r1-04800-89xx.0 in kernel
+* Enable LZ4 and ZSTD zram compression
+* Update blobs from LA.UM.9.6.2.r1-04100-89xx.0
+* Misc Changes and Fixes
