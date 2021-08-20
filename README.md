@@ -14,7 +14,7 @@ Redmi 9 (lancelot) by Box-boi
 Redmi S2/Y2 (ysl) by Sushmit
 Redmi Note 4 (mido) by Smokey
 Redmi Note 5A (ulysse)  by Archipelago
-Redmi Note 5 Pro (whyred) by Salman
+Redmi Note 5 Pro (whyred) by Arnav
 Redmi Note 6 Pro (tulip) by Mustafa 
 Redmi Note 7/7s (lavender) by Soham
 Redmi Note 7 Pro (violet) by Saurav
