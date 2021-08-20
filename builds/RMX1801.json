@@ -1,17 +1,10 @@
 {
-   "datetime": 1625762100,
-   "donate_url": "https://del.dog/donateforppui.txt",
+   "datetime": 1628824980,
    "error": false,
-   "filehash": "2f80a828d38bf749d36d7cde971c7b9b",
-   "filename": "PixelPlusUI_3.7_RMX1801-11.0-20210708-1635-OFFICIAL.zip",
-   "forum_url": "https://forum.xda-developers.com/t/rom-11-0-rmx1801-pixelplusui-realme-2-pro-official-eleven-aosp.4233479",
-   "id": "38f13265c38324499ab15534082838683f46009e3b43fd37e17d44a14f49a340",
-   "maintainer": "Abhishek",
-   "maintainer_url": "https://github.com/allworkdone",
-   "news_url": "https://t.me/ppuinews",
-   "size": 1427730146,
-   "telegram_username": "allworkdone",
-   "url": "https://download.ppui.site/eleven/RMX1801/PixelPlusUI_3.7_RMX1801-11.0-20210708-1635-OFFICIAL.zip",
-   "version": "Eleven",
-   "website_url": "https://pixelplusui.github.io"
+   "size": 1465819480,
+   "filehash": "1edcedb2e8e9d23dbeed61e8fb8f23f5",
+   "id": "1dd4d35b6c8713b3faf644c63848b8225edbd28a788fe6c8343e5ff7a593a618",
+   "filename": "PixelPlusUI_3.8_RMX1801-11.0-20210813-0323-OFFICIAL.zip",
+   "url": "https://download.ppui.site/eleven/RMX1801/PixelPlusUI_3.8_RMX1801-11.0-20210813-0323-OFFICIAL.zip",
+   "version": "Eleven"
 }
