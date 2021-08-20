@@ -1,17 +1,10 @@
 {
-   "datetime": 1626705300,
-   "donate_url": "https://del.dog/donateforppui.txt",
+   "datetime": 1628953080,
    "error": false,
-   "filehash": "de0c50ec15b5c22cd01c90db82aebbd6",
-   "filename": "PixelPlusUI_3.7_RMX1941-11.0-20210717-0634-OFFICIAL.zip",
-   "forum_url": "https://forum.xda-developers.com/t/rom-11-0-realme-c2-pixelplusui-official-eleven-aosp-rmx1941.4266099/",
-   "id": "0d0d7894d4e616b380e1da6581e298fb4c00b0233f6d235ac7315edaed3bb986",
-   "maintainer": "Abhishek & Sakthivel",
-   "maintainer_url": "https://github.com/allworkdone",
-   "news_url": "https://t.me/ppuinews",
-   "size": 1256746453,
-   "telegram_username": "allworkdone & SparXFusion",
-   "url": "https://download.ppui.site/eleven/RMX1941/PixelPlusUI_3.7_RMX1941-11.0-20210717-0634-OFFICIAL.zip",
-   "version": "Eleven",
-   "website_url": "https://pixelplusui.github.io"
+   "size": 1191436854,
+   "filehash": "e050a3ececedd2564acb65cfabcb9824",
+   "id": "fc77244d7c7d3a95a907e7bcb723ad11ab8521b6713fd777663a93e385fd2de3",
+   "filename": "PixelPlusUI_3.8_RMX1941-11.0-20210814-1458-OFFICIAL.zip",
+   "url": "https://download.ppui.site/eleven/RMX1941/PixelPlusUI_3.8_RMX1941-11.0-20210814-1458-OFFICIAL.zip",
+   "version": "Eleven"
 }
