@@ -1,17 +1,10 @@
 {
-   "datetime": 1623930900,
-   "donate_url": "https://del.dog/donateforppui.txt",
+   "datetime": 1628576100,
    "error": false,
-   "filehash": "1ac0579c279ad47aaec3ed978b5da955",
-   "filename": "PixelPlusUI_3.6_tissot-11.0-20210617-1155-OFFICIAL.zip",
-   "forum_url": "https://forum.xda-developers.com/t/rom-11-0-tissot-pixelplusui-official-eleven-aosp.4263253/",
-   "id": "43ca0ef6f713a4188ede277a3d7fb327058f6e5a297b5269f01b7760a4f29700",
-   "maintainer": "Saurav",
-   "maintainer_url": "https://github.com/ugly-kid-af",
-   "news_url": "https://t.me/ppuinews",
-   "size": 1137387157,
-   "telegram_username": "ugly_kid_af",
-   "url": "https://sourceforge.net/projects/pixelplusui-project/files/eleven/tissot/PixelPlusUI_3.6_tissot-11.0-20210617-1155-OFFICIAL.zip/download",
-   "version": "Eleven",
-   "website_url": "https://ppui.site/"
+   "size": 1023502096,
+   "filehash": "cfb0631f5f31fb6e3840922317e2737a",
+   "id": "e537eaf381273c7cf9199544ddcc2f6152fb5de02c9af1320b0df918a11131c6",
+   "filename": "PixelPlusUI_3.8_tissot-11.0-20210810-0615-OFFICIAL.zip",
+   "url": "https://download.ppui.site/eleven/tissot/PixelPlusUI_3.8_tissot-11.0-20210810-0615-OFFICIAL.zip",
+   "version": "Eleven"
 }
