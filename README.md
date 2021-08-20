@@ -43,7 +43,6 @@ Xiaomi Poco M2 (shiva) by Zubair
 Xiaomi Poco M2 pro (Gram) by itsXRP
 Xiaomi POCO M3 (juice) by John Paul
 Xiaomi Poco X2 (phoenix) by Kunal
-Xiaomi Poco X3 (Surya) by Rizak
 Xiaomi Poco X3 Pro (vayu) by Christian
 ```
 
