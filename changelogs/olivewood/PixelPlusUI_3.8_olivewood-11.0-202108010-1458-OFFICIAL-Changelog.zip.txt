@@ -1,0 +1,16 @@
+PixelPlusUI 3.8 Changelog (10/08/2021)
+
+- August Security Patch
+- Fixed google system update failure
+- Updated some blobs to R
+- Fixed logspams
+- Enabled QPower and Deep sleep at the same time
+- Fixed second speaker
+- Added 2.4ghz wifí bond support
+- Added config_wallpaperMaxScale
+- Added vowifi icon
+- Updated power profiles and sensor configs
+- Fixed rounded corners
+- Added UI/UX optimizations
+- Touch optimizations
+- Some more minor changes

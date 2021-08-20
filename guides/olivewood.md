@@ -12,3 +12,6 @@
 1. Wipe Dalvik and Cache
 2. Flash ROM
 3. Reboot 
+
+## Note; 
+* Coming from Ports or HentaiOS = Format Data

@@ -1,17 +1,17 @@
 {
-   "datetime": 1625837100,
+   "datetime": 1628607480,
    "donate_url": "https://del.dog/donateforppui.txt",
    "error": false,
-   "filehash": "b81c748637841dbf37332809ecfa9e32",
-   "filename": "PixelPlusUI_3.7_olivewood-11.0-20210709-1325-OFFICIAL.zip",
+   "filehash": "89b5c50c6e3f179502e4a00432019bb1",
+   "filename": "PixelPlusUI_3.8_olivewood-11.0-20210810-1458-OFFICIAL.zip",
    "forum_url": "https://forum.xda-developers.com/t/rom-official-11-0-redmi-8a-dual-pixelplus-ui-aosp.4300225/",
-   "id": "1010a9c4334bdf28d36fad02ad9fae208e15b31aa5b35f7acff6f2f672507d",
+   "id": "b13d1af2c155d4637bc486a317d462bf189c2fc7e58ffeba062f877af95bf43c",
    "maintainer": "sdm439dev",
    "maintainer_url": "https://github.com/shield44",
    "news_url": "https://t.me/ppuinews",
-   "size": 1326510237,
+   "size": 1355644166,
    "telegram_username": "sdm439dev",
-   "url": "https://download.ppui.site/eleven/olivewood/PixelPlusUI_3.7_olivewood-11.0-20210709-1325-OFFICIAL.zip",
+   "url": "https://download.ppui.site/eleven/olivewood/PixelPlusUI_3.8_olivewood-11.0-20210810-1458-OFFICIAL.zip",
    "version": "Eleven",
    "website_url": "https://ppui.site/"
 }
