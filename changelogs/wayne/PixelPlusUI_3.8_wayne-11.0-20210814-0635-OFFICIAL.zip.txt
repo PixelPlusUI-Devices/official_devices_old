@@ -1,0 +1,5 @@
+Changelog - 14/08/2021
+- Addressed sepolicy denials
+- Tune schedtune boost value
+- Update powerhint
+- Introduce kernelspace battery saver
