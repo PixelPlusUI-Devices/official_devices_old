@@ -27,7 +27,7 @@ Redmi Note 9 Pro (curtana/joyeuse) by itsXRP
 Redmi Note 9 Pro MAX (excalibur) by itsXRP
 Redmi Note 9 Pro 5G  (gauguinpro) by Puneeth
 Redmi Note 10 (mojito) by Arya
-Redmi Note 10 Pro (sweet) by Bola
+Redmi Note 10 Pro (sweet) by Zaid
 Redmi K30 (Phoenix) by Kunal
 Redmi K30 Pro (lmi) by ZiadFekry & Soumyo
 Redmi K30 Pro ZOOM (lmi) by ZiadFekry & Soumyo
