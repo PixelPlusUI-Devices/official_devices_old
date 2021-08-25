@@ -1,0 +1,7 @@
+****Device Changelog****
+• Aug Security Patch
+• More RAM optimization
+• Comes with NEOLIT V1 based on the Linux Stable 4.14.142 by default.
+• Enhanced Stability and overall performance of device.
+• Updated performance profiles in Realme Settings.
+• Added misc features.
