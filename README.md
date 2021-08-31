@@ -56,6 +56,7 @@ Xiaomi Mi 8 (dipper) by Sena
 Xiaomi Mi 9 (cepheus) by Mehdi
 Xiaomi Mi 10i 5G (gauguininpro) by Puneeth
 Xiaomi Mi 10T Lite (gauguin_global) by Puneeth
+Xiaomi Mi 10T/Pro (apollo) By Master 
 Xiaomi Mi 11x (aliothin)  by Soumyo
 ```
 ## - Nokia Devices
