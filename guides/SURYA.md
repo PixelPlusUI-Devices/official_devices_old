@@ -3,14 +3,16 @@
 # Installation Guide For PixelPlusUI on surya/karna OSS Based
 
 ### CLEAN FLASH :
-1. Flash Firmware Miui 11
-2. Flash ROM
-3. Flash DisableForceEncryption
-4. Format data
-5. Reboot
+- Download the latest build
+- Reboot to recovery.
+- Take a backup.
+- Format Data
+- Flash the latest build
+- Reboot :p
 
-### DIRTY FLASH IF AN UPDATE
-1. Wipe Dalvik and Cache
-2. Flash ROM
-3. Flash DisableForceEncryption
-4. Reboot
+### DIRTY FLASH :
+- Download the latest build
+- Reboot to recovery
+- Flash the latest build
+- Wipe Cache
+- Reboot :p
