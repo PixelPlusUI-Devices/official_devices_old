@@ -1,0 +1,38 @@
+Changelogs:
+- Added support to POCO X3 NFC Thailand
+- Enable multihal
+- Add offline charging LED indicator
+- Import overlays from stock
+- Checkout NFC Configs to V12.5.1.0.RJGMIXM
+- Disable/Enable EAS on early-init/post-boot
+- Drop soundtrigger
+- Add consumerir support
+- Checkout few surya-specific audio configs to V12.5.1.0.RJGMIXM
+- Enable 24-bit for primary output
+- Offload 24 bits playback supports mp3/aac format
+- Enforce 24-bit audio for offload playback
+- Correctly label some nodes and address some denials
+- Add SSR restart level prop
+- Set keystore prop
+- Add missed crypto prop
+- Switch to prebuilt camera provider
+- Bring back megvii in camera HAL
+- Define OEM fast charge sysfs node
+- Allow system_server to read fastcharge node
+- Import system_ext.prop from MIUI V12.0.1.2.RJGINXM
+- Start mi_thermald on boot
+- Drop thermal-engine
+- Disable NearbyMessagingService and DiscoveryService
+- Update blobs from MIUI V12.5.2.0.RJGEUXM
+- Disable wifi aware & rtt
+- Use skiagl as HWUI renderer and define backend renderengine
+- Add QTI health implementation
+- XiaomiParts:
+* Dirac
+* Clear Speaker
+* Add support for LCD HBM and CABC
+* Doze
+- And more bugs added
+
+Credits:
+Thanks to @kenny3fcb, @ghostrider_reborn, @Unicote, @NickvBokhorst, @allworkdone and all the devs for sources and help, and @ws18x @Sheryll_0686 @pinklambo @Wizard_Emperor for testing
