@@ -1,0 +1,6 @@
+- 3.9 Update And Changelog
+• Random Reboot Fixed(If still persistent, Flash MIUI Fastboot rom, Skip Fw flash, Flash PPUI)
+• Safetynet Passes By Defaut
+• Debloated Some Apps
+• Blur Enabled, But Disabled By Default
+• ANXCam Included
