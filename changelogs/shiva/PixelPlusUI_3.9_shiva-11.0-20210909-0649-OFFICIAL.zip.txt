@@ -1,0 +1,15 @@
+- 3.9 update and changelog
+• Random reboot fixed.
+• Debloated some apps.
+• Added SystemUI to dexpreopt speed apps.
+• Disabled wallpaper zoom on homescreen.
+• Disabled Dial pad tones, Screen locking sounds, Bluetooth by default.
+• Enabled Vibration for calls and Auto Brightness by default.
+• Enabled Google AutoFill service by default.
+• Improve blur smoothness.
+• Don't pin launcher in memory.
+• Set screen off delay to zero.
+• Added GCamGo.
+• Enabled Blur but disabled by default.
+• Improved scrolling.
+• Make overall UI smoother.

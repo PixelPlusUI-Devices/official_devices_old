@@ -32,7 +32,7 @@ Done, happy flashing :)
 2. Go adv. wipe :- wipe [dalvik, cache, internal storage]
 3. Format data (By typing yes)
 4. Reboot to recovery.
-5. Flash ported R-Firmware.
+5. Flash R-Firmware.
 6. Reboot to recovery.
 7. Flash rom.
 8. Reboot system.
@@ -45,16 +45,13 @@ Done, happy flashing :)
 5. Flash rom.
 6. Reboot system.
 
-### PixelPlusUI v3.7 to PixelPlusUI v3.8
+### PixelPlusUI v3.8 to PixelPlusUI v3.9
 1. Reboot to recovery.
-2. Go adv. wipe :- wipe [dalvik, cache, internal storage]
-3. Format data (By typing yes)
-4. Reboot to recovery.
-5. Flash ported R-Firmware.
-6. Reboot to recovery.
-7. Flash PixelPlusUI v3.8.
-8. Reboot system.
+2. Go adv. wipe :- wipe [dalvik, cache]
+3. Flash PixelPlusUI v3.9.
+4. Reboot system.
 
-## Note:
-• U should be on [MIUI v12.0.1.0](https://bigota.d.miui.com/V12.0.1.0.QJRINXM/shiva_in_global_images_V12.0.1.0.QJRINXM_20201224.0000.00_10.0_in_3b6a5b3c4c.tgz) before flashing custom recovery.
-• If u are on MIUI v12.0.3.0 or above , Downgrade to MIUI v12.0.1.0.
+
+# Note-
+• If u are on MIUI 12.5 u can just flash recovery , vbmeta and then flash ppui.
+• If u are on MIUI below 12.5 then u have to flash r firmware also.
