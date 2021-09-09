@@ -2,43 +2,43 @@
 
 # Installation Guide For PixelPlusUI on Apollo/Apollopro
 
+########## **IF YOU ALREADY USING PIXELPLUSUI FIRST BUILD, THEN NEED CLEAN FLASH AS FOLLOW** ################
+
+1- Backup Your Data
+
+2- Boot to Lineage Recovery Availabe: [Here](https://mirrorbits.lineageos.org/recovery/apollon/20210904/lineage-18.1-20210904-recovery-apollon.img)
+
+3- ADB Sideload Lastest ROM
+
+4- Formate data and reboot to System
+
+5- After that encryption will be back to normal and you can use TWRP as normal.
+
+
+
 ## IF YOU ARE MOVING FROM ANOTHER ROM, CLEAN FLASH Is COMPULSORY.
 
-### Clean Flash 
-1-Download Rom 
+**--- Clean Flash ---**
+Copy the Custom ROM & the Required Firmware to your internal storage
+• Also remove any lockscreen password or pin
 
-2-Download Recovery: [Here](https://drive.google.com/file/d/15FugLW80NUoSwzLna_GT8BeUveUOHVeo/view?usp=sharing)
+Reboot to TWRP Recovery
+• [TWRP Whyle](https://androidfilehost.com/?fid=17248734326145709156)
 
-3-Boot to fastboot using: adb reboot fastboot or power off and press Power button and Volume Down.
+Optional: Format data if you're coming from another Custom ROM or a ROM that encrypts your data.
+• Wipe ► Format Data ► Type "yes"
 
-4-Flash provided recovery using: fastboot flash recovery TWRP_3.5.2_10_By_Master.img
+Wipe Dalvik Cache + Cache + Data
+• Wipe ► Advanced wipe ► Tick "Dalvik / ART Cache" & "Cache" & "Data" ► Swipe to wipe
+Flash the Custom ROM
 
-5-Then reboot to recovery using: fastboot reboot-recovery
+• Flash the Required firmware linked in the update post if you're coming from another Custom ROM
+Now just Reboot to system
 
-6-After that go to wipe and format data from recovery.
+**--- Dirty Flash ---**
+Copy the Custom ROM
+Reboot to TWRP Recovery
+• LR Team or Whyle's
 
-7-Reboot recovery.
-
-8-After Rebooting in recovery, Go to Advance Option and then Select ADB sideload.
-
-9-After then Flash ROM using:  adb sideload PixelPlusUI_3.8_apollo-11.0-20210831-0750-OFFICIAL.zip.
-
-10-Similarly Flash firmware using: adb sideload fw_apollo_miui_apolloglobal_v12.5.2.0.rjdmixm_d573addb51_11.0.zip
-
-11-Reboot
-
-Note: make sure all files are present in the ADB folder.
-
-### DIRTY FLASH
-1-Download the latest build
-
-2-Reboot to recovery
-
-3-After booting in recovery, Go to Advance Option and then Select ADB sideload.
-
-4-After then Flash ROM using:  adb sideload PixelPlusUI_3.8_apollo-11.0-20210831-0750-OFFICIAL.zip
-
-5-Wipe Cache
-
-6-Reboot
-
+Flash the copied Custom ROM
+• Flash the Required firmware linked in the update post

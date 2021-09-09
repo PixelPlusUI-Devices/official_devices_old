@@ -1,0 +1,5 @@
+- Added Smart Charging
+- Added Battery Health
+- Fixed 4k Video recording for GoogleCamera
+- Fixed Screen Recording lag
+- Upstreamed Kernel to 4.19.204
