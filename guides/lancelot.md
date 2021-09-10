@@ -44,3 +44,6 @@ Done, happy flashing :)
 ### PixelPlusUI(OLD VERSION) to PixelPlusUI(NEW VERSION)
 1. Same As MIUI to PixelPlusUI(cleanflash Mandatory Because Inital R Vendor build)
 1. If ON PPUI 3.8 Or Later, Flash Rom, Wipe Dalvik/Art Cache And Cache And Reboot
+
+## If You Face Bugs After OTA/Dirty Flash
+1. Follow MIUI to PixelPlusUI
