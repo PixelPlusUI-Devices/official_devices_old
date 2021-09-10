@@ -1,17 +1,10 @@
 {
-   "datetime": 1628508540,
-   "donate_url": "https://del.dog/donateforppui.txt",
+   "datetime": 1631138460,
    "error": false,
-   "filehash": "b223aef52af1223ecad375220a870783",
-   "filename": "PixelPlusUI_3.7_RMX1921-11.0-20210721-0119-OFFICIAL.zip",
-   "forum_url": "https://forum.xda-developers.com/t/rom-realme-xt-11-0-official-pixelplus-ui-for-realme-xt-aosp.4304639/",
-   "id": "a4e9a867374cce89dc052f4238ba006e08504be1398b3c609ced3d634940adcc",
-   "maintainer": "Probir",
-   "maintainer_url": "https://github.com/improbir",
-   "news_url": "https://t.me/ppuinews",
-   "size": 1612247775,
-   "telegram_username": "officialpro",
-   "url": "https://download.ppui.site/eleven/RMX1921/PixelPlusUI_3.8_RMX1921-11.0-20210809-1129-OFFICIAL.zip",
-   "version": "Eleven",
-   "website_url": "https://pixelplusui.github.io"
+   "size": 1611915040,
+   "filehash": "d0193f9e865ecab3577811e3f24e3acc",
+   "id": "faade6709cb463ea0036b341b7dd4eb7a8a51957b08150b6a5b5ae533d970d42",
+   "filename": "PixelPlusUI_3.9_RMX1921-11.0-20210908-2201-OFFICIAL.zip",
+   "url": "https://download.ppui.site/eleven/RMX1921/PixelPlusUI_3.9_RMX1921-11.0-20210908-2201-OFFICIAL.zip",
+   "version": "Eleven"
 }

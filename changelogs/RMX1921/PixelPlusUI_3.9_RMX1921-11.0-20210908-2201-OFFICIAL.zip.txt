@@ -1,0 +1,4 @@
+Device Changelog:
+
+• CTS issue fixed
+• Kernel Upstreamed to 4.9.282
