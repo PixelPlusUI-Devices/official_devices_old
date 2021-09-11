@@ -1,0 +1,5 @@
+- Update RedfinFP to september. 
+- Switched to PureR hals.
+- Add some bt codecs.
+- Added battery health.
+- Dropped A10FW support
