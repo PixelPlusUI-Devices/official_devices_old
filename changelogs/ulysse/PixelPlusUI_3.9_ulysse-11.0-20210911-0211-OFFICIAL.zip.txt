@@ -1,0 +1,7 @@
+* Switch to user-build
+* Fix Wallpaper blank after first boot
+* Update FP to Redfin September
+* Upstream kernel to v4.9.282
+* Fix Dirac and bring back Dirac QS tile
+* Some minor improvemnts
+* Misc Changes and Fixes
