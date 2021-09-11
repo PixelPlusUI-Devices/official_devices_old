@@ -1,0 +1,8 @@
+- Comes with OSS Vendor only, for now.
+- Replaced prebuilt GCam to GCamGO (so users can choose their preferred GCam)
+- Fixed WFD
+- Fixed banking apps not working with magisk installed in some cases
+- Upstreamed to latest tag, built from source kernel - 4.9.280
+- Credits to @GiaSen and @victor10520 for their hard work in OSS.
+- Misc changes and fixes
+- Clean flash is MANDATORY when switching from ZUI vendor to OSS.
