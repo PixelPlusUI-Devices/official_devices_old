@@ -1,0 +1,11 @@
+- Upstreamed kernel to v4.9.282
+- Import Perf Components
+- Build LiveDisplay
+- Fix Battery Health
+- Improve GPS
+- Improve performance of VoIP calls
+- Speed up first boot
+- Moved KharaMeDirac to System
+- Improve WiFi Stability
+- Improve LMKD
+- Enable iorap
