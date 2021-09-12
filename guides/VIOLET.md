@@ -4,6 +4,8 @@
 
 ## IF YOU ARE MOVING FROM ANDROID 10 TO ANDROID 11 CLEAN FLASH ( Format Data ) Is COMPULSORY.
 
+## Recovery Link : [OFOX Recovery](https://orangefox.download/release/60535ec5e4534f7cb0c48ed9)
+
 ### Encryption to Encryption : 
 1. First format data (by typing yes)
 2. Flash latest [Chinese/Indian Weekly Firmware](https://xiaomifirmwareupdater.com/firmware/violet/)
@@ -25,5 +27,5 @@
 5. Reboot
 
 ## Note: 
-* Coming from Ports or HentaiOS = Format Data
+* Coming from Ports or HentaiOS = Format Data and flash latest firmware
 • If you are encrypted plz try to format Data before flashing build to avoid bugs, still u can dirty flash over encrypted but mostly people mess it everytime so i skipped that
