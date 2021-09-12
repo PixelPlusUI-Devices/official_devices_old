@@ -1,0 +1,9 @@
+Initial OSS Vendor Based
+
+Add Battery Health
+
+Add Dynamic Refresh Rate ( settings/system/Device specific settings)
+
+Add DC Dimming ( settings/system/Device specific settings)
+
+Many more i forget ("https://github.com/PixelPlusUI-Devices/device_xiaomi_sweet/tree/eleven") you can check here.
