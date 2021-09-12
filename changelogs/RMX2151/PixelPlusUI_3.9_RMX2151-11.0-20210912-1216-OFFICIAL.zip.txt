@@ -1,0 +1,7 @@
+****Device Changelog****
+• September security patch.
+• Added Meomery optimisation tweaks.
+• Boost I/O performance during bootup.
+• Fixed GBoard roundness.
+• Improved Battery Backup.
+• Dropped Neolit by default.
