@@ -1,0 +1,7 @@
+PixelPlusUI Source Upstream
+Fixed issues with Wifi Calling (Airtel)
+Fixed Safety Net (Now it passes without root)
+Banking apps like gpay etc are now working fine
+Addressed Some sepolicy denails
+Improved Performance and Stability (not kidding)
+Misc Changes and Fixes (which u wont understand)
