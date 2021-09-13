@@ -28,6 +28,7 @@ Redmi Note 9 Pro MAX (excalibur) by itsXRP
 Redmi Note 9 Pro 5G  (gauguinpro) by Puneeth
 Redmi Note 10 (mojito) by Arya
 Redmi Note 10 Pro (sweet) by Zaid
+Redmi K20 Pro (Raphaelin) by Rahul
 Redmi K30 (Phoenix) by Kunal
 Redmi K30 Pro (lmi) by ZiadFekry & Soumyo
 Redmi K30 Pro ZOOM (lmi) by ZiadFekry & Soumyo
@@ -54,6 +55,7 @@ Xiaomi Mi A3 (laurel_sprout) by H3M3L
 Xiaomi Mi 6X (wayne) by Christian
 Xiaomi Mi 8 (dipper) by Sena
 Xiaomi Mi 9 (cepheus) by Mehdi
+Xiaomi Mi 9T Pro (raphael) by Rahul
 Xiaomi Mi 10i 5G (gauguininpro) by Puneeth
 Xiaomi Mi 10T Lite (gauguin_global) by Puneeth
 Xiaomi Mi 10T/Pro (apollo) By Master 
