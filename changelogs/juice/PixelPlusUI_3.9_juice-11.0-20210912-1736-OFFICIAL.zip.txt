@@ -1,0 +1,6 @@
+PixelPlusUI 3.9 Changelog (12/09/2021)
+
+- September Security Patch
+- Added battery health
+- Switched to QTI Power HAL
+- Shipped with Stormbreaker 4.19.152 kernel
