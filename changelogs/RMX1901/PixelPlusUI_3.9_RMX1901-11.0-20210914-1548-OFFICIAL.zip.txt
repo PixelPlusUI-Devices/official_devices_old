@@ -1,0 +1,9 @@
+Device Changelog:
+
+• Merged September security patch r43
+
+• Updated Redfin FP to September
+
+• Kernel Upstream to latest 4.9.282
+
+• Misc changes and FixesDevice Changelog:
