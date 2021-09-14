@@ -1,0 +1,6 @@
+****Device Changelog****
+• September security patch.
+• Disable CPU sleep states in Game Mode
+• Switch default display color mode to Saturated
+• Set screen density to 480
+• Bug fixes and improvements
