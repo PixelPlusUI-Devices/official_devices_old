@@ -1,0 +1,5 @@
+Improved FOD and fixed all glitches related to it
+Improved Thermals & thermal hals updated to V2.0
+Import mi_thermald
+Bumped kernel to .246
+Added L1 DRM blobs which retains L1 if restored from Miui 12.5

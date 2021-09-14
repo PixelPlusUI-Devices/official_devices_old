@@ -1,0 +1,10 @@
+Device Changelogs:
+- Complete rebased device tree
+- Build hals from device tree now
+- Added Data Usage
+- Updated Kernel to zLOS Kernel
+- Remove packages: Spare Some apps
+- Add overlays for battery health nodes
+- Drop libsdm-disp-apis.so
+- Drop QCOM WFD
+maybe some more, who knows, I FORGOT

@@ -15,6 +15,10 @@
 2. Flash ROM (and Magisk if needed)
 3. Reboot
 
+OR 
+
+Go to Settings -> System Update -> Update through OTA! 
+
 ## Note: 
 • Before changing default kernel, make sure to take a backup of the existing kernel (boot.img) and then flash the custom kernel of your choice, you can click [Here](https://t.me/modulesrepo/1606) to check the list of custom kernels available for Whyred
 • Do Flash Magisk again (if previously rooted) to get root access again 

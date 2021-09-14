@@ -1,0 +1,16 @@
+Safetynet passes by defaut
+Disabled wallpaper zooming
+Debloated Some Apps
+XiaomiParts moved to system settings
+Added support for BatteryHealth
+Enabled VoLTE and VoWIFI for all
+Enabled AOD
+Show "Turbo charging" instead of "Charging rapidly" like Memeui
+Imported AdaptLaunch and some other perf for better app launching time
+Introduced memory management tweaks
+Enabled fluence voice recording for google voice recoder
+Fixed mic issues in apps like WhatsApp
+Wired headphone issues fixed
+Moonlight kernel upstreamed to 4.4.282
+Improved performance and Stability
+Misc Changes and Fixes
