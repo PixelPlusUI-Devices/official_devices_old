@@ -1,10 +1,10 @@
 {
-   "datetime": 1628953080,
+   "datetime": 1631678400,
    "error": false,
-   "size": 1191436854,
-   "filehash": "e050a3ececedd2564acb65cfabcb9824",
-   "id": "fc77244d7c7d3a95a907e7bcb723ad11ab8521b6713fd777663a93e385fd2de3",
-   "filename": "PixelPlusUI_3.8_RMX1941-11.0-20210814-1458-OFFICIAL.zip",
-   "url": "https://download.ppui.site/eleven/RMX1941/PixelPlusUI_3.8_RMX1941-11.0-20210814-1458-OFFICIAL.zip",
+   "size": 1191234376,
+   "filehash": "f8393e6c4eaa0801edda87419f7b269a",
+   "id": "6d388610d8957ebfc23ab7d414b60cd407ba64c0c305a5860a95297058e74d4e",
+   "filename": "PixelPlusUI_3.9_RMX1941-11.0-20210915-0400-OFFICIAL.zip",
+   "url": "https://download.ppui.site/eleven/RMX1941/PixelPlusUI_3.9_RMX1941-11.0-20210915-0400-OFFICIAL.zip",
    "version": "Eleven"
 }
