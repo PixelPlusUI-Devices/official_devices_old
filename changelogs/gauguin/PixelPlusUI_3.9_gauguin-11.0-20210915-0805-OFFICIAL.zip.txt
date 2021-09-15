@@ -1,0 +1,43 @@
+DIRTY FLASH?
+Yes sure you can :)
+
+Device Changelogs:
+Disable ui touch sound by default
+Disable bluetooth by default
+Added icon for thermal profiles
+Switch to Prebuilt miui kernel
+
+Source Changelogs:
+• Latest September Patch Merged android-11.0.0_r43
+• Fixed Safety Net Issues and by defalut it will pass
+• Added BatteryHealth section in battery tab
+• Improved our Bumpy boy effect (now its system wide)
+• Add Lockscreen Clock Styles in Display Tab Settings
+• BatteryTab: Re-Arrange battery Tab and Update battery tab icons
+• UI: Re-arrangement stuff acording to PixelPlusUI Interface
+• Replace media notification background with artwork optional in Pixelizer
+• SystemUI: statusbar clock date customization in Pixelizer
+• SettingsLib: Improve ActionButtonsPreference UI
+• SystemUI: Introduce user interface for Alert Sliders
+• SystemUI: Redesign Media Player View inspired from Android S
+• SystemUI: Make A12 DP3 clock bigger
+• TwilightService: Save and use last fetched location
+• Pixelizer: Move Some features to pixelizer
+• Pixelizer: Update About Team Section info
+• apns: Add IPV4V6 to EE (UK)
+• kernel: Fix vdso32 building for 4.19+ kernels
+• Fix Three UK / FreedomPop APN (MCC 234 MNC 20)
+• vendor: apns: Add Digi Mobil
+• wall: Update new wall for new version 3.9
+• vendor/aosp: Bump version to v3.9 | Eternal
+• DT2Doze: Move Preference to gesture settings
+• Add Style picker & StatusBar Icon Tuner missing summary
+• Fixed Pulse Music App Crash
+• Nuked one Glitched Lockscreen Clock
+• core: Remove overscroll shadow for all
+• Drop the maximum recommended log size from 16MiB to 8MiB.
+• Workaround global ThinLTO build break
+• core: jni: Switch to -O3
+• SettingsProvider: Set device name to marketname if available
+• Improved Performance and Stability
+• Misc changes and fixes
