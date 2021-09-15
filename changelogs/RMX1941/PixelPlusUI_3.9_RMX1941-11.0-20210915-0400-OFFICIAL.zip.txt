@@ -1,0 +1,6 @@
+- Update to latest Redfin fp
+- Fix volte for some sim carriers
+- Minor bugs fixes
+- Fixed smart charging
+- Source side changes
+- September SPL
