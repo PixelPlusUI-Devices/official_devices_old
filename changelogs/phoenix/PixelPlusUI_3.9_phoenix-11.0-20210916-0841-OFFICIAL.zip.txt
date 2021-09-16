@@ -1,21 +1,11 @@
 Pixel Plus UI 3.9 Eternal Phoenix Changelog
-
 •Update Blobs from MIUI phoenix 21.9.1
-
 •Update graphics from LA.UM.9.1.r1-10900-SMxxx0.0
-
 •Update redfin fp to sept 2021
-
 •POCOParts : Add Support for HBM and CABC
-
 •POCOParts : Add force USB 2.0 FastCharge toggle 
-
 •Boost GPU to max for expensive rendering
-
 •iorap: Drop iorapd
-
 •Enable IORap app launch prefetching
-
 •Declare support for ARMv8.2 extensions
-
 •Disable ConfigStore Usage

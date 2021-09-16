@@ -1,4 +1,3 @@
-Changelog - 13/09/2021
 - Update blobs from V12.5.4.0.RJUMIXM
 - Bring back and switch to AOSP Wi-Fi Display (WFD) implementation
 - Import remaining Xiaomi init script changes
