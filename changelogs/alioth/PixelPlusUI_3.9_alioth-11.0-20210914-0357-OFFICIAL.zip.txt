@@ -1,0 +1,15 @@
+• Added Battery Health nodes
+• Improved Audio Output
+• Improved Display Color Props
+• Bumped up volume Audio in Video Recording
+• Fixed Screen Off Ok Google
+• Updated to latest miui blobs
+• Improved Sensor Configs
+• Fixed CTS
+• Removed Snap Camera
+• Added Moto Dolby
+• Improved Libperfgmr
+• Improved Deep Sleep
+• Used Optimus Drunk 11.15 (thanks to GtrCraft)
+• Improved Adaptive Refresh rate
+• Fixed mic issue in some games
