@@ -1,0 +1,8 @@
+Device side changelog:
+September Security Patch
+Fixed sound distortion
+Fixed random freeze/reboot issues 
+Switched to libperfmgr (pixel power hal)
+pure perf kernel based on @DemonSingur kernel
+Removed L1 hacks(use android 11 firmware if you want L1)
+
