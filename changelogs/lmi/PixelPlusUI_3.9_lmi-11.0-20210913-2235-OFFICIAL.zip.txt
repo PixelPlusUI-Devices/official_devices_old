@@ -1,0 +1,9 @@
+• Improved Audio Output
+• Improved Display Color Props
+• Bumped up volume Audio in Video Recording
+• Fixed CTS
+• Added FOD Support
+• Improved Deep Sleep
+• Using Latest Nexus
+• Improved Perfomance
+• Misc. Changes
