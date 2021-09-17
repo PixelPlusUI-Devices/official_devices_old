@@ -1,0 +1,5 @@
+- Fixed APN Issues
+- Fixed Slow Charging
+- Upstreamed Kernel to 4.19.205
+- Improved Wifi Stability
+- FingerPrint and DT2W are now super Fast
