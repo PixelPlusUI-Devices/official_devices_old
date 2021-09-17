@@ -1,0 +1,14 @@
+Device Changelogs:
+• September Security Patch
+• 50% RAM size for ZRAM
+• Enable low_ram flag for 2GB RAM variant
+• Kernel Upstreamed to v4.9.282 (Marvel Kernel)
+• Configured dext2oat for optimization
+• Included LiveDisplay
+• Optimize dalvik values
+• Included latest CameraGo_2.5_Greatness_Special
+• Updated RIL blobs from Tissot
+• Native video calling fixed
+• Addressed selinux denials
+• Configured cpuset
+• Some misc optimizations, updates and cleanup

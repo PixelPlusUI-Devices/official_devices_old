@@ -1,0 +1,14 @@
+violet: audio: Echo in Voip is completely fixed now
+violet: Enable Battery Health and add prem 
+violet: audio: Import xiaomi changes
+violet: Improved Performance and Reduced Idle drain
+violet: Added icon to Mi Dirac
+violet: Nuked Clear Speaker stuff
+violet: Updated Prebuilt Azure kernel
+violet: gps: Update to LA.UM.9.1.r1-10600-SMxxx0.0
+violet: Implement keyhandler for fingerprint shutter
+violet: audio: Checkout audio configs from LA.UM.9.1.r1-10600-SMxxx0
+violet: Dropped unspecialized app process pool prop
+violet: Most probably miracast stuff fixed (not tested though me poor af)
+violet: Kill IMS logspam 
+violet: Hell lot of cleanup and fixes

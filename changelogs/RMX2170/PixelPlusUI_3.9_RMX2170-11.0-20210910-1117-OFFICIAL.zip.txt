@@ -1,0 +1,7 @@
+[SOURCE]
+- https://ppui.site/changelog
+
+[DEVICE]
+- Enforcing (might show permissive in about, but check with getenforce)
+- NFC
+- More

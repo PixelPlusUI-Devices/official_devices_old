@@ -1,0 +1,14 @@
+• Initial OSS Build
+• Switch to Westcoast Kernel
+• Removed ANX Cam For Now  
+• Enable Battery Health and Address It's Denials 
+• Implemented Dirac Sound Enhancer [Under Sound Settings]
+• Implemented Clear Speaker [Under Sound Settings]
+• Implemented Per App Thermal Profiles [Under Battery]
+• Added Display Color Modes
+• Decreased Max Temp While Charging
+• Remove Virtual Frame Buffer
+• Switched To Prebuilt libcameraservice
+• Improved Performance and Stability(not kidding)
+• Misc Changes And Fixes(Which u wont understand)
+

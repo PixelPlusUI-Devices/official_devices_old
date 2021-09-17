@@ -1,0 +1,7 @@
+15th August, 2021
+- Shipped with N.E.O.L.I.T-V3 kernel.
+- Compiled with clang 13.
+- Latest September Patch Merged android-11.0.0_r43
+- Fixed Safety Net Issues and by defalut it will pass 
+- Some other improvements and bug fixes.
+- PixelPlusUI source upstream.

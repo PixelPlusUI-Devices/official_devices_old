@@ -8,9 +8,12 @@
 Redmi 3s (land) by Marvel
 Redmi 4A (rolex) by Zubair
 Redmi 5A (riva) by Zubair
+Redmi 6 Pro (sakura) by Rishav 
 Redmi 7 (onclite) by KostyaJRZ
 Redmi 8A Dual (olivewood) by Android404
 Redmi 9 (lancelot) by Box-boi
+Redmi 9 Power (juice) by John Paul
+Redmi 9T (juice) by John Paul
 Redmi S2/Y2 (ysl) by Sushmit
 Redmi Note 4 (mido) by Smokey
 Redmi Note 5A (ulysse)  by Archipelago
@@ -21,16 +24,18 @@ Redmi Note 7 Pro (violet) by Saurav
 Redmi Note 8/8T (ginkgo/willow) by Erwin 
 Redmi Note 8 Pro (begonia) by Zinadin 
 Redmi Note 9 (merlin) by Box Boi
-Redmi 9T (juice) by John Paul
-Redmi Note 9S (curtana_global) by itsXRP
-Redmi Note 9 Pro (curtana/joyeuse) by itsXRP
-Redmi Note 9 Pro MAX (excalibur) by itsXRP
-Redmi Note 9 Pro 5G  (gauguinpro) by Puneeth
+Redmi Note 9 4G china (juice) by John Paul
+Redmi Note 9S (curtana_global) by Tushar
+Redmi Note 9 Pro (curtana/joyeuse) by Tushar
+Redmi Note 9 Pro MAX (excalibur) by Tushar
+Redmi Note 9 Pro 5G  (gauguinpro) by Yasin
 Redmi Note 10 (mojito) by Arya
 Redmi Note 10 Pro (sweet) by Zaid
+Redmi K20 Pro  (Raphael) by Rahul
 Redmi K30 (Phoenix) by Kunal
 Redmi K30 Pro (lmi) by ZiadFekry & Soumyo
 Redmi K30 Pro ZOOM (lmi) by ZiadFekry & Soumyo
+Redmi K30S Ultra (apollo) by Hamza
 Redmi K40 (alioth) by Soumyo
 ```
 
@@ -40,9 +45,10 @@ Xiaomi Poco F1 (beryllium) by David
 Xiaomi Poco F2 Pro (lmi) by ZiadFekry & Soumyo
 Xiaomi Poco F3 (aliothon) by Soumyo
 Xiaomi Poco M2 (shiva) by Zubair
-Xiaomi Poco M2 pro (Gram) by itsXRP
-Xiaomi POCO M3 (juice) by John Paul
+Xiaomi Poco M2 pro (Gram) by Tushar
+Xiaomi Poco M3 (juice) by John Paul
 Xiaomi Poco X2 (phoenix) by Kunal
+Xiaomi Poco X3  (surya) by Hazama
 Xiaomi Poco X3 Pro (vayu) by Christian
 ```
 
@@ -54,9 +60,11 @@ Xiaomi Mi A3 (laurel_sprout) by H3M3L
 Xiaomi Mi 6X (wayne) by Christian
 Xiaomi Mi 8 (dipper) by Sena
 Xiaomi Mi 9 (cepheus) by Mehdi
-Xiaomi Mi 10i 5G (gauguininpro) by Puneeth
-Xiaomi Mi 10T Lite (gauguin_global) by Puneeth
-Xiaomi Mi 10T/Pro (apollo) By Master 
+Xiaomi Mi 9T Pro (Raphael) by Rahul
+Xiaomi Mi 10i 5G (gauguininpro) by Yasin
+Xiaomi Mi 10T (apollo) by Hamza
+Xiaomi Mi 10T Pro (apollo) by Hamza
+Xiaomi Mi 10T Lite (gauguin_global) by Yasin
 Xiaomi Mi 11x (aliothin)  by Soumyo
 ```
 ## - Nokia Devices
@@ -87,9 +95,15 @@ Realme C12 (RMX2185) by Aryan
 Realme Narzo 10a (rmx2020) by Sarthak
 Realme Narzo 20 (RMX2193)  by Abhishek & Sarthak
 Realme Narzo 20 Pro (RMX2151) by Sauraj 
+Realme X (RMX1901) by Satham
 Realme X3 (RMX2081) by Nishant
 Realme X3 SuperZOOM (RMX2081) by Nishant
 Realme XT (RMX1921) by Probir
+```
+
+## - Meizu Devices
+```bash
+Meizu 16 TH (m1882) by Dogukan
 ```
 
 ## - Asus Devices

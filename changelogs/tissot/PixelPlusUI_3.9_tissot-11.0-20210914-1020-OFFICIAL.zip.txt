@@ -1,0 +1,8 @@
+- Enable Battery Health and add prem
+- Random Freeze is almost gone now
+- Fixed Safety Net (Now it passes without root)
+- Banking apps like gpay etc are now working fine
+- Addressed Some sepolicy denails
+- Improved Performance and Reduced Idle drain
+- Misc changes and fixes
+

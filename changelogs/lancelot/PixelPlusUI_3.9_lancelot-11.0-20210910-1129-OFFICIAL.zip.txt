@@ -1,0 +1,9 @@
+- HotFix Build
+- Removed Redundant Stuff
+- Debloated Gapps
+- Safetynet Passes By Default
+- Removed Dirac(No More Crashes)
+- Removed ANXCamera
+- Fixed Dialer Call Issue
+- If SystemUI Still Crashes, Fastboot Flash Miui A11, Skip Fw flash, and CleanFlash PPUI
+

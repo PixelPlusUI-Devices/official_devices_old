@@ -1,0 +1,5 @@
+Updated FP to Redfin September
+Switched to MIUI Camera (Removed GcamGO)
+Switched to QTI Vibrator Hal
+Switched to QTI Bluetooth Stack
+Updated to Silvercore 9.9
