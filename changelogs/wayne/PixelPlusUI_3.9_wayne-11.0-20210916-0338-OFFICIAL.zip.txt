@@ -1,0 +1,17 @@
+Changelog - 16/09/2021
+- Rebased whole tree (CLEAN FLASH IS MUST)
+- Fixed dirac not working on previous build
+- Increased earpiece volume 
+- Reduced GPU Idle timer to 64ms
+- Updated thermal blobs from Redmi 9T
+- Updated blobs from LA.UM.9.1.r1-10900-SMxxx0.0
+- Updated init.rc and init.sh from LA.UM.9.2.1.r1-08000-sdm660.0
+- Added more cpusets from 4.4 
+- Optimized everything on preopt 
+- Switched to WALT based 
+- Set thermal mode to evaluation (dynamic) as default
+- Enabled incall music support
+- Nuked AOD stuffs (not working in sdm660 4.19)
+
+Credits:
+- Thanks @clarencelol for tree
