@@ -1,0 +1,5 @@
+- 3.9 update and changelog
+• Kernel upstream to latest linux stable.
+• Improved scrolling.
+• Made overall ui smooth.
+• More fixes here and there.
