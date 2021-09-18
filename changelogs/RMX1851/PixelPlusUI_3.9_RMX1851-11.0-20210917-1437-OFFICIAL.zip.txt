@@ -1,0 +1,5 @@
+Switch To Barbet Google FP
+Import Perf Components
+Fix the issue where WIFI was not Working after flashing kernel
+Misc Changes 
+CTS fixed & device is certified
