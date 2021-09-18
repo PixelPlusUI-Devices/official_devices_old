@@ -1,17 +1,11 @@
 {
-   "datetime": 1621242840,
-   "donate_url": "https://del.dog/donateforppui.txt",
+   "datetime": 1631951040,
    "error": false,
-   "filehash": "002ca8b9876e3c9d4e6bc2c9456fbf0a",
-   "filename": "PixelPlusUI_3.5_r5x-11.0-20210517-0914-OFFICIAL.zip",
-   "forum_url": "https://forum.xda-developers.com/t/rom-11-0-realme-5-realme-5i-realme-5s-pixelplusui-official-eleven-aosp.4272121/",
-   "id": "ca70ad44e1f08cbf367f2c6ae131e783daaa62d19484039b588ee74e199f5831",
-   "maintainer": "iamlordutkarsh",
-   "maintainer_url": "https://github.com/iamlordutkarsh",
-   "news_url": "https://t.me/ppuinews",
-   "size": 1500052378,
-   "telegram_username": "lordwitcher",
-   "url": "https://sourceforge.net/projects/pixelplusui-project/files/eleven/Realme5_Series/PixelPlusUI_3.5_r5x-11.0-20210517-0914-OFFICIAL.zip/download",
-   "version": "Eleven",
-   "website_url": "https://pixelplusui.github.io"
+   "size": 1496834806,
+   "filehash": "5ed0defc92d4c91602aaa64a4352feb8",
+   "id": "ab6f2f4f647bc0f46916e2965933ef71701789514e33c3f5387e4ff1fc8f5669",
+   "filename": "PixelPlusUI_3.9_r5x-11.0-20210918-0744-OFFICIAL.zip",
+   "url": "https://download.ppui.site/eleven/Realme5_Series/PixelPlusUI_3.9_r5x-11.0-20210918-0744-OFFICIAL.zip",
+   "version": "Eleven"
 }
+

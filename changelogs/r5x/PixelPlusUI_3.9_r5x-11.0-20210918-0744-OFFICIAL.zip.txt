@@ -1,0 +1,4 @@
+r5x: gps: Update to LA.UM.9.11.r1-04500-NICOBAR.0
+r5x: manifest: Update uceservice HAL to v2.3
+r5x: Add egis fingerprint firmware
+Some Other Misc Changes and Improvements
