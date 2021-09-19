@@ -1,0 +1,16 @@
+Changelogs:
+- Update Redfin FP for September 2021
+- Fixed Video Recording Issues
+- Enabled Battery Health on Settings
+- Fixed Network Indicator Placement
+- And more
+- Please report bugs with proper logs :D
+
+Notes:
+- Use TWRP by brigudav
+- Dirty flashing over old build (3.8) is fine
+- FW is already included
+- Turn Off AOD if you faced any issues
+
+Credits:
+- Thanks to @kenny3fcb, @ghostrider_reborn, @Unicote, @NickvBokhorst, @allworkdone and all the devs for sources and help, and @ws18x for testing
