@@ -1,0 +1,7 @@
+
+*Upstreamed Kernel
+*Switched to FBE (File Based Encryption)
+*Updated Blobs
+*Enabled 2.4 GHz Wifi channel bonding
+*Enabled LED based Vibrator
+*Performance and smoothness improvements
