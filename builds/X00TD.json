@@ -1,0 +1,18 @@
+{
+  "error": true,
+  "maintainers": [
+    {
+      "main_maintainer": true,
+      "github_username": "DrtSinX98",
+      "name": "Pritish"
+    }
+  ],
+  "datetime": 1632144900,
+  "error": false,
+  "filehash": "343e05bd5cfb7fb7a90cf6686a81a487",
+  "filename": "PixelPlusUI_3.9_X00TD-11.0-20210920-1335-OFFICIAL.zip",
+  "id": "aefd3a9a3e50bdcdbc450b2109cbee0105e9f5df624ccd09bc5d2170430ba73b",
+  "size": 1397845828,
+  "url": "https://download.ppui.site/eleven/X00TD/PixelPlusUI_3.9_X00TD-11.0-20210920-1335-OFFICIAL.zip",
+  "version": "Eleven"
+}
