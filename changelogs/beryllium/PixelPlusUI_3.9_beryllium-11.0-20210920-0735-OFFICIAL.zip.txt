@@ -1,3 +1,4 @@
 Switched to Google Camera (Removed MIUI Camera)
 Removed QTI Vibrator Hal
+Fixed Faceunlock
 Updated to Silvercore 10.0
