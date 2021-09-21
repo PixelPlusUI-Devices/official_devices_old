@@ -1,0 +1,5 @@
+* Shipped with Source Built Kernel
+* Updated Blobs to A.95
+* Added realme Dirac
+* Cleaned up realmeParts 
+* Misc Performance Changes
