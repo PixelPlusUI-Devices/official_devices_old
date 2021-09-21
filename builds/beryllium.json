@@ -1,17 +1,10 @@
 {
-   "datetime": 1631339880,
-   "donate_url": "https://del.dog/donateforppui.txt",
+   "datetime": 1632123300,
    "error": false,
-   "filehash": "1efd1292333304208a772bec5ab07f5e",
-   "filename": "PixelPlusUI_3.9_beryllium-11.0-20210911-0558-OFFICIAL.zip",
-   "forum_url": "https://forum.xda-developers.com/t/rom-official-11-0-beryllium-pixelplus-ui-3-4-onyx-aosp.4261063/",
-   "id": "8ababbc3e90cc62ff5ca0f678e5c4d1894740cb3739c97f9092d010209876c11 ",
-   "maintainer": "Prabh",
-   "maintainer_url": "https://github.com/resurrected21",
-   "news_url": "https://t.me/ppuinews",
-   "size": 1749367734,
-   "telegram_username": "resurrected24",
-   "url": "https://download.ppui.site/eleven/beryllium/PixelPlusUI_3.9_beryllium-11.0-20210910-1651-OFFICIAL.zip",
-   "version": "Eleven",
-   "website_url": "https://pixelplusui.github.io"
+   "filehash": "fe1347de68581adc373238238b557598",
+   "filename": "PixelPlusUI_3.9_beryllium-11.0-20210920-0735-OFFICIAL.zip",
+   "id": "420f49551e8c576af9b01176d03be09ca3c71b935cc8043645fa673f59e6ae2b",
+   "size": 1568131476,
+   "url": "https://download.ppui.site/eleven/beryllium/PixelPlusUI_3.9_beryllium-11.0-20210920-0735-OFFICIAL.zip",
+   "version": "Eleven"
 }
