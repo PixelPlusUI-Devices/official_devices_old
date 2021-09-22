@@ -1,3 +1,5 @@
+Fixed all weird issues
+Safety Net Passes by default
 Improved FOD and fixed all glitches related to it
 Improved Thermals & thermal hals updated to V2.0
 Uses Soviet Kernel R2.1
