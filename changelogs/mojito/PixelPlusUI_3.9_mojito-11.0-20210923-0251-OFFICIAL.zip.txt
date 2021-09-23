@@ -1,0 +1,10 @@
+- Switched To Source FP
+- ANX Cam Is Back
+- Fixed Auto Brightness
+- Fixed Mic Issues
+- Improved Status Bar Padding
+- Updated Device Cutout Corners
+- Added Xiaomi Mlipay Service Blobs
+- Switched To Aosp WiFi Display
+- Bring Back Full Stack Of Audio AC DB
+- Update Blobs From V12.5.3.0.RKGMIXM
