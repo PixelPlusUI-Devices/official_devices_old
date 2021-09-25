@@ -1,0 +1,14 @@
+- Added New Power Hint
+- Dropped Some Deprecated Perf Components 
+- Added New Perf Blobs
+- Updated Some Configs
+- Mask Vendor Security Patch
+- Disabled Bluetooth On First Boot 
+- Increase Audio HAL Buffer Size To 240
+- Enforce 24-bit Audio For Offload Playback
+- Enabled IORap And IORap Prefetching
+- Removed Virtual Frame Buffer
+- Force show network traffic on statusbar
+- Probably Few More Here & There
+- Move KharaMeDirac to system
+- Fixed Battery Health
