@@ -1,0 +1,4 @@
+- Update RedfinFP to October. 
+- Import Bluetooth aptX blobs from Coral.
+- Fixed network traffic monitor on statusbar.
+- Upstreamed default kernel.
