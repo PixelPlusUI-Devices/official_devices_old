@@ -1,10 +1,10 @@
 {
-   "datetime": 1631614800,
+   "datetime": 1633522500,
    "error": false,
-   "size": 1057187392,
-   "filehash": "09abc4375cf198551ad6c4764e58ec34",
-   "id": "7b66d01a91b4834dd6ea402f3c8416037b2ea1feebf3844bfb2d778c880ff50e",
-   "filename": "PixelPlusUI_3.9_tissot-11.0-20210914-1020-OFFICIAL.zip",
-   "url": "https://download.ppui.site/eleven/tissot/PixelPlusUI_3.9_tissot-11.0-20210914-1020-OFFICIAL.zip",
+   "size": 1055482417,
+   "filehash": "0d99bc3d123b4d3389adf090d94c501d",
+   "id": "4247a0c30b72049db51bf43259591dd62d852a0c6bbbb5eb826339405c1118c4",
+   "filename": "PixelPlusUI_3.10_tissot-11.0-20211006-1215-OFFICIAL.zip",
+   "url": "https://download.ppui.site/eleven/tissot/PixelPlusUI_3.10_tissot-11.0-20211006-1215-OFFICIAL.zip",
    "version": "Eleven"
 }
