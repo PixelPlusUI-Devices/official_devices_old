@@ -1,0 +1,17 @@
+Overlay: enable screen off fod
+
+Important : FW in not included in this Build
+
+- Kernel:
+
+Upstreamed to 4.14.247
+
+- Device:
+
+Update from cepheus-user 11 RKQ1.200826.002 V12.5.4.0.RFACNX
+
+Enable blurs, under dev-option
+
+Build LiveDisplay
+
+Remove packages at build time : optimize ROM size.
