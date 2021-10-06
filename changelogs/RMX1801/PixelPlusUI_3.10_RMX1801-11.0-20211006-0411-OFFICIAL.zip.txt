@@ -1,0 +1,10 @@
+Revert "RMX1801: Add sepolicy for qti thermal" 
+RMX1801: Switch to Thermal 2.0 mock
+RMX1801: Create dummy libqti-perfd-client
+RMX1801: libqti-perfd-client: return a dummy value 
+RMX1801: libqti-perfd-client: Remove namespace declaration
+RMX1801: rootdir: Enable EAS after boot instead of early-init
+RMX1801: reduce TA boost 
+RMX1801: Downrev audio to 4.0
+Revert "RMX1801: Disable debug.sf.latch_unsignaled"
+RMX1801: Enable blurs, under dev-option
