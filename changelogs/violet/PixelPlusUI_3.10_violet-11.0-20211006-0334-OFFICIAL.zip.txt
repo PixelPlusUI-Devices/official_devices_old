@@ -1,0 +1,7 @@
+- Fixed VoIP Echo issues in whatsapp faced by some users (personally checked)
+- Back to Saxx Audio Quality (No distortion issues nothing)
+- Fixed Idle Drain issues faced by some users
+- You wont get night light, so use live display stuff same like night light
+- Updated Azure kernel to latest source
+- Current Battery Capacity is disabled. If you see the counter resetted, don't panic. It's intended and it won't affect anything at all. The limit is removed for good
+- This is all you get ( stable and balanced ROM for daily usage) in your free subscription so don't pm me with your shitty feature request, make sure u have supported ROM enough before asking
