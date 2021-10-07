@@ -1,17 +1,17 @@
 {
-   "datetime": 1631813520,
+   "datetime": 1633598100,
    "donate_url": "https://del.dog/donateforppui.txt",
    "error": false,
-   "filehash": "805a1e1a6f0712b8e6dd479d71b4beeb",
-   "filename": "PixelPlusUI_3.9_apollo-11.0-20210916-1732-OFFICIAL.zip",
+   "filehash": "80a9cd060b6595196d563c607cb02d9a",
+   "filename": "PixelPlusUI_3.10_apollo-11.0-20211007-0915-OFFICIAL.zip",
    "forum_url": "https://forum.xda-developers.com/t/rom-11-0-official-pixelplusui-eleven-aosp-mi-10t-pro-apollo.4326997/",
-   "id": "a85a0440b017660bd4acf9210ebb432217287c081d3bf5a2ee6fab8fcb711e60",
+   "id": "6e14047e585710c5a98442c14a8cc735503af998c908d5abdd74282d55cd335d",
    "maintainer": "Master",
    "maintainer_url": "https://github.com/mhmdeve",
    "news_url": "https://t.me/ppuinews",
-   "size": 1738250848,
+   "size": 1731201847,
    "telegram_username": "@mhmdeveloper",
-   "url": "https://download.ppui.site/eleven/apollo/PixelPlusUI_3.9_apollo-11.0-20210916-1732-OFFICIAL.zip",
+   "url": "https://download.ppui.site/eleven/apollo/PixelPlusUI_3.10_apollo-11.0-20211007-0915-OFFICIAL.zip",
    "version": "Eleven",
    "website_url": "https://pixie-codes.github.io/pixelplusui/home"
 }
