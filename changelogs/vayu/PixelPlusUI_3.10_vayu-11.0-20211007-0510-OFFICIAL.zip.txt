@@ -1,0 +1,5 @@
+- Enable AOSP SIM toggle
+- Minor refresh rate improvement
+- Fix SafetyNet issues for all users
+- Fix GoogleCamera mod video recording issue
+- Allow all 4 rotations
