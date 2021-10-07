@@ -1,0 +1,7 @@
+- Upstreamed Kernel to 4.19.206
+- Fixed minor bugs
+- Removed Dolby because of mic issue
+- Fixed Battery Cycle Count
+- Updated Clear Speaker function
+- Fixed Low Volume In GoogleCamera
+
