@@ -1,8 +1,0 @@
--Switch to coral fp
--Add additional BT audio props (aptX, LDAC)
--Add device specific power class
--Add few surfaceflinger tweaks
--Reduce screenshot delay to 0
--Disable Rx wakelock feature
--Enable debug.perf.tuning
--Added battery health           
