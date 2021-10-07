@@ -1,0 +1,19 @@
+============
+2021/10/07
+============
+
+Unified build for OnePlus 8T/9R
+Added OnePlus Camera
+Added OnePlus Settings
+Enabled Force show traffic indicators in status bar
+Changed FOD icon to OOS 10 icon
+Changed FOD colour to white
+Enabled freeform window
+Updated blobs from OOS 11.2.5.5
+Sync Media props with stock
+Enabled tap tp show ambient display by default
+
+Note:
+
+Clean flash mandatory
+Safety Net passes by default
