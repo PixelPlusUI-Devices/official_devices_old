@@ -1,0 +1,31 @@
+Device Changelog:
+ 
+• Update build fingerprints to Redfin October
+• Enable Updatable Apex
+• Introduce "Serum Kernel" based on @Shekhawat2's KCUF Kernel
+• Upstream Kernel with Latest Tag 4.4.285
+• Update Wireguard to v1.0.20210606
+• Use O3 Optimization 
+• Merge CAF Tag LA.UM.9.2.r1-03600-SDMxx0.0 in Kernel
+
+Source Changelog:
+• Latest October Patch Merged android-11.0.0_r48
+• SystemUI: QS Header data usage info
+• Fixed a crash in settings in tts engine selection screen
+• SystemUI: Enable and fix QS detail view, adapt layout to 11
+• SystemUI: Add simple fade filter to the media artwork
+• FOD: Use OOS 10 FOD icon by default
+• PixelPropsUtils: Invite streaming apps to the party
+• BrightnessSynchronizer: make brightness tolerance overlay-able
+• Data Usage: Move to QS header
+• Base : Introduce new brightness bar (Special Thanks to Octavi Team)
+• TrafficIndicator: Force show network traffic on statusbar
+• UI: Rearrange acording to PixelPlusUI Interface v2
+• Dashboard: Update App & Notification icon
+• Make slider same as brightness one in Sound tab
+• Pixelizer: Update Team Info
+• vendor/aosp: Bump version to v3.10 | Smasher
+• wall: Update new wall for new version 3.10
+• Bootanimation: Updated •Bootanimation for 1440p
+• Improved Performance and Stability
+• Misc changes and fixes
