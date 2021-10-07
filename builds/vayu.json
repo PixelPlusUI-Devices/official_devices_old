@@ -1,10 +1,10 @@
 {
-   "datetime": 1631497620,
+   "datetime": 1633583400,
    "error": false,
-   "size": 1701113472,
-   "filehash": "754fc22141ba76c9d4b94e808056e154",
-   "id": "055ade9da26d2bc0207b8e5b9579f28386ac9276891ad01c8f641cb882443658",
-   "filename": "PixelPlusUI_3.9_vayu-11.0-20210913-0147-OFFICIAL.zip",
-   "url": "https://download.ppui.site/eleven/vayu/PixelPlusUI_3.9_vayu-11.0-20210913-0147-OFFICIAL.zip",
+   "size": 1697214019,
+   "filehash": "39054051ca5739f5d89ba39afc08efb3",
+   "id": "043c9e52343c12cdbed2b81aa27456bd410bba5f07837f292be814731fd892b2",
+   "filename": "PixelPlusUI_3.10_vayu-11.0-20211007-0510-OFFICIAL.zip",
+   "url": "https://download.ppui.site/eleven/vayu/PixelPlusUI_3.10_vayu-11.0-20211007-0510-OFFICIAL.zip",
    "version": "Eleven"
 }
