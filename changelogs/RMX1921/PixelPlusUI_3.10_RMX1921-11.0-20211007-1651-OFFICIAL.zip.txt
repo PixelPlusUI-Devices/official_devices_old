@@ -1,0 +1,4 @@
+Device Changelog:-
+* Kernel upstreamed to latest 4.9.285
+* Update brightness pattern from Realme 7 Pro
+* Improvement on UI
