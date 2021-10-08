@@ -1,0 +1,5 @@
+- Increased earpiece volume
+- Added 24-bit audio 
+- Updated powerhint
+- Imported xiaomi_sdm660 IR hals from LOS
+- Fixed low geekbench scores after idle 
