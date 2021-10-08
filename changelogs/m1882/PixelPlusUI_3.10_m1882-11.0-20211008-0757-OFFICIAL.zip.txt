@@ -1,0 +1,6 @@
+**Device Changelog**
+- Full VNDK enabled
+- Some edits for meizu camera.
+- PixelPlusUI source upstream.
+- sdm845: Build libgui_vendor and symlink it to libgui.
+- sdm845: Define HDR DisplayFeature
