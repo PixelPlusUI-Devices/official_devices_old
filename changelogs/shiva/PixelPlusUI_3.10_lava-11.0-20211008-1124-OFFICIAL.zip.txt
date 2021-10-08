@@ -1,0 +1,4 @@
+- 3.10 update and changelog
+• October security patch (safetynet passes by default)
+• Fixed ok google.
+• If SystemUI Still Crashes, Fastboot Flash Miui A11, Skip Fw flash, and CleanFlash PPUI
