@@ -1,0 +1,4 @@
+- October Security Patch(Safetynet Passes By Default)
+- Added Back All Default Gapps
+- OK Google Fixed
+- If SystemUI Still Crashes, Fastboot Flash Miui A11, Skip Fw flash, and CleanFlash PPUI
