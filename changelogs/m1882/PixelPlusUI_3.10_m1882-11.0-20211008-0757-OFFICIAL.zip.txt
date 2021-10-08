@@ -1,0 +1,4 @@
+-Full VNDK enabled
+-Some tweaks for the camera
+-sdm845: Define HDR DisplayFeature
+-sdm845: Build libgui_vendor and symlink it to libgui
