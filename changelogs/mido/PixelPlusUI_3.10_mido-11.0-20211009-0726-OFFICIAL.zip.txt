@@ -1,0 +1,5 @@
+Redmi Note 4 (Mido) Changelogs v3.10
+=====================================
+-> PixelPlusUI v3.10 Source Upstreamed
+-> Updated to Oct FP
+-> Misc Changes and Fixes
