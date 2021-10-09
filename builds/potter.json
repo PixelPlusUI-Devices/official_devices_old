@@ -1,16 +1,11 @@
+
 {
-   "datetime": 1618415160,
-   "donate_url": "https://del.dog/donateforppui.txt",
+   "datetime": 1633706820,
    "error": false,
-   "filehash": "78b0a2eeba7c8f941897b195484ecf3f",
-   "filename": "PixelPlusUI_3.4_potter-11.0-20210414-1546-OFFICIAL.zip",
-   "id": "435bec303b214a52bae0b6d423618bc79db171a75ccd03b8cbc9de7e8b1b8c0e",
-   "maintainer": "Zilberto junior",
-   "maintainer_url": "https://github.com/zjunior06",
-   "news_url": "https://t.me/ppuinews",
-   "size": 1193589961,
-   "telegram_username": "zjunior06",
-   "url": "https://sourceforge.net/projects/pixelplusui-project/files/eleven/potter/PixelPlusUI_3.4_potter-11.0-20210414-1546-OFFICIAL.zip/download",
-   "version": "Eleven",
-   "website_url": "https://pixelplusui.github.io"
+   "size": 1186999454,
+   "filehash": "a74472bd589a95e4c041b0258e1d528b",
+   "id": "7e335e2184157895d1f5d018cbf39d71d20af08461d03efbbfce83a8a7507357",
+   "filename": "PixelPlusUI_3.10_potter-11.0-20211008-1527-OFFICIAL.zip",
+   "url": "https://download.ppui.site/eleven/potter/PixelPlusUI_3.10_potter-11.0-20211008-1527-OFFICIAL.zip",
+   "version": "Eleven"
 }
