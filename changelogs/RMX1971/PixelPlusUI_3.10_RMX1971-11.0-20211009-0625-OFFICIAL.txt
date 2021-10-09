@@ -1,0 +1,6 @@
+- Upstreamed kernel to v4.9.285
+- Merged latest CAF Tag LA.UM.9.8.r1-04000-SDM710.0
+- Fixed Quick Torch
+- Make UI Smoother
+- Fix aptX blobs
+- Misc improvements to stability and speed
