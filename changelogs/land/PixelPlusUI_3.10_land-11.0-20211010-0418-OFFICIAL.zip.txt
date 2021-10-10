@@ -1,0 +1,9 @@
+Redmi 3S (land) Changelogs v3.10
+=====================================
+• PixelPlusUI v3.10 Source Upstreamed
+• Addressed selinux denials
+• Updated blobs from LA.UM.9.6.2.r1-04200-89xx.0
+• land: Added dynamic thermal
+• Enabled wifi calling for more india carriers
+• Some misc optimizations, updates and cleanup
+• Adapt gpu-usr for land
