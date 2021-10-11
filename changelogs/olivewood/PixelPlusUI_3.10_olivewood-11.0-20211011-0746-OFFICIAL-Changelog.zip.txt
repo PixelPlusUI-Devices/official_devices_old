@@ -1,0 +1,18 @@
+Device side changelog:
+• Fully R blobs
+• Updated blobs from latest caf tag
+• Fixed issues related to camera
+• New tree based on zeelog mido R tree
+• Switched to aosp wfd
+• Switched to OSS Camera hal
+• fixed touchscreen issue
+• increased mic volume
+• Fixed vilte
+• fixed sepolicy neverallows
+• Addressed some denials
+• Enable zram-writeback job
+• Update ramdisk to R and refactor rootdir
+• Enabled blurs
+• Fixed logspams
+• Align device props from caf tag
+Many more!
