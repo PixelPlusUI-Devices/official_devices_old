@@ -1,0 +1,12 @@
+• Probably Fixed All Mic issues
+• Switched to Legion Kernel V3
+• Move Thermal Profiles Below Battery Tab 
+• Added Icon For Thermal Profiles
+• Fixed Ok/Hey Google
+• Updated Brightness Overlay Configs 
+• Added camera Cutout Ring Like MIUI
+• Update Blobs From V12.5.3.0.RKGMIXM
+• Smarter Decisions On Whether To Use 2/5Ghz AP
+• Disabled Wifi Firmware Logging
+• Enabled Wi-Fi Hals Power Saving
+• Minor Improvements And Fixes
