@@ -1,0 +1,19 @@
+ uprev IRadio HAL to 1.5
+
+ fix baterry health
+
+ adress denials for baterry info
+
+ update camera configs from MIUI v12.5.8.0 RKFINXM
+
+ update brightness overlays from MIUI V12.5.6.0 RKFMIXM
+
+ update blobs from MIUI v12.5.8.0 RKFMIXM
+
+ Limit screen recorder to 90fps
+
+ Enable burnin protection
+
+ update ANXCamera to V204
+
+ Arrow kernel prebuild

@@ -39,7 +39,7 @@ We have two types of Custom ROMs on the Redmi Note 10 Pro / Pro Max
 
 ## PixelPlusUI Based OSS Vendor Or MIUI Vendor ?
 
-• Well PixelPlusUI Based On MIUI Vendor.
+• Well PixelPlusUI Based On OSS Vendor.
 
 
 ## A few notes about flashing Custom ROMs
