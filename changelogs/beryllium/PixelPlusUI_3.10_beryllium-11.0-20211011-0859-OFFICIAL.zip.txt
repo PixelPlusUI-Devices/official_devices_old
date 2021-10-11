@@ -1,0 +1,4 @@
+Updated Redfin October FP
+Fixes delay on getting network service after boot
+Added MiuiCamera
+Updated to Latest Silvercore
