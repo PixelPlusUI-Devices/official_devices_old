@@ -1,0 +1,4 @@
+Changed default kernel to R.O.E.G 4.14.248
+Added Realme Dirac Sound enhancer
+Updated blobs to C.22
+Minor fixes and improvements
