@@ -1,0 +1,4 @@
+• Added Network Indicator in Statusbar
+• Switched to ArrowOS Kernel
+• Improved Mic Compatibility
+• Oct Sec Patch
