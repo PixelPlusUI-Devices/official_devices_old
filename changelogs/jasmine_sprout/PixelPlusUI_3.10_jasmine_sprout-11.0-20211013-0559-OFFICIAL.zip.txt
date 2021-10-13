@@ -1,0 +1,8 @@
+* improvement in earpiece sound 
+* tuned powerhint 
+* Added commonized IR Hals for xiaomi_sdm660  
+* added vilte support but only working on jio
+* Imported xiaomi_sdm660 IR Hals from los
+* Fixed low geekbench scores after idle 
+* upstreamed aeon kernel to 210
+* eol build see u guys on 4.0
