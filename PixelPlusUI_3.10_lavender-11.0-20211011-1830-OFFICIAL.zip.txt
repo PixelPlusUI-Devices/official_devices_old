@@ -1,0 +1,15 @@
+> lavender: Remove ESE power management blobs
+> lavender: Cleanup some non existent and unessential services
+> lavender: Kill console parameters
+> lavender: Remove USE_XML_AUDIO_POLICY_CONF
+> lavender: Remove PRODUCT_COMPATIBLE_PROPERTY_OVERRIDE
+> lavender: Remove BOARD_PROPERTY_OVERRIDES_SPLIT_ENABLED
+> lavender: Stop building android.hardware.broadcastradio HIDL impl
+> lavender: libhidl: Move to Android.bp
+> lavender: Drop MMS user agent overlays
+> lavender: Remove vndk-ext
+> lavender: libshims: Move to Android.bp
+> lavender: Drop Qualcomm WFD
+> lavender: Update blobs from lavender
+> lavender : update coral fingerprint
+
