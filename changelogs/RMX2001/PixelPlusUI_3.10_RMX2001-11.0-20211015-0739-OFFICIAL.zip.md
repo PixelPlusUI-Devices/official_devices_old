@@ -1,0 +1,7 @@
+### Device Changelog
+ - Shipped with latest N.E.O.L.I.T kernel.
+ - Compiled with clang 13.
+ - Latest October ASB (android-11.0.0_r46)
+ - Improved Blur.
+ - Some other improvements and bug fixes.
+ - PixelPlusUI source upstream.
