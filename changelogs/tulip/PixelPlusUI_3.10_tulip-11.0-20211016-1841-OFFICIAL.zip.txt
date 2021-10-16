@@ -1,0 +1,5 @@
+October security patch
+Switched to Mystic kernel and upstreamed to 4.4.288
+PixelPlusUI v3.10 Source Upstreamed
+Improved performance and Stability
+Misc Changes and Fixes
