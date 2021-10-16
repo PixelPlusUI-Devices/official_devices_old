@@ -1,0 +1,7 @@
+Changelog:
+
+Improved FOD
+Fixed Screen Off FOD
+Improved Battery Idle Drain
+Improved System Stability & performance
+Oct Patch
