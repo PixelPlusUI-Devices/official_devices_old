@@ -1,0 +1,5 @@
+- 3.10 Update and Changelog
+• Upstreamed rom source to 3.10 | Azrael.
+• Improved battery backup a little.
+• More smooth ui.
+• Misc changes here and there.
