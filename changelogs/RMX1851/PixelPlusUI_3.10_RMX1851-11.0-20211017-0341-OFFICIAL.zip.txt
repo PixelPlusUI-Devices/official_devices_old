@@ -1,0 +1,5 @@
+* update Barbet FP (October)
+* Removed khrame kernel
+* CTS passed by default
+* Add perfomance tweaks for memory mangement
+* Misc changes & fixes
