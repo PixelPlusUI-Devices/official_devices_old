@@ -1,0 +1,4 @@
+-Add offline charging indicator
+-Update Redfin fp to October
+-Update default cam to ANX192.NeoX
+-Various under the hood changes for more optimization
