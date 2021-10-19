@@ -1,0 +1,5 @@
+****Device Changelog****
+• October security patch.
+• Set default refresh rate to 60
+• Enable refresh rate change switch in display settings
+• Bug fixes and improvements
