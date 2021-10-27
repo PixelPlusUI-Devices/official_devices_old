@@ -1,0 +1,6 @@
+DIRTY FLASH?
+Yes sure you can :)
+
+Source Changelogs:
+• Latest October Patch Merged android-11.0.0_r48
+• SystemUI: QS Header data usage info
