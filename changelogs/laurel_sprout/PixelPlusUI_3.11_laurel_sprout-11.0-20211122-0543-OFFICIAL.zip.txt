@@ -1,0 +1,4 @@
+Latest November Patch Merged
+Update Redfinfp to November 
+CTS passes by default
+Misc changes and fixes
