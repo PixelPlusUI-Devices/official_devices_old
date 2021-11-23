@@ -1,0 +1,22 @@
+Changelog - 2021/11/23
+
+Limit Netflix to 60hz only
+Add Notch Bar Killer overlay
+Add values-pt-rBR to Notch Bar Killer overlay
+Latest November Patch Merged
+CTS passes by default
+Disable Bluetooth by default
+Show Turbo charging instead of Charging rapidly
+Make the UI smoother
+decrease camera cutout RING_SIZE
+Added Anx PreBuild 
+Fix Anx Nightsight (pink tint)
+Removed Rounded corner in Gboard
+Improved Performance and Stability
+Misc changes and fixes
+
+Credi :-
+  •  @daniml3 For DT base
+  •  @sarthak15t & @Globen76 for test
+
+Note :- arrow kernel prebuild (name change)
