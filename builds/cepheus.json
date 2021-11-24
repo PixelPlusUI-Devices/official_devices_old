@@ -1,10 +1,10 @@
 {
-   "datetime": 1633512420,
+   "datetime": 1637750460,
    "error": false,
-   "size": 1359868479,
-   "filehash": "d616d1278123ea27fd21a986c9f22553",
-   "id": "5bc4b4a15cfd9b450373aeb94bfc7eda833470111820211a75e9f5340962f6ff",
-   "filename": "PixelPlusUI_3.10_cepheus-11.0-20211006-0927-OFFICIAL.zip",
-   "url": "https://download.ppui.site/eleven/cepheus/PixelPlusUI_3.10_cepheus-11.0-20211006-0927-OFFICIAL.zip",
+   "size": 1360244119,
+   "filehash": "4c35ad0bad691d738a5345f9db447095",
+   "id": "6cdd6b33aa85206c11039b1fef99fc145839b31f03ba2616a3798955b346418a",
+   "filename": "PixelPlusUI_3.11_cepheus-11.0-20211124-1041-OFFICIAL.zip",
+   "url": "https://download.ppui.site/eleven/cepheus/PixelPlusUI_3.11_cepheus-11.0-20211124-1041-OFFICIAL.zip",
    "version": "Eleven"
 }
