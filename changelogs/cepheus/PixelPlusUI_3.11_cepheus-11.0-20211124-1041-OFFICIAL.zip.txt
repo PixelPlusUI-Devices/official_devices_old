@@ -1,0 +1,9 @@
+Overlay: enable screen off fod
+
+Important : FW in not included in this Build
+
+- Kernel:
+
+IRON KERNEL Upstreamed to 4.14.255
+
+Remove packages at build time : optimize ROM size
