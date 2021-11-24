@@ -96,8 +96,8 @@ Realme Narzo 10a (rmx2020) by Sarthak
 Realme Narzo 20 (RMX2193)  by Abhishek & Sarthak
 Realme Narzo 20 Pro (RMX2151) by Sauraj 
 Realme X (RMX1901) by Satham
-Realme X3 (RMX2081) by Nishant
-Realme X3 SuperZOOM (RMX2081) by Nishant
+Realme X3 (RMX2081) by Patriot
+Realme X3 SuperZOOM (RMX2081) by Patriot
 Realme XT (RMX1921) by Probir
 ```
 
