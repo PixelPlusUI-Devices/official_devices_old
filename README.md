@@ -77,6 +77,12 @@ Nokia 6.1 Plus (X6/DRG_sprout) by Saurav
 Lenovo Z5s (jd2019) by Husker
 ``` 
 
+## - Motorola Devices
+```bash
+Moto G5 Plus (potter) by Riyan
+``` 
+
+
 ## - Realme Devices
 ```bash
 Realme 3/3i (RMX1821) by Pritish  
