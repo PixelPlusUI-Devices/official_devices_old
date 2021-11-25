@@ -1,0 +1,4 @@
+Device Changelog:-
+Using Burntrice Kernel
+Merged November Patch
+Mice Changes And Fixes
