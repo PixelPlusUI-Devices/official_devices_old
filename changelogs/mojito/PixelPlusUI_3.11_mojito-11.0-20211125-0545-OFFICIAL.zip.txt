@@ -1,0 +1,8 @@
+Device Side-
+• Fix Loudspeaker Not Turning Off
+• Switched To 1440p Stock Bootanimation
+• Misc Fixes
+
+Kernel Side-
+• Upstreamed LegionX Kernel To 4.14.255
+
