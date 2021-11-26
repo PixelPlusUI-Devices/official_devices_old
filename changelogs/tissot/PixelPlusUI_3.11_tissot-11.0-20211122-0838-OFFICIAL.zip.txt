@@ -1,0 +1,5 @@
+Latest November Patch Merged
+CTS passes by default
+Removed Rounded corner in Gboard
+Improved Performance and Stability
+Misc changes and fixes
