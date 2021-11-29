@@ -1,0 +1,5 @@
+* Update FP to Raven November
+* Upstream kernel to v4.9.291
+* Enable zram-writeback job
+* Some minor improvemnts
+* Misc Changes and Fixes
