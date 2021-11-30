@@ -1,0 +1,3 @@
+• synced to latest ppui source.
+• dropped live wallpaper.
+• upstreamed kernel.
