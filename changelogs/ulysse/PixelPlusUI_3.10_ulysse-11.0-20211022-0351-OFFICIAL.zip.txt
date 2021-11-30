@@ -1,0 +1,4 @@
+* Update FP to Redfin October
+* Upstream kernel to v4.9.287
+* Some minor improvemnts
+* Misc Changes and Fixes

@@ -1,0 +1,9 @@
+Device Changelog:
+
+• Merged September security patch r48
+• Updated Redfin FP to October
+• Kernel Upstream to latest 4.9.287
+• Properly enable aosp dual sensor approach for proximity
+• Misc changes and Fixes
+
+Note: This is the [EOL] final build for Realme X from my side

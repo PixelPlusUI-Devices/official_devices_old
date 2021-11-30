@@ -1,0 +1,4 @@
+October Security Patch
+Switch Back to AOSP BT Stack
+Removed XiaomiParts
+Misc changes & fixes

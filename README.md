@@ -77,6 +77,12 @@ Nokia 6.1 Plus (X6/DRG_sprout) by Saurav
 Lenovo Z5s (jd2019) by Husker
 ``` 
 
+## - Motorola Devices
+```bash
+Moto G5 Plus (potter) by Riyan
+``` 
+
+
 ## - Realme Devices
 ```bash
 Realme 3/3i (RMX1821) by Pritish  
@@ -96,8 +102,8 @@ Realme Narzo 10a (rmx2020) by Sarthak
 Realme Narzo 20 (RMX2193)  by Abhishek & Sarthak
 Realme Narzo 20 Pro (RMX2151) by Sauraj 
 Realme X (RMX1901) by Satham
-Realme X3 (RMX2081) by Nishant
-Realme X3 SuperZOOM (RMX2081) by Nishant
+Realme X3 (RMX2081) by Patriot
+Realme X3 SuperZOOM (RMX2081) by Patriot
 Realme XT (RMX1921) by Probir
 ```
 
