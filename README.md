@@ -36,14 +36,14 @@ Redmi K30 (Phoenix) by Kunal
 Redmi K30 Pro (lmi) by ZiadFekry & Soumyo
 Redmi K30 Pro ZOOM (lmi) by ZiadFekry & Soumyo
 Redmi K30S Ultra (apollo) by Hamza
-Redmi K40 (alioth) by Soumyo
+Redmi K40 (alioth) by johnmart19
 ```
 
 ## - Xiaomi (Poco Series)
 ```bash
 Xiaomi Poco F1 (beryllium) by David
 Xiaomi Poco F2 Pro (lmi) by ZiadFekry & Soumyo
-Xiaomi Poco F3 (aliothon) by Soumyo
+Xiaomi Poco F3 (alioth) by johnmart19
 Xiaomi Poco M2 (shiva) by Zubair
 Xiaomi Poco M2 pro (Gram) by Tushar
 Xiaomi Poco M3 (juice) by John Paul
@@ -65,7 +65,7 @@ Xiaomi Mi 10i 5G (gauguininpro) by Yasin
 Xiaomi Mi 10T (apollo) by Hamza
 Xiaomi Mi 10T Pro (apollo) by Hamza
 Xiaomi Mi 10T Lite (gauguin_global) by Yasin
-Xiaomi Mi 11x (aliothin)  by Soumyo
+Xiaomi Mi 11x (aliothin) by johnmart19
 ```
 ## - Nokia Devices
 ```bash

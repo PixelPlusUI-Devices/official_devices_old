@@ -1,0 +1,6 @@
+• Initial A12 Official Release Build
+• Build Type: User Build
+• Selinux: Enforcing
+• Device Tree Cleaned up and have tons of Fixes For A12. Base Taken from Evolution X A12 Trees, with high amount of changes for stable work
+• Alioth Vendor took from clean base and Updated from Miui 12.5.5.0 Global Mi Stable
+• SM8250-common vendor Took from Potato Rom, huge thanks to @SahilSonar for his titanic work, Based on CAF TAG: LA.UM.9.12.r1-13300-SMxx50.QSSI12.0
