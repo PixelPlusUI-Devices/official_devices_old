@@ -1,0 +1,5 @@
+1 Initial A11 Official build
+2 November security patch
+3 Switched to Enforcing
+4 fixed laggish blur effect
+5 Flatten APEX for performance
