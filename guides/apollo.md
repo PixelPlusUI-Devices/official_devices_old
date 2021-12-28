@@ -9,8 +9,7 @@ Copy the Custom ROM & the Required Firmware to your internal storage
 • Also remove any lockscreen password or pin
 
 Reboot to TWRP Recovery
-• [TWRP v1.1 By Master](http://ci.sarihueza.com/0:/TWRP/TWRP_3.5.2_10-v1.1_By_Master.img)
-• [OrangeFox By Master](https://www.androidfilehost.com/?w=files&flid=327851)
+• [TWRP](https://t.me/Mi10TSeriesUpdates/392)
 
 
 Optional: Format data if you're coming from another Custom ROM or a ROM that encrypts your data.
@@ -26,7 +25,6 @@ Now just Reboot to system
 **--- Dirty Flash ---**
 Copy the Custom ROM
 Reboot to TWRP Recovery
-• LR Team or Whyle's
 
 Flash the copied Custom ROM
 • Flash the Required firmware linked in the update post
