@@ -1,0 +1,10 @@
+Initial Build
+December security Patch
+Enforcing Build 
+CTS passes by default
+Bankings apps are working fine
+Pure Perf kernel by default
+Added Xiaomi Parts
+Disable blur on app launch
+Disable VSync for CPU rendered apps
+
