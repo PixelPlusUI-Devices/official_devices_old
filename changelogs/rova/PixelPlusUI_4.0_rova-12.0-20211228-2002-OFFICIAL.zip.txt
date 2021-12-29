@@ -1,0 +1,8 @@
+enabled gl comp backpressure (to avoid jank due to HWC queue stuffing)
+enabled pre-rendering feature (pre-rendering feature can improve FPS and reduce the janks in scrolling cases)
+disbaled backpressure (backpressure is bad according to https://android.googlesource.com/platform/frameworks/native/+/c5da271)
+disabled sdm rotator downscaler (rotator down scaler was causing additional delays)
+disabled blur on app launch 
+dropped persistent reconnect (was causing random wifi drops)
+swtiched/reverted back to olive's libsdm-colour.so blob (night light issue fixed)
+and more underhood changes
