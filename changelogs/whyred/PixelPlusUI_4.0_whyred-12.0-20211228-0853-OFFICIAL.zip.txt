@@ -1,0 +1,5 @@
+Device Changelog:
+
+•Initial build
+•Enforcing
+•Switch to SkiaGL Threaded
