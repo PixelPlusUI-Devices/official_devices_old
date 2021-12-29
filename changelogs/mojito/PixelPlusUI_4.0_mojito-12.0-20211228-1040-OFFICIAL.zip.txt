@@ -1,0 +1,8 @@
+Changelog:
+-Initial A12 Build
+
+Notes:
+-Clean Flash
+-December security Patch
+-Enforcing Build 
+-CTS passes by default
