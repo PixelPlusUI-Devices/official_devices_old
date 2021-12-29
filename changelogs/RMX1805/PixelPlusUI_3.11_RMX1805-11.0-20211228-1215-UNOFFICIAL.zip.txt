@@ -1,0 +1,7 @@
+1 Initial Official build
+2 fixed laggish blur effect
+3 Flatten APEX for performance
+4 ADD IORap app launch for faster app launch
+5 Added GcamGo
+6 fixed laggish blur effect
+7 Enabled ZygotePreforking
