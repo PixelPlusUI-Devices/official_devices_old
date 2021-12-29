@@ -1,0 +1,30 @@
+• Android 12 Release 18 December Patch Update
+• Synced to latest Sources
+• Userbuild, Removed tons of spamming debugs from Source Side
+• Optimized ART Routines
+• Deeply optimized build underhood for best user experience
+
+Device Side:
+• Added Thermal Profiles (Battery - Thermal Profiles). Working via Mi_Thermald and setting special CPU & GPU freq according to Profile and Device Temperature
+• Updated Android HIDL Manager to Latest @1.2 version. 
+• Updated Hardware Accelerated Media C2 Codecs to latest @1.2 Version
+• Fixed delay on Fingerprint Unlock Animations
+• Compiled with latest Optimizations Flags, cortex-a76: armv8-2a-dotprod & armv8-2a
+• Source Built Audio HAL External, dropped prebuilt version.
+• Rootdir: Upstreamed to LA.UM.9.12.r1-13500.01-SMxx50.QSSI.12.0
+• Rootdir: Updated additional configs for correct UFS mode while system boot, cleaned Legacy RIL start
+• Disabled part of Sensors Debugging
+• Allowed to Use all known filesystems for USB-OTG
+• Removed Android Console startup
+• Fixed additional Denials
+
+Kernel:
+• Merge 4.19.221-stable
+• Merge Latest f2fs-stable branch
+• scripts/dtc: Update to mainline-latest v1.6.1-19-g0a3a9d3449c8
+• Disable binder, vidc, cfq, diag, irq debugging
+• mbcache: Speed up cache entry creation
+
+Known Bugs:
+• On Ambient Display (AOD) device is not going in Deep Sleep mode, recommended to disable AOD for now.
+• On Russian Translations in the end of list of thermal profiles, last app is going under device screen. (Bug not exist on English Version)
