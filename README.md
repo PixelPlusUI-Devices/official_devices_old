@@ -93,7 +93,7 @@ Realme 6/6i/6S (RMX2001/2002/2003) by SriBalaji
 Realme 2 Pro (RMX1801) by Abhishek
 Realme 3 Pro (RMX1851) by Nikhil
 Realme 5 Pro (RMX1971) by Adam
-Realme 6 Pro (RMX206X) by Destroyer V
+Realme 6 Pro (RMX206X) by Destroyer_V
 Realme 7 Pro (RMX2170) by Mayur 
 Realme C2 (RMX1941) by Abhishek & Sakthivel
 Realme C3/C3i (rmx2020) by Sarthak
