@@ -7,8 +7,3 @@ PixelPlusUI 4.0 Changelog:
 *Removed Moto Dolby 
 *Many more kernel side adaptation
 
-Credits:
-
-@sagarmakhar for trees and kernel 
-@pri_0818 for kernel improvements
-@abdu_alkateb and Me for testing
