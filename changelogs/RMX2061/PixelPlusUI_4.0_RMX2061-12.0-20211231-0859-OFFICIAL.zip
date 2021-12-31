@@ -1,0 +1,8 @@
+With Bifrost v4.0 kernel
+December Security Patch
+Better adaptation to 90hz
+Use power efficient work queues
+Removed Moto Dolby completely 
+SafetyNet passed with/without root
+Upstreamed to 4.14.259
+Added simple low memory killer
