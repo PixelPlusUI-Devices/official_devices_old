@@ -1,0 +1,8 @@
+PixelPlusUI 4.0 Changelog:
+
+*December SP
+*Bifrost v4 Kernel thanks to Priyanshu
+*Multiple Performance tweaks
+*Tuned vibration pattern
+*Removed Moto Dolby 
+*Many more kernel side adaptation
