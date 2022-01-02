@@ -1,0 +1,3 @@
+## Realme 3 Pro RMX1851 Android 12 Changelogs 
+
+- initial A12 build
