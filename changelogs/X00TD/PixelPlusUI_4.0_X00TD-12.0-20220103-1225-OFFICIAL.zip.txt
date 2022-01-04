@@ -1,0 +1,7 @@
+PixelPlusUI 4.0 Changelog:
+
+*December sp
+*Initial A12 build
+*Updated ZRAM configuration
+*Imported AdaptLaunch and some other perf
+*CTS passed by default
