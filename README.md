@@ -115,7 +115,7 @@ Meizu 16 TH (m1882) by Dogukan
 
 ## - Asus Devices
 ```bash
-Asus Zenfone Max Pro M1 (X00TD) by Pritish & Sarthak
+Asus Zenfone Max Pro M1 (X00TD) by Harshhaa
 ```
 
 # Maintainership 
