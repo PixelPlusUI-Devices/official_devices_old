@@ -1,0 +1,56 @@
+—————————
+PixelPlusUI 4.0 January 2022 Update Patch notes
+—————————
+
+Warning! Clean Installation is recommended to do not have any conflicts in system!
+
+—————————
+System Side
+—————————
+- Full rebase of most our repos to clean android-12.0.0_r26 tag
+- January Security patch
+- Opensource Audio: Picked cleanly on LA.UM.9.12.r1-13500.01-SMxx50.QSSI12.0 TAG
+- Added support of vendor.qti.hardware.audiohalext@1.0 
+- Huge optimizations of ART, Bionic, libcore for our Arm64 devices
+- Wi-Fi modules: Import minor performance optimizations for faster connection
+- Added toggle to turn off/on Auto Brightness in Status Bar
+- Frameworks/base and Settings:
+Full rebase with commits cleanup on android-12.0.0_r26 tag
+Also disabled huge amount of unnecessary debug stuffs
+Fixed notifications black screen crash (This bug still can be caused if watching full screen video and locking/unlocking device fast. In that case reboot device for SystemUI getting back to normal state)
+Fixed part of Ripple Animations
+- Much faster overall system response and animations processing
+- Added PowerUsage Feature by Google, now battery statistics might be more accurate
+- Apply latest Kryo 785 & 385 Optmiziations:
+- Kryo 785 for 64 bit Operations
+- Kryo 385 for our Cortex A55 small cores
+—————————
+
+—————————
+Device Side
+—————————
+- Clean Rebase of Device Trees
+- Rootdir Cleanup, Remove most of CAF boosts
+- Enable support of USB Audio
+- Added Refresh Rate Quick Settings toggle 
+- Updated Audio Supported sample rates
+- Remade QTI Haptics, Set all modes to High by default
+- Dropped Xiaomi TouchSensor modifications
+- Audio: Aligned to 0-3 core (Only small 1.8Ghz cores)
+- Imported updated Wi-Fi configs from Miui 13.0.2.0
+- Removed unsupported Audio configurations
+- Primary Audio output bumped to AUDIO_FORMAT_PCM_24_BIT_PACKED
+- Removed part of unneeded Rootdir inits for libraries
+- Disabled vsync for CPU rendered Apps
+- Updated manifests, with adding part of missing declarations
+- Build android.hardware.usb from sources
+- Dropped instances limits from inputs
+- Fixed Offline Charging animation (When phone is off, connecting to charger - showing Percentage and battery icon)
+- Build sound_trigger.primary.kona from sources
+- Dropped liba2dpoffload prebuilts (Now using source built BT audio offload)
+- Dropped duplicated OMX blobs from Device Vendor
+- Updated Hardware/qcom-caf CAF tags: 
+Media and Display: LA.UM.9.12.r1-13600-SMxx50.0
+Audio: Latest LA.UM.9.12.r1-13500.01-SMxx50.QSSI12.0
+- Kernel: Reset to 4.19.219 version, picked all changes without ALS updates.
+—————————
