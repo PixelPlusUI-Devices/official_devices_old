@@ -1,0 +1,24 @@
+—————————
+PixelPlusUI 4.1 January 2022 | Android 12 Release 27 | Update Patch notes
+—————————
+Source Side:
+—————————
+- Switch back to Our Pixel 6 Pro + Pixel 5 + Pixel XL hide with new A12 features
+- Updated Redfin and Raven to January fingerprints
+- Rebase of updated repos
+- Removed additional part of debug mess
+- Applied revert of boot animation related changes
+- PixelPropsUtils: Added Games support:
+  * Free Fire - Spoof Asus ROG Phone 1 will unlock 90 FPS
+  * COD Mobile - Spoof Xperia 5 || will unlock 120 FPS (only on multiplayer mode)
+  * PUBG Mobile - Spoof OnePlus 8 Pro will unlock 90 FPS
+  * Wild Rift - Spoof OnePlus 8 Pro will unlock 120 FPS
+  * Cyber Hunter - Spoof OnePlus 8 Pro will unlock 90 FPS
+  * Fortnite - Spoof OnePlus 8 Pro will unlock 90 FPS
+—————————
+Device Side:
+—————————
+- Rootdir: Cleanup Early_boot script
+- Rootdir: Enable 50% Zram Size
+- Rootdir: Enable Zram Optimizations
+—————————
