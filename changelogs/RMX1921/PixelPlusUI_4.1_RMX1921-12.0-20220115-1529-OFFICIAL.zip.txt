@@ -1,0 +1,39 @@
+Device Changelog  
+
+• Kernel built with latest Neutron-Clang 14
+
+• Updated Redfin's January fp
+
+• Uprev composer to 2.3
+
+• SafetyNet pass without root as usual
+
+• Many improvements & fixes!
+
+Source Changelog 
+
+- Full rebase of most our repos to clean android-12.0.0_r27 tag
+- January Security patch
+- Opensource Audio: Picked cleanly on LA.UM.9.12.r1-13500.01-SMxx50.QSSI12.0 TAG
+- Added support of vendor.qti.hardware.audiohalext@1.0 
+- Huge optimizations of ART, Bionic, libcore for our Arm64 devices
+- Wi-Fi modules: Import minor performance optimizations for faster connection
+- Added toggle to turn off/on Auto Brightness in Status Bar
+- Frameworks/base and Settings:
+Full rebase with commits cleanup on android-12.0.0_r27 tag
+- Disabled huge amount of unnecessary debug stuffs
+- Fixed notifications black screen crash (This bug still can be caused if watching full screen video and locking/unlocking device fast. In that case. reboot device for SystemUI getting back to normal state)
+- Fixed part of Ripple Animations
+- Much faster overall system response and animations processing
+- Added PowerUsage Feature by Google, now battery statistics might be more accurate
+- Updated Redfin and Raven to January fingerprints
+- Removed additional part of debuggings
+- Applied revert of boot animation related changes
+- PixelPropsUtils: Added Games support:
+  * Free Fire - Spoof Asus ROG Phone 1 will unlock 90 FPS
+  * COD Mobile - Spoof Xperia 5 || will unlock 120 FPS (only on multiplayer mode)
+  * PUBG Mobile - Spoof OnePlus 8 Pro will unlock 90 FPS
+  * Wild Rift - Spoof OnePlus 8 Pro will unlock 120 FPS
+  * Cyber Hunter - Spoof OnePlus 8 Pro will unlock 90 FPS
+  * Fortnite - Spoof OnePlus 8 Pro will unlock 90 FPS
+- Added Auto Brightness toggle in QuickSettings
