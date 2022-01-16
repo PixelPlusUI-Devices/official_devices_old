@@ -1,0 +1,9 @@
+PixelPlusUI 4.1 Changelog:
+
+*Jan sp
+*Switched to AOSP WFD
+*Improved audio
+*wifi: Enable 2.4GHz channel bonding
+*Some misc improvements
+*Added ZenPartsv2
+*CTS passed by default
