@@ -1,0 +1,8 @@
+PixelPlusUI 4.1 Device Changelog:
+
+* Initial Android 12 Build
+* Upstream kernel to 4.9.297
+* Switch to AOSP Lights AIDL
+* Merge tag "LA.UM.10.6.2.r1-00800-89xx.0" in kernel
+* Some minor improvemnts
+* Misc Changes and Fixes
