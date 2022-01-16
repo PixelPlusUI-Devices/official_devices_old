@@ -1,0 +1,8 @@
+• Switch to OSS Kernel
+• Fixed DRM L1
+• Fixed Google Camera
+• Disable animateScreenLights
+• Fixed DT2W you need to restart your phone for it to work
+• Updated to latest miui blobs
+• Improved Sensor Configs
+• Fixed CTS
