@@ -1,0 +1,9 @@
+Device Changelog:
+
+• Initial build
+• Added Youtube Vanced 
+• Added miuicam
+• Added Google unlimited photoes backup
+• Fix Statusbar Padding
+• Disable blur on app launch
+
