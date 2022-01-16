@@ -25,9 +25,9 @@ Redmi Note 8/8T (ginkgo/willow) by Erwin
 Redmi Note 8 Pro (begonia) by Zinadin 
 Redmi Note 9 (merlin) by Box Boi
 Redmi Note 9 4G china (juice) by John Paul
-Redmi Note 9S (curtana_global) by Tushar
-Redmi Note 9 Pro (curtana/joyeuse) by Tushar
-Redmi Note 9 Pro MAX (excalibur) by Tushar
+Redmi Note 9S (curtana_global) by Lop
+Redmi Note 9 Pro (curtana/joyeuse) by Lop
+Redmi Note 9 Pro MAX (excalibur) by Lop
 Redmi Note 9 Pro 5G  (gauguinpro) by Yasin
 Redmi Note 10 (mojito) by Arya
 Redmi Note 10 Pro (sweet) by Zaid
@@ -45,7 +45,7 @@ Xiaomi Poco F1 (beryllium) by David
 Xiaomi Poco F2 Pro (lmi) by ZiadFekry & Soumyo
 Xiaomi Poco F3 (alioth) by johnmart19
 Xiaomi Poco M2 (shiva) by Zubair
-Xiaomi Poco M2 pro (Gram) by Tushar
+Xiaomi Poco M2 pro (Gram) by Lop
 Xiaomi Poco M3 (juice) by John Paul
 Xiaomi Poco X2 (phoenix) by Kunal
 Xiaomi Poco X3  (surya) by Hazama
