@@ -1,0 +1,7 @@
+PixelPlusUI 4.1 Device Changelog:
+
+January Security Patched Merged
+Google Photos Unlimated Storage
+DragonSouL-ReBorn Kernel Included
+Brightness Slider Curve Fixed
+Max FPS Unlocked In Games
