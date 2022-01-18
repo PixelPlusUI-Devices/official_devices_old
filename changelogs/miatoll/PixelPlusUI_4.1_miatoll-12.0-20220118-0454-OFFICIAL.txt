@@ -1,0 +1,9 @@
+- jan security patch
+- Enforcing build
+- Safetynet passes by default
+- Bankings apps are working fine
+- Switched default kernel to Forza
+- Updated vendor security patch level
+- Updated media codecs
+- Tint issues fixed while using fb and insta
+- some minor fixes
