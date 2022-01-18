@@ -1,0 +1,10 @@
+Changelog:
+- Updated Brightness Overlay Values
+- Pulled WiFi Configs From Stock
+- Imnproved Ui Smoothness
+- Misc Changes And Fixes
+Notes:
+- Jan Security Patch
+- Enforcing Build
+- Safetynet Passes By Default
+- Tested (Flashing) Using OFOX Beta
