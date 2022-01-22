@@ -1,0 +1,3 @@
+Initial Build
+OnePlus Camera Included only for Photos | not Video 
+Note: Gcam is fully function. OP Camera is in testing phase
