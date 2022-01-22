@@ -1,0 +1,4 @@
+Upgraded Kernel
+Fixed LED notification bug
+Improved FP speed
+More device side Improvements
