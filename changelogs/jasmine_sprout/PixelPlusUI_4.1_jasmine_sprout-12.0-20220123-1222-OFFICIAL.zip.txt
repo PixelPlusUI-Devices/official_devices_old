@@ -1,0 +1,4 @@
+* initial build
+* Add youtube vanced bu default
+* fix lags
+* improve stability

@@ -55,7 +55,7 @@ Xiaomi Poco X3 Pro (vayu) by Christian
 ## - Xiaomi (Mi Series)
 ```bash
 Xiaomi Mi A1 (tissot) by Saurav
-Xiaomi Mi A2 (Jasmine_sprout) by Rahul
+Xiaomi Mi A2 (Jasmine_sprout) by Rishav
 Xiaomi Mi A3 (laurel_sprout) by H3M3L
 Xiaomi Mi 6X (wayne) by Christian
 Xiaomi Mi 8 (dipper) by Sena
