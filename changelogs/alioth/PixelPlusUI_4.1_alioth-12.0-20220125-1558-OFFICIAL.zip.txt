@@ -1,0 +1,62 @@
+Source Side:
+- Build Environment:
+Zero Compression for JAR Files, more faster work of system for Fast storage devices.
+Switch to ThinLTO optimizations for Rust.
+Clang uses more aggrecive inline for LTO compilations.
+Added and Enabled full kernel LTO and ThinLTO environment support with ld.ldd linker.
+Added fixes for llvm-readobj.
+- Override System fonts with user-selected overlays
+- Improved System animations speed
+- Redesinged Vibraion icon from Havoc-OS
+- Added rounded corners to activity open/close animation
+- Disabled safe volume everywhere, not just the US
+- Improved Scrolling Caches
+- Disabled FP lockouts, Wallpapers zoom
+- Deleted media tests audios and videos (unused)
+- Aapt improvements
+- Added usage of Last saved location for TwilightService, Removed dependency from location services.
+- Added StatusBar Items Customizations, with support to turn off items, including VPN (Settings - StatusBar Items)
+- Use smaller size of Location and Mic / Camera indications when in usage
+- Fixes for Ripple Animations with potential final fixes for Notifications black screen bug
+- Permissions history: Now system saves last 7 days permissions used by Apps
+- Updated PPUI Logo for Monet
+- Used Lottie animations for Screenshots
+- Added support of Wi-FI Display to Settings
+- Added support of low latency audio notifications
+- Settings: Added support for Click and Show detailed kernel information on Click (Will show compiler, Clang and LLD version and detailed info)
+- Improvements for faster and more proper work of system with overlays.
+- Added cache support for Fonts and Icon packs between reboots.
+- Settings: Updated all animations from Pixel 6 Pro
+- Additional fixes for detection and preventing NPE for system, Wi-FI and different environments, more stable and faster work
+- Fix of applying wallpaper only for LockScreen.
+- Additional SurfaceFlinger fixes, adaptations for Vsync for different Frequencies usage, 60hz usage should be more smooth now.
+- Media: Moved from 32 to 128 mStride buffer, additional fixes for Cameras support and C2 Codecs.
+- Calls right now will require low latency audio channels(Backend)
+- Higher resolution for mpeg4 codec: up to 1920x1920 (was 352x288 maximum)
+- Frameworks: Ringtones Refactor, also fixes for faster searching for mediafiles after deep sleep.
+- Fixes for rare crashes of NavigaionBar
+- Added support of Removal old system caches for dirty updates better support.
+- Given permissions for System apps for changing APN settings.
+- Disabled additional debuggings systemwide.
+- New Dark Mode Preview.
+- AOD Deep Sleep fix.
+
+Device Side:
+- Fix Clear Speaker
+- Additional Fixups for Wi-Fi connections
+- media: satisfied C2 Codecs
+- Added to build: android.hidl.memory.block@1.0 & android.hidl.manager@1.0 vendor variant
+- Improved Haptics
+- Fixed Netflix and DRM content
+- Added latest A12 permissions for VulkanAPI and OpenGL from 2021-03-01
+- Enable deleteAllKeys from vold
+- Faster reboot time
+- Upgrade audio.usb.default from v1 to v2
+- Fixed Type-C Audio, Analog and USB Headphones, all works as required.
+- Preoptimized SystemUI
+- Added android.hardware.drm@1.4-service.widevine
+- Replaced android.hardware.memtrack with AIDL
+- Enabled Gralloc ion sync 
+
+Kernel Side: 
+- Added support for Lyb Kernel Manager (Requires Root).
