@@ -1,0 +1,121 @@
+Device Changelog:
+- Added support of QTI BT stack and switch on it
+- Set higher priority on C2 Codecs vs OMX one
+- Enable QCRil power saving
+- Removed some logcat spams when BT Device connected
+- Updated Radio props
+- Disabled CDMA and World Phone bools (Cleaned up choose network type in settings)
+- Build more media C2 Codecs dependencies
+- Label DRM 1.4 Sepolicy
+- Add vendor version of media C2 Codecs version 1.2
+- Enabled  CameraAPI V2 for Snap Camera
+- Provide  android.frameworks.sencorservice to vendor
+- Address and fix a lot of Selinux denials
+- Added Android 12 Touch feature compilation
+- Fixed Wi-Fi enable and connection time
+- Update RIL and IPA blobs
+- Declare missing RIL blobs in manifests, now mobile networks may work faster and more stable
+- Removed LED declaration from trees, as our device does not have one
+- Enabled QuickTap support
+- Updated notch overlays from gourami
+- Display correct charging speed
+- Added force 120hz mode for low brightness , now screen colours may be more correct
+- Added more correct night light colours
+- Qcom-caf: Display, media and audio drivers updated to LA.UM.9.12.r1-13800-SMxx50.0
+
+Kernel side:
+- New backports from Mainline for sorting, CPU features and Atomics, work of device might be faster
+
+PixelPlusUI V4.2 Release Changelog:
+- Merged Android 12 Release 29 to system and LA.QSSI.12.0.r1-06100-qssi.0 to QTI Bluetooth
+- Introducing our New OTA Updater
+- Added support of QTI BT Stack
+- Screen Recorder: Add blinikng stop Dot, Add low quality options, Add option for long recorders (Up to 15GiB)
+- Added support of VPN Hotspot
+- Added support for Per Audio volume control
+- A lot of various system improvements
+- Add options to Randomize Wi-Fi MAC adress
+- Wifi: Add support for always generating new random MAC
+- Add Settings title in Settings app
+- Added LTE Only Support
+- Added support for Wi-Fi & Bluetooth timeout 
+- Reverted Power Button environment to A11 state
+- Enabled App Compaction by default
+- Disable assistant on Long power button Press
+- Allowed usage of backup tools for MultiUsers
+- Bionic: Added important fix for bionic_systrace from Android-Mainline 
+- Also imported important changes for Frameworks/base from Mainline
+- Imported updated Zlib-NG & Jemalloc-new from ProtonAOSP
+- Updated Arm-Optimized-Routines to v21.02
+- Updated SettingsIntelligence styles
+- Bionic: Updated libm to latest version
+- Memory: Added smart idle maintenance mode
+- Reverted back to old fonts
+- Sepolicy: Updated to LA.QSSI.12.0.r1-06100-qssi.0 and System Sepolicy updates from PE
+- Added support of Repainter by Kdragon
+- Additional Removal of various debuggings
+- Added NFC tile
+- Added CPU Info Overlay & QS Tile
+- Added FPS Info Overlay & QS Tile
+- Allowed GPU usage for camera apps
+- Backport 'Add ability to disable GL draws' from Android T (Needs for unit tests)
+- Always default to 1.9 for host java modules in Android.mk files 
+- Added upload crash logs to crDroid pasty
+- Partly Updated System mediacodecs from Android T & Mainline
+- Added support of Volte and VoWiFi icons in system
+- Fixes for showing correct size of storage
+- Services: fonts: use a simple sha512 hash based file verification system 
+- Use flow layout for advanced power menu
+- Updated data-ipa-cfg-mgr and dataservices
+- Added support of Android 12 Xiaomi TouchFeature
+- SystemUI: Removed power menu shadow 
+- Disabled Deep Press touch video heatmaps
+- Additional ART fixes & ashmem fixes in system/core
+- Settings: Disable Bugreport settings
+- Added support of notification log history
+- Enabled Quick Wallet settings for all devices with NFC 
+- Added Bluetooth panel 
+- Aligned user avatar with homepage title
+- vold: Build exfatprogs & declare support of exFAT.
+- Fingerprint scanner location: Use location from resources - Now devices can declare position correctly
+- Reverted "fpc: keep fpc in system-background", now delay of FP scanner might be much less.
+- Build Environment:
+Zero Compression for JAR Files, more faster work of system for Fast storage devices.
+Switch to ThinLTO optimizations for Rust.
+Clang uses more aggrecive inline for LTO compilations.
+Added and Enabled full kernel LTO and ThinLTO environment support with ld.ldd linker.
+Added fixes for llvm-readobj.
+- Improved System animations speed
+- Redesinged Vibraion icon from Havoc-OS
+- Added rounded corners to activity open/close animation
+- Disabled safe volume everywhere, not just the US
+- Improved Scrolling Caches
+- Disabled FP lockouts, Wallpapers zoom
+- Deleted media tests audios and videos (unused)
+- Aapt improvements
+- Added usage of Last saved location for TwilightService, Removed dependency from location services.
+- Added StatusBar Items Customizations, with support to turn off items, including VPN (Settings - StatusBar Items)
+- Use smaller size of Location and Mic / Camera indications when in usage
+- Fixes for Ripple Animations with potential final fixes for Notifications black screen bug
+- Permissions history: Now system saves last 7 days permissions used by Apps
+- Updated PPUI Logo for Monet
+- Used Lottie animations for Screenshots
+- Added support of Wi-FI Display to Settings
+- Added support of low latency audio notifications
+- Settings: Added support for Click and Show detailed kernel information on Click (Will show compiler, Clang and LLD version and detailed info)
+- Improvements for faster and more proper work of system with overlays.
+- Added cache support for Fonts and Icon packs between reboots.
+- Settings: Updated all animations from Pixel 6 Pro
+- Additional fixes for detection and preventing NPE for system, Wi-FI and different environments, more stable and faster work
+- Fix of applying wallpaper only for LockScreen.
+- Additional SurfaceFlinger fixes, adaptations for Vsync for different Frequencies usage, 60hz usage should be more smooth now.
+- Media: Moved from 32 to 128 mStride buffer, additional fixes for Cameras support and C2 Codecs.
+- Calls right now will require low latency audio channels(Backend)
+- Higher resolution for mpeg4 codec: up to 1920x1920 (was 352x288 maximum)
+- Frameworks: Ringtones Refactor, also fixes for faster searching for mediafiles after deep sleep.
+- Fixes for rare crashes of NavigaionBar
+- Added support of Removal old system caches for dirty updates better support.
+- Given permissions for System apps for changing APN settings.
+- Disabled additional debuggings systemwide.
+- New Dark Mode Preview.
+- AOD Deep Sleep fix.
