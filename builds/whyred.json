@@ -1,10 +1,17 @@
 {
-   "datetime": 1642261320,
+   "oem": "Xiaomi",
+   "maintainer": "Rishav",
+   "device": "Redmi note 5 pro",
+   "datetime": 1645087500,
    "error": false,
-   "size": 1447872249,
-   "filehash": 
-   "id": "6c89cbd0df082e52ffce74dd08773410419a622f3b83b32752f3402a638ab062",
-   "filenam": "PixelPlusUI_4.1_whyred-12.0-20220115-1542-OFFICIAL.zip",
-   "url": "https://sourceforge.net/projects/rishav1892/files/Whyred/PixelPlusUi/PixelPlusUI_4.1_whyred-12.0-20220115-1542-OFFICIAL.zip/download",
+   "size": 1459642765,
+   "md5": "f0bd8eb8720d385411fe505b850106cb",
+   "sha256": "fdbad61319259ef1d647dc8dc30d2ee137a4798c130967e048c297a38f2ae653",
+   "filenam": "PixelPlusUI_4.2_whyred-12.0-20220217-0845-OFFICIAL.zip",
+   "url": "https://ppui.sidgdrive.workers.dev/0:/PixelPlusUI_4.2_whyred-12.0-20220217-0845-OFFICIAL.zip",
    "version": "twelve"
+   
+   "buildtype": "Monthly",
+   "telegram": "https://t.me/ppui_whyred",
 }
+
