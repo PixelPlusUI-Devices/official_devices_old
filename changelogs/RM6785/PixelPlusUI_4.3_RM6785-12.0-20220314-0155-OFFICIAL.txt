@@ -1,0 +1,12 @@
+==== 14th March, 2022 ====
+• February Security Patch
+• Passes SafetyNet out-of-the-box
+• Use GcamGo as default
+• Fixed screen flicker
+• Fixed charging info on lockscreen
+• Fixed native screen recorder
+• Fixed offline charging
+• Miscellaneous changes
+• Fixed DRM Widevine L1
+• Upstreamed kernel to 4.14.266
+• Added F2FS support for userdata partition
